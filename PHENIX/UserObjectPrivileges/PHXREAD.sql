@@ -1,3 +1,4 @@
+GRANT SELECT ON phenix.aallotest TO phxread;
 GRANT SELECT ON phenix.account_statement_details TO phxread;
 GRANT SELECT ON phenix.account_statement_headers TO phxread;
 GRANT SELECT ON phenix.account_statements TO phxread;
