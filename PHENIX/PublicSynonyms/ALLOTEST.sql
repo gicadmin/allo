@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM allotest FOR phenix.allotest;
