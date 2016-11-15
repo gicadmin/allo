@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pgsphx_functions_pack FOR phenix.pgsphx_functions_pack;

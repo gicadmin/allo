@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pfc_operation_pack FOR phenix.pfc_operation_pack;

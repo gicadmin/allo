@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vbh_use_fk_i ON phenix.vendor_billing_headers(vbh_use_code);

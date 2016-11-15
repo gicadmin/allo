@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM warehouse_operation_days FOR phenix.warehouse_operation_days;

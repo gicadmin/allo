@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tbo_cus_fk_i ON phenix.tote_box_transactions(tbo_cus_code);

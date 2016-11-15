@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_tendance_profits FOR phenix.temporary_tendance_profits;

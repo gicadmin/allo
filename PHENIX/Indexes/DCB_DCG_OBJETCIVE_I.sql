@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dcb_dcg_objetcive_i ON phenix.delivery_charge_brackets(dcb_dcg_code,dcb_lower_objective_bracket,dcb_upper_objective_bracket);

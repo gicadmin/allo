@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tender_types FOR phenix.tender_types;

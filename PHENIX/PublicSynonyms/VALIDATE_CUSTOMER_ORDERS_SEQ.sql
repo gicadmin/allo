@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM validate_customer_orders_seq FOR phenix.validate_customer_orders_seq;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM indirect_billing_line_charges FOR phenix.indirect_billing_line_charges;

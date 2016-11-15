@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dcs_cus_code_fk_i ON phenix.drop_customer_surcharges(dcs_cus_code);

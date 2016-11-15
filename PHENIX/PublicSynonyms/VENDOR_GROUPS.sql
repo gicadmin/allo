@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_groups FOR phenix.vendor_groups;

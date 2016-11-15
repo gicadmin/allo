@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pms_pack FOR phenix.pms_pack;

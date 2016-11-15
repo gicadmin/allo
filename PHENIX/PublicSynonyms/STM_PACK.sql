@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stm_pack FOR phenix.stm_pack;

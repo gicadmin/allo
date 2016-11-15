@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ict_dmr_fk_i ON phenix.inventory_count_transactions(ict_dmr_code);

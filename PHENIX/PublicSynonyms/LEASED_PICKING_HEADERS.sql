@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM leased_picking_headers FOR phenix.leased_picking_headers;

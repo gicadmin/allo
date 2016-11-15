@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lau526_transaction_by_lot FOR phenix.lau526_transaction_by_lot;

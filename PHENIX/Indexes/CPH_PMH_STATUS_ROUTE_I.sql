@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cph_pmh_status_route_i ON phenix.console_pick_headers(cph_pmh_status,cph_pmh_route_date);

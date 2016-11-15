@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pwpu_pack FOR phenix.pwpu_pack;

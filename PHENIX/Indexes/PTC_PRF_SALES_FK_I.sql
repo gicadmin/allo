@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ptc_prf_sales_fk_i ON phenix.product_tracking_categories(ptc_prf_prd_sales_code,ptc_prf_fmt_sales_code);

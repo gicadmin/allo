@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM suggested_retail_price_types FOR phenix.suggested_retail_price_types;

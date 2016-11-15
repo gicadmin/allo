@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_product_stats_summaries FOR phenix.temp_product_stats_summaries;

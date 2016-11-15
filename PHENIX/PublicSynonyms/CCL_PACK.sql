@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ccl_pack FOR phenix.ccl_pack;

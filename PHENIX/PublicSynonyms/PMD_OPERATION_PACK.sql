@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pmd_operation_pack FOR phenix.pmd_operation_pack;

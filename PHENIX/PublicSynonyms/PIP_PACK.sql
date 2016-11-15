@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pip_pack FOR phenix.pip_pack;

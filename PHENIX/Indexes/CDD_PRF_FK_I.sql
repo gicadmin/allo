@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cdd_prf_fk_i ON phenix.customer_drop_details(cdd_prf_prd_code,cdd_prf_fmt_code);

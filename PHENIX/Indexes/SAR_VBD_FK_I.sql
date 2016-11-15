@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sar_vbd_fk_i ON phenix.sales_agreement_reclaims(sar_vbd_id);

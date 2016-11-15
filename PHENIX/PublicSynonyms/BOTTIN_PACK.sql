@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM bottin_pack FOR phenix.bottin_pack;

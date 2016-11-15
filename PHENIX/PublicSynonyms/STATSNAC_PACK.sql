@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM statsnac_pack FOR phenix.statsnac_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM quotation_types FOR phenix.quotation_types;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM inventory_movements FOR phenix.inventory_movements;

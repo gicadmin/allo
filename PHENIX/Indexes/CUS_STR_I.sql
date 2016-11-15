@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_str_i ON phenix.customers(cus_str_code);

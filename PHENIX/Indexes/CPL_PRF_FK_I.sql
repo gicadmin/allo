@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpl_prf_fk_i ON phenix.customer_price_lists(cpl_prf_prd_code,cpl_prf_fmt_code);

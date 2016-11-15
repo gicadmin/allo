@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fcg_operation_pack FOR phenix.fcg_operation_pack;

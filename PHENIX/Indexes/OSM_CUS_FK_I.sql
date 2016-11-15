@@ -1,0 +1,1 @@
+CREATE INDEX phenix.osm_cus_fk_i ON phenix.outstanding_missions(osm_cus_code);

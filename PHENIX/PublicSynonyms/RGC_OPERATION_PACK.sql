@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rgc_operation_pack FOR phenix.rgc_operation_pack;

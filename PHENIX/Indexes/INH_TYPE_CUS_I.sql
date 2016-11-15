@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inh_type_cus_i ON phenix.invoice_headers(inh_type,inh_cus_code);

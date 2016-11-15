@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pwid_pwpd_fk_i ON phenix.public_whse_identifiers(pwid_pwpd_id);

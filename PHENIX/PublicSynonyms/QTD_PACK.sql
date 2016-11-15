@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM qtd_pack FOR phenix.qtd_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM purchasing_groups FOR phenix.purchasing_groups;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ebc_pack FOR phenix.ebc_pack;

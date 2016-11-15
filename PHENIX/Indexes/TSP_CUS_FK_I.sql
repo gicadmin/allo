@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tsp_cus_fk_i ON phenix.temporary_sales_products(tsp_cus_code);

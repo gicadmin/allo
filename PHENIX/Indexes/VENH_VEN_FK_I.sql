@@ -1,0 +1,1 @@
+CREATE INDEX phenix.venh_ven_fk_i ON phenix.vendor_histories(venh_ven_code);

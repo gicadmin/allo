@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cor_seq FOR phenix.cor_seq;

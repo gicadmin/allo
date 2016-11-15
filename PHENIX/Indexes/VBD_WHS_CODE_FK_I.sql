@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vbd_whs_code_fk_i ON phenix.vendor_billing_details(vbd_whs_code);

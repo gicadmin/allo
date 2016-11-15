@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dpa_pack FOR phenix.dpa_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM twd_pack FOR phenix.twd_pack;

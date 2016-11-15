@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pty_show_switch_i ON phenix.promotion_types(pty_show_switch);

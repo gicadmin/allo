@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM profit_pack FOR phenix.profit_pack;

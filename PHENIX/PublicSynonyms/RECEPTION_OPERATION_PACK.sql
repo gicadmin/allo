@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM reception_operation_pack FOR phenix.reception_operation_pack;

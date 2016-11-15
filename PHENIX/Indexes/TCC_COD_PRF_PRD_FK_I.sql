@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tcc_cod_prf_prd_fk_i ON phenix.temporary_caps_cods(tcc_cod_prf_prd_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_picking_pack FOR phenix.wms_picking_pack;

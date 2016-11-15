@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM jre_pack FOR phenix.jre_pack;

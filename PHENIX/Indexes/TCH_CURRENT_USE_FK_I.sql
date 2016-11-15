@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tch_current_use_fk_i ON phenix.temporary_caps_headers(tch_current_use_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rra_whs_fk_i ON phenix.release_and_retain_audits(rra_whs_code);

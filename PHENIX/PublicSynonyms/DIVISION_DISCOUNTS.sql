@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM division_discounts FOR phenix.division_discounts;

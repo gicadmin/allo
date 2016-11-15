@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM drop_order_pack FOR phenix.drop_order_pack;

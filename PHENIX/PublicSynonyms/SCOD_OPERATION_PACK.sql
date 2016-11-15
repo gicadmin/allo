@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scod_operation_pack FOR phenix.scod_operation_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM outstanding_inventory_counts FOR phenix.outstanding_inventory_counts;

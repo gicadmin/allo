@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nac_pack FOR phenix.nac_pack;

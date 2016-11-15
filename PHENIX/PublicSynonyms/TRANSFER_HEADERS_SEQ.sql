@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transfer_headers_seq FOR phenix.transfer_headers_seq;

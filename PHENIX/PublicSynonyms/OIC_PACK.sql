@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM oic_pack FOR phenix.oic_pack;

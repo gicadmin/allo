@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dock_sharing_codes FOR phenix.dock_sharing_codes;

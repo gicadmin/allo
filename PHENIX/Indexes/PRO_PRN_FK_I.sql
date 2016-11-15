@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pro_prn_fk_i ON phenix.programs(pro_prn_id);

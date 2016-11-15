@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pgp_pug_fk_i ON phenix.purchasing_group_products(pgp_pug_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM positioning_fam_loc_seq FOR phenix.positioning_fam_loc_seq;

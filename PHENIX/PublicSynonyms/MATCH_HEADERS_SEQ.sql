@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM match_headers_seq FOR phenix.match_headers_seq;

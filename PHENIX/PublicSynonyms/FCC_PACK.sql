@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fcc_pack FOR phenix.fcc_pack;

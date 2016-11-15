@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ctr_prv_fk_i ON phenix.control(ctr_prv_code);

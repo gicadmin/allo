@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pdi_rebill_switch_i ON phenix.purchase_order_discounts(pdi_rebill_switch);

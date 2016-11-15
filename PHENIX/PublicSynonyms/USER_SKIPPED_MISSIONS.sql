@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_skipped_missions FOR phenix.user_skipped_missions;

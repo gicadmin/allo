@@ -1,0 +1,1 @@
+CREATE INDEX phenix.spr_fmt_fk_i ON phenix.show_products(spr_fmt_code);

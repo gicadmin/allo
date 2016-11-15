@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_pick_headers FOR phenix.vendor_pick_headers;

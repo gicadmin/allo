@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rch_pack FOR phenix.rch_pack;

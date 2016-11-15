@@ -1,0 +1,1 @@
+CREATE INDEX phenix.loh_message_i ON phenix.log_headers(loh_message);

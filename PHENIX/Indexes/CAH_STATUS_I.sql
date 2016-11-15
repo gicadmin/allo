@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cah_status_i ON phenix.customer_adjustment_headers(cah_status);

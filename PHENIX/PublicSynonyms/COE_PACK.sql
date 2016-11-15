@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM coe_pack FOR phenix.coe_pack;

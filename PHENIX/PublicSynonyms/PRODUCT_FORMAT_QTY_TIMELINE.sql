@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_format_qty_timeline FOR phenix.product_format_qty_timeline;

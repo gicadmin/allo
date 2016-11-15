@@ -1,0 +1,1 @@
+CREATE INDEX phenix.wcs_fcw_fk_i ON phenix.weekly_customer_stats(wcs_fcw_fca_year,wcs_fcw_fca_period,wcs_fcw_week);

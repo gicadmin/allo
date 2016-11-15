@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cro_operation_pack FOR phenix.cro_operation_pack;

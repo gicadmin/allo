@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM srw_paramlist FOR phenix.srw_paramlist;

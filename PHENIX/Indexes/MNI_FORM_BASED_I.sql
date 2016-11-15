@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mni_form_based_i ON phenix.menu_items(mni_form_based_option_switch);

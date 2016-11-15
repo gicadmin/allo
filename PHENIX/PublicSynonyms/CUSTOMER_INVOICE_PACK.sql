@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_invoice_pack FOR phenix.customer_invoice_pack;

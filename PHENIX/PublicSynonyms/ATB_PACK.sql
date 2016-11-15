@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM atb_pack FOR phenix.atb_pack;

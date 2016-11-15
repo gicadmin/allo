@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vpc_operation_pack FOR phenix.vpc_operation_pack;

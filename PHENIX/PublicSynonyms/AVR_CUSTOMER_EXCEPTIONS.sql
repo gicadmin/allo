@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM avr_customer_exceptions FOR phenix.avr_customer_exceptions;

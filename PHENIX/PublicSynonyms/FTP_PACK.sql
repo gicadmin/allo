@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ftp_pack FOR phenix.ftp_pack;

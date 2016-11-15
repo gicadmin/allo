@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inh_rct_fk_i ON phenix.invoice_headers(inh_rct_code);

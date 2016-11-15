@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rcd_pack FOR phenix.rcd_pack;

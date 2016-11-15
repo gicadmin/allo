@@ -1,0 +1,1 @@
+CREATE INDEX phenix.stw_whs_fk_i ON phenix.stats_tracking_warehouses(stw_whs_code);

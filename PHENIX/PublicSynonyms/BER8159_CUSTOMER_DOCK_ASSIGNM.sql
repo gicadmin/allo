@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ber8159_customer_dock_assignm FOR phenix.ber8159_customer_dock_assignm;

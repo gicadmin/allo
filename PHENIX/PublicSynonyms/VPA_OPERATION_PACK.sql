@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vpa_operation_pack FOR phenix.vpa_operation_pack;

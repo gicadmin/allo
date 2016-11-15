@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_rap_purchase_and_sales FOR phenix.temp_rap_purchase_and_sales;

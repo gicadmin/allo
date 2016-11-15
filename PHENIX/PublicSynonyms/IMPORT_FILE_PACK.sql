@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM import_file_pack FOR phenix.import_file_pack;

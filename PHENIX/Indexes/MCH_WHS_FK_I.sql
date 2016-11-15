@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mch_whs_fk_i ON phenix.miscellaneous_charge_headers(mch_whs_code);

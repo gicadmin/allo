@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rgc_cdk_fk_i ON phenix.route_grouping_codes(rgc_cdk_code);

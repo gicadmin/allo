@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sha_date_i ON phenix.shipment_audits(sha_date);

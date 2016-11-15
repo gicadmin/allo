@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vbh_status_i ON phenix.vendor_billing_headers(vbh_status);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_vendor_benefits FOR phenix.temporary_vendor_benefits;

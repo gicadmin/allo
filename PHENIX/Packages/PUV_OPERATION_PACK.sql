@@ -1,0 +1,9 @@
+CREATE OR REPLACE PACKAGE phenix.PUV_OPERATION_PACK AS
+
+FUNCTION DELETE_FUNC(
+  p_puv_pus_id IN pci_user_vendors.puv_pus_id%TYPE
+)
+RETURN NUMBER;
+
+END PUV_OPERATION_PACK;
+/

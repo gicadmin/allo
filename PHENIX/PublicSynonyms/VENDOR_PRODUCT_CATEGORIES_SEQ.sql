@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_product_categories_seq FOR phenix.vendor_product_categories_seq;

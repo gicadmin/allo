@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stat_rbh_pack FOR phenix.stat_rbh_pack;

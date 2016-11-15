@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ptc_operation_pack FOR phenix.ptc_operation_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cgr_operation_pack FOR phenix.cgr_operation_pack;

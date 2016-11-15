@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM system_project_param_types_seq FOR phenix.system_project_param_types_seq;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM trt_pack FOR phenix.trt_pack;

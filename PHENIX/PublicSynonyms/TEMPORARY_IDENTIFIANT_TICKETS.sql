@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_identifiant_tickets FOR phenix.temporary_identifiant_tickets;

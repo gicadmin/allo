@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_pfa_base_sdb FOR phenix.v_pfa_base_sdb;

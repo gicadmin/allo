@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cud_group_pgr_fmt_code_i ON phenix.customer_discounts(cud_group_pgr_code,cud_group_fmt_code);

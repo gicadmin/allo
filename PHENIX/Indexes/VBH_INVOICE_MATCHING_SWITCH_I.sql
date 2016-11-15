@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vbh_invoice_matching_switch_i ON phenix.vendor_billing_headers(vbh_invoice_matching_switch);

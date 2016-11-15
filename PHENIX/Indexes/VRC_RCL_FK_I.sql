@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vrc_rcl_fk_i ON phenix.vendor_rcl_exclusions(vrc_rcl_id);

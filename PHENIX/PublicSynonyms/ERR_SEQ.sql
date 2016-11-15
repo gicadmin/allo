@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM err_seq FOR phenix.err_seq;

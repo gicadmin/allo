@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pco_use_completion_code_fk_i ON phenix.pallet_consolidations(pco_use_completion_code);

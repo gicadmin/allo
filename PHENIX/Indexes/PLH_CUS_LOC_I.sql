@@ -1,0 +1,1 @@
+CREATE INDEX phenix.plh_cus_loc_i ON phenix.pick_list_headers(plh_cus_code,plh_loc_shipping_dock_code);

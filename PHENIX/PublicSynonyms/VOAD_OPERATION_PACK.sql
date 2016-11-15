@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM voad_operation_pack FOR phenix.voad_operation_pack;

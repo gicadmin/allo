@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pxc_fmt_fk_i ON phenix.product_xref_codes(pxc_fmt_code);

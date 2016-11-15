@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dock_change_audit FOR phenix.dock_change_audit;

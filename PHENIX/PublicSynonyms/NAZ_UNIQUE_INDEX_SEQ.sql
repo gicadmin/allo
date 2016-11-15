@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM naz_unique_index_seq FOR phenix.naz_unique_index_seq;

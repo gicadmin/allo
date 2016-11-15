@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sales_interface_pack FOR phenix.sales_interface_pack;

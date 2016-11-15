@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_freegood_invoicing_pack FOR phenix.vendor_freegood_invoicing_pack;

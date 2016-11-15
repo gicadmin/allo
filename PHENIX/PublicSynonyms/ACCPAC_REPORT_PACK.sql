@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM accpac_report_pack FOR phenix.accpac_report_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rtd_operation_pack FOR phenix.rtd_operation_pack;

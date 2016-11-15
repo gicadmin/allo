@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tec_operation_pack FOR phenix.tec_operation_pack;

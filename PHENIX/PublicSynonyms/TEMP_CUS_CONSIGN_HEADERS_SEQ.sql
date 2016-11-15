@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_cus_consign_headers_seq FOR phenix.temp_cus_consign_headers_seq;

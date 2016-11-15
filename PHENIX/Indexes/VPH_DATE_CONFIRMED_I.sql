@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vph_date_confirmed_i ON phenix.vendor_pick_headers(vph_date_confirmed);

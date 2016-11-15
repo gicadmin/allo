@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM accpac_select_pack FOR phenix.accpac_select_pack;

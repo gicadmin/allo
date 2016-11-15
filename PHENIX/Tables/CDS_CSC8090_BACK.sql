@@ -1,0 +1,21 @@
+CREATE TABLE phenix.cds_csc8090_back (
+  cds_vds_id NUMBER(15) NOT NULL,
+  cds_cus_code NUMBER(10) NOT NULL,
+  cds_reference_number VARCHAR2(15 BYTE) NOT NULL,
+  cds_cost_amount NUMBER(10,2) NOT NULL,
+  cds_credit_switch NUMBER(1) NOT NULL,
+  cds_ap_federal_tax NUMBER(10,2) NOT NULL,
+  cds_ap_provincial_tax NUMBER(10,2) NOT NULL,
+  cds_tobacco_tax NUMBER(10,2) NOT NULL,
+  cds_inh_id NUMBER(15),
+  cds_reference_date DATE,
+  cds_sales_amount NUMBER(10,2) NOT NULL,
+  cds_ap_discount_amount NUMBER(10,2) NOT NULL,
+  cds_ar_discount_amount NUMBER(10,2) NOT NULL,
+  cds_ar_federal_tax NUMBER(10,2) NOT NULL,
+  cds_ar_provincial_tax NUMBER(10,2) NOT NULL,
+  cds_rcl_id NUMBER(6),
+  cds_cigar_tax NUMBER(10,2) NOT NULL,
+  cds_retail_client_inh_id NUMBER(15),
+  cds_vta_rebate_percent_used NUMBER(6,3)
+);

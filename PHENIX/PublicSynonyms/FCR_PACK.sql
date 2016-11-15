@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fcr_pack FOR phenix.fcr_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM report_analyze_profit_pack FOR phenix.report_analyze_profit_pack;

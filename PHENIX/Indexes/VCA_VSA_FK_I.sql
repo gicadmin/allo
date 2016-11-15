@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vca_vsa_fk_i ON phenix.vendor_customer_agreements(vca_vsa_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cma_prf_fk_i ON phenix.container_movement_audits(cma_prf_prd_code,cma_prf_fmt_code);

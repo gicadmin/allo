@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pfq_audit FOR phenix.pfq_audit;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pmw_operation_pack FOR phenix.pmw_operation_pack;

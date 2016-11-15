@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM inh_qtab FOR phenix.inh_qtab;

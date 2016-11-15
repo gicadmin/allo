@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sha_ven_fk_i ON phenix.shipment_audits(sha_ven_code);

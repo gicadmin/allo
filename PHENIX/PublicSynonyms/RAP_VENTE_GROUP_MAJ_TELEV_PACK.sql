@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_vente_group_maj_telev_pack FOR phenix.rap_vente_group_maj_telev_pack;

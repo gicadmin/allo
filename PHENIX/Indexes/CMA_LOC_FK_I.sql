@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cma_loc_fk_i ON phenix.container_movement_audits(cma_loc_code);

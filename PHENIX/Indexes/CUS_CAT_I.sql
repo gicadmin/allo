@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_cat_i ON phenix.customers(cus_cat_code);

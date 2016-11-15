@@ -1,0 +1,1 @@
+CREATE INDEX phenix.trd_rou_fk_i ON phenix.temporary_route_dates(trd_rou_code);

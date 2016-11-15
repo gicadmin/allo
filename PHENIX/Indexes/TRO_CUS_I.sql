@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tro_cus_i ON phenix.temporary_routes(tro_cus_code);

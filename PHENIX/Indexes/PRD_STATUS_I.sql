@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_status_i ON phenix.products(prd_status);

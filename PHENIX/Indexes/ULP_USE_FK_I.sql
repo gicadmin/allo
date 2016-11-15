@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ulp_use_fk_i ON phenix.user_last_passwords(ulp_use_code);

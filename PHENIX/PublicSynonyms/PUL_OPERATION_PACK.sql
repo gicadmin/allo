@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pul_operation_pack FOR phenix.pul_operation_pack;

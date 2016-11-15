@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tpc_completion_code_i ON phenix.temporary_pc_file(tpc_completion_code);

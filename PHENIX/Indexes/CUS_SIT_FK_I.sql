@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_sit_fk_i ON phenix.customers(cus_sit_code);

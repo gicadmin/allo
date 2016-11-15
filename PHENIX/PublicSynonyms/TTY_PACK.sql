@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tty_pack FOR phenix.tty_pack;

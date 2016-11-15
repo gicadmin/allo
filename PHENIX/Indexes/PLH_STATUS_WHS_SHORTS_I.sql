@@ -1,0 +1,1 @@
+CREATE INDEX phenix.plh_status_whs_shorts_i ON phenix.pick_list_headers(plh_status,plh_whs_picking_code,plh_shorts_checked_switch);

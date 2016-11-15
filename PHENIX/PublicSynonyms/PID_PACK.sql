@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pid_pack FOR phenix.pid_pack;

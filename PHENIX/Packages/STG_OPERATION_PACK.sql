@@ -1,0 +1,9 @@
+CREATE OR REPLACE PACKAGE phenix.STG_OPERATION_PACK IS
+
+FUNCTION CAN_USED_STG_AS_CGR_FUNC(
+  p_stg_code statistics_tracking_groups.stg_code%TYPE
+)
+RETURN BOOLEAN;
+
+END STG_OPERATION_PACK;
+/

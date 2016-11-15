@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM volume_rebate_exceptions FOR phenix.volume_rebate_exceptions;

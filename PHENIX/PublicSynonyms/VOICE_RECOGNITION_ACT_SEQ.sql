@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM voice_recognition_act_seq FOR phenix.voice_recognition_act_seq;

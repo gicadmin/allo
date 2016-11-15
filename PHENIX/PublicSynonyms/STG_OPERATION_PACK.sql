@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stg_operation_pack FOR phenix.stg_operation_pack;

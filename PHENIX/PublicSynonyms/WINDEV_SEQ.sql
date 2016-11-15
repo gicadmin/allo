@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM windev_seq FOR phenix.windev_seq;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sef_status_flag_i ON phenix.send_fax(sef_status_flag);

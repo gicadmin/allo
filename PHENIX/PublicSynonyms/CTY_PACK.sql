@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cty_pack FOR phenix.cty_pack;

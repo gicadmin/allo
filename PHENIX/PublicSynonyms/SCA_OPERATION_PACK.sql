@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sca_operation_pack FOR phenix.sca_operation_pack;

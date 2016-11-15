@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lauzon_management_pack FOR phenix.lauzon_management_pack;

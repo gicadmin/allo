@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rmc_cus_payable_fk_i ON phenix.recurring_misc_charges(rmc_cus_payable_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM edi_flatfile_seq FOR phenix.edi_flatfile_seq;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rra_pack FOR phenix.rra_pack;

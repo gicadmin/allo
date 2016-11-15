@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.rnr_uk_1 ON phenix.roadnet_routes(rnr_route);

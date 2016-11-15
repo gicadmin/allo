@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dtr_pack FOR phenix.dtr_pack;

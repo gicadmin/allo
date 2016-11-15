@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM barcode_components FOR phenix.barcode_components;

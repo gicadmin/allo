@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ptd_operation_pack FOR phenix.ptd_operation_pack;

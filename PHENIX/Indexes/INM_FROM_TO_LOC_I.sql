@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inm_from_to_loc_i ON phenix.inventory_movements(inm_from_loc_code,inm_to_loc_code);

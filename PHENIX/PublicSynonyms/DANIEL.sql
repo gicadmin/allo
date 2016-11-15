@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM daniel FOR phenix.daniel;

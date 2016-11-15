@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tbs_tot_fk_i ON phenix.tote_box_summaries(tbs_tot_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ptb_pack FOR phenix.ptb_pack;

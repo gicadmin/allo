@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pfl_pack FOR phenix.pfl_pack;

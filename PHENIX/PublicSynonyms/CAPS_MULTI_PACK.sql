@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM caps_multi_pack FOR phenix.caps_multi_pack;

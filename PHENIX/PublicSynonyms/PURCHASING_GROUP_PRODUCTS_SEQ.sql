@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM purchasing_group_products_seq FOR phenix.purchasing_group_products_seq;

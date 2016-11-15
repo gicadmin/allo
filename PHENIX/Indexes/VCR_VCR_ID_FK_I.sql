@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vcr_vcr_id_fk_i ON phenix.vendor_transport_credits(vcr_vcr_id);

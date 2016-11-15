@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_mission_generation_pack FOR phenix.wms_mission_generation_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prf_fmt_fk_i ON phenix.product_formats(prf_fmt_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pct_fmt_fk_i ON phenix.product_counters(pct_fmt_code);

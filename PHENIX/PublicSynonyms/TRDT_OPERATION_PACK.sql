@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM trdt_operation_pack FOR phenix.trdt_operation_pack;

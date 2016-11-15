@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM auto_pick_report_pack FOR phenix.auto_pick_report_pack;

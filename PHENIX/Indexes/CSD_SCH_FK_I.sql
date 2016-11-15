@@ -1,0 +1,1 @@
+CREATE INDEX phenix.csd_sch_fk_i ON phenix.customer_schedules(csd_sch_code);

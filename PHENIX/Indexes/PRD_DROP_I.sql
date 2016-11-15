@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_drop_i ON phenix.products(prd_dropship_switch);

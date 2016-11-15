@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mse_operation_pack FOR phenix.mse_operation_pack;

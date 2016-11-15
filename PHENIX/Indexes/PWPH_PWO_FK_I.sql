@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pwph_pwo_fk_i ON phenix.public_whse_pick_headers(pwph_pwo_code);

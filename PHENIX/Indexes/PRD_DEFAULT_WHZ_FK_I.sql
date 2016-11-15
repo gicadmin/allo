@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_default_whz_fk_i ON phenix.products(prd_default_whz_code);

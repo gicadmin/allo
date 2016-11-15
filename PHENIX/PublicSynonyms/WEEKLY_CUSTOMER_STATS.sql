@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM weekly_customer_stats FOR phenix.weekly_customer_stats;

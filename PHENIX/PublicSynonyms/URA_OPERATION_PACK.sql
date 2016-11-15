@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ura_operation_pack FOR phenix.ura_operation_pack;

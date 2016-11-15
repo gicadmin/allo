@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM poh_pack FOR phenix.poh_pack;

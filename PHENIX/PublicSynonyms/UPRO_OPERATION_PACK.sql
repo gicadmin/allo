@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM upro_operation_pack FOR phenix.upro_operation_pack;

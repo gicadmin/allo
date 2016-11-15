@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ved_prf_fk_i ON phenix.vendor_agreement_details(ved_prf_prd_code,ved_prf_fmt_code);

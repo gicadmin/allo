@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tss_operation_pack FOR phenix.tss_operation_pack;

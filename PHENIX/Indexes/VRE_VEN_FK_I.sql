@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vre_ven_fk_i ON phenix.volume_rebate_exceptions(vre_ven_code);

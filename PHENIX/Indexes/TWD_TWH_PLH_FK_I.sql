@@ -1,0 +1,1 @@
+CREATE INDEX phenix.twd_twh_plh_fk_i ON phenix.transit_warehouse_details(twd_twh_plh_id);

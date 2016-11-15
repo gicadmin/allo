@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tote_box_summaries FOR phenix.tote_box_summaries;

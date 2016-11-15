@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM jsa_pack FOR phenix.jsa_pack;

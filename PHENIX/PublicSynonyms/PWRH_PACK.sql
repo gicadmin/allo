@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pwrh_pack FOR phenix.pwrh_pack;

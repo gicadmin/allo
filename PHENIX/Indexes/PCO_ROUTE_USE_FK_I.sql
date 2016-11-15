@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pco_route_use_fk_i ON phenix.pallet_consolidations(pco_route_use_code);

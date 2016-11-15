@@ -1,0 +1,1 @@
+CREATE INDEX phenix.poh_excepted_recep_date_i ON phenix.purchase_order_headers(poh_expected_recep_date);

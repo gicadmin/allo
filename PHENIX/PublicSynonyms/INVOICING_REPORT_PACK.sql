@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM invoicing_report_pack FOR phenix.invoicing_report_pack;

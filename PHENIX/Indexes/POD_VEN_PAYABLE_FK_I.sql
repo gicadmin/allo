@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pod_ven_payable_fk_i ON phenix.purchase_order_details(pod_ven_payable_code);

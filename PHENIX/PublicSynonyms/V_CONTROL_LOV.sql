@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_control_lov FOR phenix.v_control_lov;

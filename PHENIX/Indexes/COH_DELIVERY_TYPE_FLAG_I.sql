@@ -1,0 +1,1 @@
+CREATE INDEX phenix.coh_delivery_type_flag_i ON phenix.customer_order_headers(coh_delivery_type_flag);

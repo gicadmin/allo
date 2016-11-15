@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_pfi_base_sdb_l2 FOR phenix.v_pfi_base_sdb_l2;

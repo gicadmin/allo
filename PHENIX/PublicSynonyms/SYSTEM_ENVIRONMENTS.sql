@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM system_environments FOR phenix.system_environments;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_log_modifs FOR phenix.user_log_modifs;

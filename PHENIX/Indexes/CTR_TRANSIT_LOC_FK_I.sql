@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ctr_transit_loc_fk_i ON phenix.control(ctr_transit_loc_code);

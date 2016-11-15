@@ -1,0 +1,1 @@
+CREATE INDEX phenix.trd_whs_to_fk_i ON phenix.transfer_details(trd_whs_to_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pfa_pack FOR phenix.pfa_pack;

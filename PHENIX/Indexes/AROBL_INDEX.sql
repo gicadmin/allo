@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.arobl_index ON phenix.arobl(idinvc,idcust);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vtt_vtr_id_fk_i ON phenix.vendor_transport_transactions(vtt_vtr_id);

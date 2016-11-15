@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pfc_prd_fk_i ON phenix.product_food_certifications(pfc_prd_code);

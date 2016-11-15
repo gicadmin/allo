@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_customer_po_i ON phenix.customer_order_details(cod_coh_id,cod_customer_po_number,cod_customer_po_line);

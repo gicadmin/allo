@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpl_cgr_fk_i ON phenix.customer_price_lists(cpl_cgr_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM edi_error_treatment_pack FOR phenix.edi_error_treatment_pack;

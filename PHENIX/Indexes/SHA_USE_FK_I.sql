@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sha_use_fk_i ON phenix.shipment_audits(sha_use_code);

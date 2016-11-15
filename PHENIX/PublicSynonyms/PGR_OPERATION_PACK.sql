@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pgr_operation_pack FOR phenix.pgr_operation_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpc_ctt_fk_i ON phenix.customer_product_counters(cpc_ctt_code);

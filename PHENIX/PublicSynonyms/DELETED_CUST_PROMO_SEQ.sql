@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM deleted_cust_promo_seq FOR phenix.deleted_cust_promo_seq;

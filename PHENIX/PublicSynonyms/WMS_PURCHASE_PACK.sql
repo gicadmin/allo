@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_purchase_pack FOR phenix.wms_purchase_pack;

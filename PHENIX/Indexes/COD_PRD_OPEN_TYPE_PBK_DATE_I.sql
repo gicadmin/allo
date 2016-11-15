@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_prd_open_type_pbk_date_i ON phenix.customer_order_details(cod_prf_prd_code,cod_open_switch,cod_order_type,cod_prebook_method,cod_project_delivery_date);

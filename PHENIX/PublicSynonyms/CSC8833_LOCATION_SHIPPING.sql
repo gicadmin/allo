@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM csc8833_location_shipping FOR phenix.csc8833_location_shipping;

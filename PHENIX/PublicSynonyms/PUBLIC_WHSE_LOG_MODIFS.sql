@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM public_whse_log_modifs FOR phenix.public_whse_log_modifs;

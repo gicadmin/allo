@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ctr_cty_purch_fk_i ON phenix.control(ctr_cty_purch_code);

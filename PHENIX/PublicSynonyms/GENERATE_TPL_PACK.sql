@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM generate_tpl_pack FOR phenix.generate_tpl_pack;

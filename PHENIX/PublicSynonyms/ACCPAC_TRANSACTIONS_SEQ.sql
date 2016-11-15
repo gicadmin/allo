@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM accpac_transactions_seq FOR phenix.accpac_transactions_seq;

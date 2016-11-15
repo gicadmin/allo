@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fax_logs FOR phenix.fax_logs;

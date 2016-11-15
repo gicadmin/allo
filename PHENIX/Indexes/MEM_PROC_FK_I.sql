@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mem_proc_fk_i ON phenix.memos(mem_processed_switch);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM update_customer_pack FOR phenix.update_customer_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mission_detail_picklists FOR phenix.mission_detail_picklists;

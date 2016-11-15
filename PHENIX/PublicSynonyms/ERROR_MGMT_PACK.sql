@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM error_mgmt_pack FOR phenix.error_mgmt_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stat_sodexo_pack FOR phenix.stat_sodexo_pack;

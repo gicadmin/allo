@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM load_data_pack FOR phenix.load_data_pack;

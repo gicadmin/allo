@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cur_fca_fk_i ON phenix.customer_remittances(cur_fca_year,cur_fca_period);

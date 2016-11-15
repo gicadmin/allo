@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_remote_applications FOR phenix.user_remote_applications;

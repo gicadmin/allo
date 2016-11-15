@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lau230_tlm FOR phenix.lau230_tlm;

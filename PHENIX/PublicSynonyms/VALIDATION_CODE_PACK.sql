@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM validation_code_pack FOR phenix.validation_code_pack;

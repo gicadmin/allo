@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transfer_users FOR phenix.transfer_users;

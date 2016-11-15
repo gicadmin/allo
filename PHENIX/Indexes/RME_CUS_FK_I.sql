@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rme_cus_fk_i ON phenix.report_merge(rme_cus_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM warning_mgmt_pack FOR phenix.warning_mgmt_pack;

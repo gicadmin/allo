@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_pick_lists FOR phenix.temporary_pick_lists;

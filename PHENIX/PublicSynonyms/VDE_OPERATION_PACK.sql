@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vde_operation_pack FOR phenix.vde_operation_pack;

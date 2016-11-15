@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rcd_pod_fk_i ON phenix.receipt_details(rcd_pod_poh_id,rcd_pod_line_number);

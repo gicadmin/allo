@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_purchase_headers FOR phenix.temporary_purchase_headers;

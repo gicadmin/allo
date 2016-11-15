@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cur_whs_delivery_fk_i ON phenix.customer_remittances(cur_whs_delivery_code);

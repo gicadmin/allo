@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prx_effective_date_i ON phenix.price_changes(prx_effective_date);

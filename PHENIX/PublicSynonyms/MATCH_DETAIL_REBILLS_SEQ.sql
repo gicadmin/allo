@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM match_detail_rebills_seq FOR phenix.match_detail_rebills_seq;

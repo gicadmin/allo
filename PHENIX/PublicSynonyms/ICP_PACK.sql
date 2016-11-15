@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM icp_pack FOR phenix.icp_pack;

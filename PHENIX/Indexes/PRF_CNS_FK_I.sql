@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prf_cns_fk_i ON phenix.product_formats(prf_cns_code);

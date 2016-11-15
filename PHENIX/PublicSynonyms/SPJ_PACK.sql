@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM spj_pack FOR phenix.spj_pack;

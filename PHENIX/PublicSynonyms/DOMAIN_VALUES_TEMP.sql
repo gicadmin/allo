@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM domain_values_temp FOR phenix.domain_values_temp;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pxc_pack FOR phenix.pxc_pack;

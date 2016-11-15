@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM national_accounts FOR phenix.national_accounts;

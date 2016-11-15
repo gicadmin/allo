@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM warehouse_pallet_programs FOR phenix.warehouse_pallet_programs;

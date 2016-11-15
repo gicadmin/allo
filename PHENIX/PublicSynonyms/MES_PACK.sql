@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mes_pack FOR phenix.mes_pack;

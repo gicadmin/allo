@@ -1,0 +1,1 @@
+CREATE INDEX phenix.trd_creation_date_i ON phenix.transfer_details(trd_creation_date);

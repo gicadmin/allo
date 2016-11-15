@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM invoice_matching_audits FOR phenix.invoice_matching_audits;

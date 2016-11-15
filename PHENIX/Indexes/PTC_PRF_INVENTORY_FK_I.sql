@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ptc_prf_inventory_fk_i ON phenix.product_tracking_categories(ptc_prf_prd_inventory_code,ptc_prf_fmt_inventory_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.stat ON phenix.stat(statid,"TYPE",c5,c1,c2,c3,c4,"VERSION");

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fcw_operation_pack FOR phenix.fcw_operation_pack;

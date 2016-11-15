@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cud_operation_pack FOR phenix.cud_operation_pack;

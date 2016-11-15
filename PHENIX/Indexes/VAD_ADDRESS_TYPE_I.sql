@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vad_address_type_i ON phenix.vendor_addresses(vad_address_type);

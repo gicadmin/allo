@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_benefits_pack FOR phenix.vendor_benefits_pack;

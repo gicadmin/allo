@@ -1,0 +1,1 @@
+CREATE INDEX phenix.fcw_start_date_i ON phenix.fiscal_calendar_weeks(fcw_start_date);

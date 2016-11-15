@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM delivery_accessories FOR phenix.delivery_accessories;

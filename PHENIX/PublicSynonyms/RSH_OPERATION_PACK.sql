@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rsh_operation_pack FOR phenix.rsh_operation_pack;

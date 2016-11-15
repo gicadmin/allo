@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM positioning_family_products FOR phenix.positioning_family_products;

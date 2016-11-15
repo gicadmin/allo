@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_pallet_pack FOR phenix.wms_pallet_pack;

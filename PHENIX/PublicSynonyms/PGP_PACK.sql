@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pgp_pack FOR phenix.pgp_pack;

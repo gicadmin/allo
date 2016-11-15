@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gouv_verif_pack FOR phenix.gouv_verif_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_volume_rebates FOR phenix.temporary_volume_rebates;

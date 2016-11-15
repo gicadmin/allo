@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ven_ven_pickup_fk_i ON phenix.vendors(ven_ven_pickup_code);

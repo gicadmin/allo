@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pgs_price_change_pack FOR phenix.pgs_price_change_pack;

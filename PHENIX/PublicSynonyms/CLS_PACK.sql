@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cls_pack FOR phenix.cls_pack;

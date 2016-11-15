@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_documents_seq FOR phenix.customer_documents_seq;

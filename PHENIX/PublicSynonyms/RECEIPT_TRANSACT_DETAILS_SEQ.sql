@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM receipt_transact_details_seq FOR phenix.receipt_transact_details_seq;

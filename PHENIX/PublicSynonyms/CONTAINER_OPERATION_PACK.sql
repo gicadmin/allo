@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM container_operation_pack FOR phenix.container_operation_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vpr_reclaim_ven_fk_i ON phenix.vendor_promotions(vpr_reclaim_ven_code);

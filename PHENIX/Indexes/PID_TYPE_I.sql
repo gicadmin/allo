@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pid_type_i ON phenix.pick_transactions(pid_type);

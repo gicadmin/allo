@@ -1,0 +1,8 @@
+CREATE OR REPLACE PACKAGE phenix.PBD_OPERATION_PACK IS
+
+PROCEDURE PURGE_PROC(
+  p_pbd_cpr_id IN prebook_deliveries.pbd_cpr_id%TYPE
+);
+
+END PBD_OPERATION_PACK;
+/

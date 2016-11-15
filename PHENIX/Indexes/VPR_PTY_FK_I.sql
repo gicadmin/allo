@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vpr_pty_fk_i ON phenix.vendor_promotions(vpr_pty_code);

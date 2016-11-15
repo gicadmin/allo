@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fuel_surcharge_brackets_seq FOR phenix.fuel_surcharge_brackets_seq;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.asd_ash_fk_i ON phenix.account_statement_details(asd_ash_id);

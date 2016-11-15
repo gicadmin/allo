@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM show_promo_pack FOR phenix.show_promo_pack;

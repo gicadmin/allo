@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM voar_operation_pack FOR phenix.voar_operation_pack;

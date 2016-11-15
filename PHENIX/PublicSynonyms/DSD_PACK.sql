@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dsd_pack FOR phenix.dsd_pack;

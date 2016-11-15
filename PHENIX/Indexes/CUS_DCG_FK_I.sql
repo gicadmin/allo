@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_dcg_fk_i ON phenix.customers(cus_dcg_code);

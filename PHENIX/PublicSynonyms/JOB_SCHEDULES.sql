@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM job_schedules FOR phenix.job_schedules;

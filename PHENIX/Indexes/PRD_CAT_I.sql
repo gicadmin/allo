@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_cat_i ON phenix.products(prd_cat_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tca_ccr_fk_i ON phenix.temp_cus_consignment_headers(tca_ccr_code);

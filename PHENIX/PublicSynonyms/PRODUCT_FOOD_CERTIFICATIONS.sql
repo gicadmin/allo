@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_food_certifications FOR phenix.product_food_certifications;

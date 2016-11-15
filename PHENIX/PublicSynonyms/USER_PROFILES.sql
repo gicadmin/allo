@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_profiles FOR phenix.user_profiles;

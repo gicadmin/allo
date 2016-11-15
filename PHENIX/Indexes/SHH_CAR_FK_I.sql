@@ -1,0 +1,1 @@
+CREATE INDEX phenix.shh_car_fk_i ON phenix.shipment_headers(shh_car_code);

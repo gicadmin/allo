@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cop_trailer_container_i ON phenix.customer_order_pallets(cop_real_container_id,cop_trailer_number);

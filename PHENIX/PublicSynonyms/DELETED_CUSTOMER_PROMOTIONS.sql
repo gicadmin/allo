@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM deleted_customer_promotions FOR phenix.deleted_customer_promotions;

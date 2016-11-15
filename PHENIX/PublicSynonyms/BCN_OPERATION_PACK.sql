@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM bcn_operation_pack FOR phenix.bcn_operation_pack;

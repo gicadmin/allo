@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM purge_pack FOR phenix.purge_pack;

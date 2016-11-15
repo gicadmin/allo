@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vph_operation_pack FOR phenix.vph_operation_pack;

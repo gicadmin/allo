@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cdo_cus_fk ON phenix.customer_documents(cdo_cus_code);

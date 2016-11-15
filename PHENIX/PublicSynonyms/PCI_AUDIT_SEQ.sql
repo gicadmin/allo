@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pci_audit_seq FOR phenix.pci_audit_seq;

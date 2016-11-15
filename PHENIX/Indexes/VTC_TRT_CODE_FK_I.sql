@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vtc_trt_code_fk_i ON phenix.vendor_transport_customers(vtc_trt_code);

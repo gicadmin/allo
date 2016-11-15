@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inh_tty_fk_i ON phenix.invoice_headers(inh_tty_code);

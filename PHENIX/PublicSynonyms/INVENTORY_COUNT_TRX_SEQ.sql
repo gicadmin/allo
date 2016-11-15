@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM inventory_count_trx_seq FOR phenix.inventory_count_trx_seq;

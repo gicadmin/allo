@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gpu_configuration_element FOR phenix.gpu_configuration_element;

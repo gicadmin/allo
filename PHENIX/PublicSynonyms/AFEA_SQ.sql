@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM afea_sq FOR phenix.afea_sq;

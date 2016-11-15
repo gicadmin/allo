@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gcl9575_formats FOR phenix.gcl9575_formats;

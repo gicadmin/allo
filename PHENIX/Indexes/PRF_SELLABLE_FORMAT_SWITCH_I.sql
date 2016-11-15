@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prf_sellable_format_switch_i ON phenix.product_formats(prf_sellable_format_switch);

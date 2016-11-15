@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_show_quantities FOR phenix.temporary_show_quantities;

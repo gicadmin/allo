@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mad_date_closed_i ON phenix.match_details(mad_date_closed);

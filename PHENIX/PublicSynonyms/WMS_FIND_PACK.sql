@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_find_pack FOR phenix.wms_find_pack;

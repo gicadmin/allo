@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM qty_pack FOR phenix.qty_pack;

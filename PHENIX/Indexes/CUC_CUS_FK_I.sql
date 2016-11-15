@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cuc_cus_fk_i ON phenix.customer_couriers(cuc_cus_code);

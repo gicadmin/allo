@@ -1,0 +1,17 @@
+CREATE OR REPLACE PACKAGE phenix.ASC_OPERATION_PACK IS
+
+PROCEDURE PURGE_PROC(
+  p_inh_id IN invoice_headers.inh_id%TYPE,
+  p_raise  IN BOOLEAN DEFAULT TRUE
+);
+
+PROCEDURE RESET_INVOICE_ACCOUNT_PROC(
+  p_jsc_id IN NUMBER
+);
+
+PROCEDURE PURGE_PROC(
+  p_asc_cus_code IN account_statements.asc_cus_code%TYPE
+);
+
+END ASC_OPERATION_PACK;
+/

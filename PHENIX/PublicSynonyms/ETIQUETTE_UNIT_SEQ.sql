@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM etiquette_unit_seq FOR phenix.etiquette_unit_seq;

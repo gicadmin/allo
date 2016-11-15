@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ash_operation_pack FOR phenix.ash_operation_pack;

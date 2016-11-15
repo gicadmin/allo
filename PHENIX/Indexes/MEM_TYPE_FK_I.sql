@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mem_type_fk_i ON phenix.memos(mem_type);

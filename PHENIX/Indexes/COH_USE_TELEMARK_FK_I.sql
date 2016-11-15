@@ -1,0 +1,1 @@
+CREATE INDEX phenix.coh_use_telemark_fk_i ON phenix.customer_order_headers(coh_use_telemark_code);

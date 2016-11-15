@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cma_pack FOR phenix.cma_pack;

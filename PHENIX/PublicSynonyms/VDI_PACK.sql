@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vdi_pack FOR phenix.vdi_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_dir_list FOR phenix.temporary_dir_list;

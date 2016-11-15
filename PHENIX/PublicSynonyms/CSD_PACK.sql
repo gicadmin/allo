@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM csd_pack FOR phenix.csd_pack;

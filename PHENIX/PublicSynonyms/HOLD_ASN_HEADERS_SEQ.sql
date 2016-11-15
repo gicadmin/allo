@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hold_asn_headers_seq FOR phenix.hold_asn_headers_seq;

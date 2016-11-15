@@ -1,0 +1,1 @@
+CREATE INDEX phenix.jsa_pro_fk_i ON phenix.job_schedule_audits(jsa_pro_id);

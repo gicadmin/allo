@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ccl_use_fk_i ON phenix.customer_classes(ccl_use_code);

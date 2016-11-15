@@ -1,0 +1,1 @@
+CREATE INDEX phenix.coa_cod_fk_i ON phenix.customer_order_actions(coa_cod_coh_id,coa_cod_line_number);

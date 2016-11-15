@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wpc_pack FOR phenix.wpc_pack;

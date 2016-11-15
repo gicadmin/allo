@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.coa_action_uk ON phenix.customer_order_actions(coa_cod_coh_id,coa_cod_line_number,coa_action);

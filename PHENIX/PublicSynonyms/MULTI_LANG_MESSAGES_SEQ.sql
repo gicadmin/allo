@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM multi_lang_messages_seq FOR phenix.multi_lang_messages_seq;

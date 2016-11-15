@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rmc_pack FOR phenix.rmc_pack;

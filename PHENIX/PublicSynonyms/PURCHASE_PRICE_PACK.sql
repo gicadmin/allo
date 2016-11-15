@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM purchase_price_pack FOR phenix.purchase_price_pack;

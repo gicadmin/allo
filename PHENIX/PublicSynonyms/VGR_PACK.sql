@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vgr_pack FOR phenix.vgr_pack;

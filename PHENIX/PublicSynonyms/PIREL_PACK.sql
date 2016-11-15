@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pirel_pack FOR phenix.pirel_pack;

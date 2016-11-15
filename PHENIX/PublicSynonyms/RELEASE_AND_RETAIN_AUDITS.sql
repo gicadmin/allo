@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM release_and_retain_audits FOR phenix.release_and_retain_audits;

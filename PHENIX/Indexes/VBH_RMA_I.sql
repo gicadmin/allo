@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vbh_rma_i ON phenix.vendor_billing_headers(vbh_rma);

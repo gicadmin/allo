@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ven_car_code_fk_i ON phenix.vendors(ven_car_code);

@@ -1,0 +1,7 @@
+CREATE OR REPLACE PACKAGE phenix.TBT_OPERATION_PACK AS
+PROCEDURE PURGE_PROC(
+  p_nb_days_to_keep      IN  NUMBER,
+  p_max_items            IN  NUMBER
+);
+END TBT_OPERATION_PACK;
+/

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpr_memb_fmt_code_fk_i ON phenix.customer_promotions(cpr_member_fmt_code);

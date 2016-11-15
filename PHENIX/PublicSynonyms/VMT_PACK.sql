@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vmt_pack FOR phenix.vmt_pack;

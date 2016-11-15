@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pci_report_pack FOR phenix.pci_report_pack;

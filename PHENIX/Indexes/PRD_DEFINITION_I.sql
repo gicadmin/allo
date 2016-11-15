@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_definition_i ON phenix.products(prd_definition);

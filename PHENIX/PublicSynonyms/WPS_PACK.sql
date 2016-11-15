@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wps_pack FOR phenix.wps_pack;

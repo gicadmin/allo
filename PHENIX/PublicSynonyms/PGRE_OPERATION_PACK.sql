@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pgre_operation_pack FOR phenix.pgre_operation_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_log_modifs FOR phenix.product_log_modifs;

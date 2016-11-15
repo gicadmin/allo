@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_prf_original_fk_i ON phenix.customer_order_details(cod_prf_prd_original_code,cod_prf_fmt_original_code);

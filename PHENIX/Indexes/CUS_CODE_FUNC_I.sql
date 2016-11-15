@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_code_func_i ON phenix.customers(TO_CHAR("CUS_CODE"));

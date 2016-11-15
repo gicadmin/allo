@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM car_pack FOR phenix.car_pack;

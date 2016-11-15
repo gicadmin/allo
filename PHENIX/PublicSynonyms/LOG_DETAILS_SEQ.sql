@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM log_details_seq FOR phenix.log_details_seq;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vde_rct_code_fk_i ON phenix.vendor_discount_exceptions(vde_rct_code);

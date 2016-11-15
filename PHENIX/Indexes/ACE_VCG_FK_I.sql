@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ace_vcg_fk_i ON phenix.avr_customer_exceptions(ace_vcg_id);

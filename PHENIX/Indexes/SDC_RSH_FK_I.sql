@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sdc_rsh_fk_i ON phenix.shipment_delivery_accessories(sdc_rsh_id);

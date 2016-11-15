@@ -1,0 +1,1 @@
+CREATE INDEX phenix.scsc_coca_fk_i ON phenix.site_contract_sale_commitments(scsc_coca_code);

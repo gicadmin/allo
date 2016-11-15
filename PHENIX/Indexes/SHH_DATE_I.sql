@@ -1,0 +1,1 @@
+CREATE INDEX phenix.shh_date_i ON phenix.shipment_headers(shh_date);

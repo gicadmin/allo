@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vpr_last_order_date_i ON phenix.vendor_promotions(vpr_last_order_date);

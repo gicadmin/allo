@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_open_tpo_i ON phenix.customer_order_details(cod_open_switch,cod_prf_prd_code,cod_order_type,cod_pod_poh_id,cod_spec_order_status);

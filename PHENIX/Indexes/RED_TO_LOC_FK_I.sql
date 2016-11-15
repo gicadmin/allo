@@ -1,0 +1,1 @@
+CREATE INDEX phenix.red_to_loc_fk_i ON phenix.replenishment_details(red_to_loc_code);

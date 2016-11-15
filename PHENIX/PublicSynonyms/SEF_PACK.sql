@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sef_pack FOR phenix.sef_pack;

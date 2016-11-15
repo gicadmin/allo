@@ -1,0 +1,1 @@
+CREATE INDEX phenix.clm_pk ON phenix.customer_log_modifs(clm_id);

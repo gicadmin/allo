@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM autonomous_lock_pack FOR phenix.autonomous_lock_pack;

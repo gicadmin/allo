@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dld_prf_fk_i ON phenix.display_list_details(dld_prf_prd_code,dld_prf_fmt_code);

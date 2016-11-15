@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM territories FOR phenix.territories;

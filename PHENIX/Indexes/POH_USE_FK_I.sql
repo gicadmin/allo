@@ -1,0 +1,1 @@
+CREATE INDEX phenix.poh_use_fk_i ON phenix.purchase_order_headers(poh_use_code);

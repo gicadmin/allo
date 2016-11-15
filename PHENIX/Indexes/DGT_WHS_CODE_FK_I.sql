@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dgt_whs_code_fk_i ON phenix.discount_grid_types(dgt_whs_code);

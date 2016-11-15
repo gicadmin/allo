@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_classes FOR phenix.customer_classes;

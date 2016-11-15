@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vbd_consignment_switch_i ON phenix.vendor_billing_details(vbd_consignment_switch);

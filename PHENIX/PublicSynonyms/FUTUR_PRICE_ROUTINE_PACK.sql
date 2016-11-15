@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM futur_price_routine_pack FOR phenix.futur_price_routine_pack;

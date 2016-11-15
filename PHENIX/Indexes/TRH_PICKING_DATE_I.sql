@@ -1,0 +1,1 @@
+CREATE INDEX phenix.trh_picking_date_i ON phenix.transfer_headers(trh_picking_date);

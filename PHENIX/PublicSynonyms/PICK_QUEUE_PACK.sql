@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pick_queue_pack FOR phenix.pick_queue_pack;

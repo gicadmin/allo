@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prx_vpd_fk_i ON phenix.price_changes(prx_vpd_code,prx_vpd_ven_code);

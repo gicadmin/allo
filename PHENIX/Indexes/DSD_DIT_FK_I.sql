@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dsd_dit_fk_i ON phenix.drop_statement_discounts(dsd_dit_code);

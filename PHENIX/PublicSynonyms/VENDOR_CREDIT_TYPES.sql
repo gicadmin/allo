@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_credit_types FOR phenix.vendor_credit_types;

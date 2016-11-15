@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pau_pus_fk_i ON phenix.pci_audits(pau_pus_id);

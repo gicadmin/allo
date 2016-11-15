@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vsip_operation_pack FOR phenix.vsip_operation_pack;

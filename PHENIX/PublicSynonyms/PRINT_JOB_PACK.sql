@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM print_job_pack FOR phenix.print_job_pack;

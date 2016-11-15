@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pco_rdh_fk_i ON phenix.pallet_consolidations(pco_rdh_route_date,pco_rdh_rou_code);

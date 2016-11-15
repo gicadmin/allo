@@ -1,0 +1,1 @@
+CREATE INDEX phenix.poh_ven_whs_i ON phenix.purchase_order_headers(poh_ven_purchase_code,poh_whs_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM receipt_details FOR phenix.receipt_details;

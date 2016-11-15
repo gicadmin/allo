@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM system_project_parameter_types FOR phenix.system_project_parameter_types;

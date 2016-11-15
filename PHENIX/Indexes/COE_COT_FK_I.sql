@@ -1,0 +1,1 @@
+CREATE INDEX phenix.coe_cot_fk_i ON phenix.customer_order_exp_dates(coe_cot_cod_coh_id,coe_cot_cod_line_number,coe_cot_line_number);

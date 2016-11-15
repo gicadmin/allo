@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pro_pack FOR phenix.pro_pack;

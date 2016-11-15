@@ -1,0 +1,10 @@
+CREATE OR REPLACE PACKAGE phenix.MSE_OPERATION_PACK IS
+
+FUNCTION GET_SECURITY_LEVEL_FUNC(
+  p_mni_code IN menu_items.mni_code%TYPE,
+  p_use_code IN users.use_code%TYPE
+)
+RETURN VARCHAR2;
+
+END MSE_OPERATION_PACK;
+/

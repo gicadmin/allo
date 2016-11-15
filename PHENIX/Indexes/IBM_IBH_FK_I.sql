@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ibm_ibh_fk_i ON phenix.indirect_billing_moments(ibm_ibh_id);

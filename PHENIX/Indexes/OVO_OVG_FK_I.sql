@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ovo_ovg_fk_i ON phenix.off_invoice_vol_reb_objectives(ovo_ovg_code);

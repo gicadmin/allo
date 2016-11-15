@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM send_fax FOR phenix.send_fax;

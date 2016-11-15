@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dac_pack FOR phenix.dac_pack;

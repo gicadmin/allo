@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inv_loc_fk_i ON phenix.inventories(inv_loc_code);

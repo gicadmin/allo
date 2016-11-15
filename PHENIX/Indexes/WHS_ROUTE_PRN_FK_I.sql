@@ -1,0 +1,1 @@
+CREATE INDEX phenix.whs_route_prn_fk_i ON phenix.warehouses(whs_route_prn_id);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM roadnet_imp_orders FOR phenix.roadnet_imp_orders;

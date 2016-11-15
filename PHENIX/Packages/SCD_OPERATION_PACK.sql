@@ -1,0 +1,9 @@
+CREATE OR REPLACE PACKAGE phenix.SCD_OPERATION_PACK IS
+
+PROCEDURE PURGE_PROC(
+  p_nb_days_to_keep IN NUMBER,
+  p_max_items       IN NUMBER
+);
+
+END SCD_OPERATION_PACK;
+/

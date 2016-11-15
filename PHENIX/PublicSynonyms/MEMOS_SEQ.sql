@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM memos_seq FOR phenix.memos_seq;

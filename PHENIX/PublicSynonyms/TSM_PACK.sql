@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tsm_pack FOR phenix.tsm_pack;

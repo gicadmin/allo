@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vds_ref_i ON phenix.vendor_drop_statements(vds_reference_number,vds_ven_code,vds_ven_ap_code);

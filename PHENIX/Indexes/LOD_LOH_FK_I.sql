@@ -1,0 +1,1 @@
+CREATE INDEX phenix.lod_loh_fk_i ON phenix.log_details(lod_loh_id);

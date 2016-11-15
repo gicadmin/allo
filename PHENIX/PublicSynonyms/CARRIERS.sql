@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM carriers FOR phenix.carriers;

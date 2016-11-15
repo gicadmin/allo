@@ -1,0 +1,1 @@
+CREATE INDEX phenix.upr_role_code_fk_i ON phenix.user_program_roles(upr_role_code);

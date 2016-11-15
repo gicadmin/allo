@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cor_pack FOR phenix.cor_pack;

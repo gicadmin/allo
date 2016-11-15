@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vad_prv_fk_i ON phenix.vendor_addresses(vad_prv_code);

@@ -1,0 +1,11 @@
+CREATE OR REPLACE PACKAGE phenix.PROFIT_PACK IS
+
+FUNCTION GET_PROFIT_PERCENT_FUNC(
+  p_admin_method    IN VARCHAR2,
+  p_cost            IN NUMBER,
+  p_sales           IN NUMBER
+)
+RETURN NUMBER;
+
+END PROFIT_PACK;
+/

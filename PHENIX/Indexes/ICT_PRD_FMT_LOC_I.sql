@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ict_prd_fmt_loc_i ON phenix.inventory_count_transactions(ict_loc_code,ict_prf_prd_code,ict_prf_fmt_code,ict_used_inventory_switch);

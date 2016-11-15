@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM default_parameters FOR phenix.default_parameters;

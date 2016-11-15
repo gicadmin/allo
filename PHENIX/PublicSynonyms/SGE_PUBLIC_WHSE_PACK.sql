@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sge_public_whse_pack FOR phenix.sge_public_whse_pack;

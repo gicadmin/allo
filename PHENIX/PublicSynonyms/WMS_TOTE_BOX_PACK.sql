@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_tote_box_pack FOR phenix.wms_tote_box_pack;

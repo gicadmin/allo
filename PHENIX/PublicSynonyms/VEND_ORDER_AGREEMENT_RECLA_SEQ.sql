@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vend_order_agreement_recla_seq FOR phenix.vend_order_agreement_recla_seq;

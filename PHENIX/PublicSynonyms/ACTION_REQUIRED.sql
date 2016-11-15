@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM action_required FOR phenix.action_required;

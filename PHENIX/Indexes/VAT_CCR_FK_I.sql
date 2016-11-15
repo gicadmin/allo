@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vat_ccr_fk_i ON phenix.validate_transp_transactions(vat_ccr_code);

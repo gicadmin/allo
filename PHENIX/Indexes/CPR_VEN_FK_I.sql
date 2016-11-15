@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpr_ven_fk_i ON phenix.customer_promotions(cpr_ven_car_code);

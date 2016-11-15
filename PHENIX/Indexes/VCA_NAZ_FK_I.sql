@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vca_naz_fk_i ON phenix.vendor_customer_agreements(vca_naz_nac_code,vca_naz_zone_code);

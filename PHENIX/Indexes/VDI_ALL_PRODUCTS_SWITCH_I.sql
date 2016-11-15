@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vdi_all_products_switch_i ON phenix.vendor_discounts(vdi_all_products_switch);

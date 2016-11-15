@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sci_operation_pack FOR phenix.sci_operation_pack;

@@ -1,0 +1,10 @@
+CREATE OR REPLACE PACKAGE phenix.CUM_OPERATION_PACK IS
+
+FUNCTION GET_MESSAGES_FUNC(
+  p_cum_cus_code IN customer_messages.cum_cus_code%TYPE,
+  p_language     IN VARCHAR2
+)
+RETURN VARCHAR2;
+
+END CUM_OPERATION_PACK;
+/

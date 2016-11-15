@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM interco_pack FOR phenix.interco_pack;

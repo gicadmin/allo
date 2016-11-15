@@ -1,0 +1,1 @@
+CREATE INDEX phenix.whs_counter_prn_fk_i ON phenix.warehouses(whs_counter_prn_id);

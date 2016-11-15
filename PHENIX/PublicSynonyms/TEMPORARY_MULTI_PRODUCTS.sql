@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_multi_products FOR phenix.temporary_multi_products;

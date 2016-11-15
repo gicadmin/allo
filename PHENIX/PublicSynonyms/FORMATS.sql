@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM formats FOR phenix.formats;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vpd_idx_1 ON phenix.vendor_products(vpd_ven_distributed_by_code,vpd_ven_manufactured_by_code,vpd_prd_code,vpd_prf_fmt_code);

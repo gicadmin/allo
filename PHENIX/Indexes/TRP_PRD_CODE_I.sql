@@ -1,0 +1,1 @@
+CREATE INDEX phenix.trp_prd_code_i ON phenix.temp_rap_purchase_and_sales(trp_prd_code);

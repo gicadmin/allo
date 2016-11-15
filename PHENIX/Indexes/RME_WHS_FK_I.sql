@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rme_whs_fk_i ON phenix.report_merge(rme_whs_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nag_pack FOR phenix.nag_pack;

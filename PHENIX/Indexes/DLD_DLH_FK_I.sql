@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dld_dlh_fk_i ON phenix.display_list_details(dld_dlh_id);

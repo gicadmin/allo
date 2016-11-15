@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM srt_pack FOR phenix.srt_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tlm_seq FOR phenix.tlm_seq;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM contract_categories FOR phenix.contract_categories;

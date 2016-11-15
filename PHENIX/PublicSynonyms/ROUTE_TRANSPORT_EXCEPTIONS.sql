@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM route_transport_exceptions FOR phenix.route_transport_exceptions;

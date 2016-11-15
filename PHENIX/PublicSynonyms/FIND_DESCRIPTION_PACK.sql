@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM find_description_pack FOR phenix.find_description_pack;

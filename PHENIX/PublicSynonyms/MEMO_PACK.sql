@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM memo_pack FOR phenix.memo_pack;

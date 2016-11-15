@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_prv_resides_in_fk_i ON phenix.customers(cus_prv_resides_in_code);

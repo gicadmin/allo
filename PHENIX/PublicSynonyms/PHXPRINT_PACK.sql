@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM phxprint_pack FOR phenix.phxprint_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cro_rou_fk_i ON phenix.customer_routes(cro_rou_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_vsi_fk_i ON phenix.customer_order_details(cod_vsi_code);

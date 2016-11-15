@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cet_cus_fk_i ON phenix.customer_edi_transactions(cet_cus_code);

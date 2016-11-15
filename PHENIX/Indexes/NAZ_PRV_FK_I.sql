@@ -1,0 +1,1 @@
+CREATE INDEX phenix.naz_prv_fk_i ON phenix.national_account_zones(naz_prv_code);

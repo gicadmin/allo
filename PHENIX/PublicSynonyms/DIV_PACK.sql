@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM div_pack FOR phenix.div_pack;

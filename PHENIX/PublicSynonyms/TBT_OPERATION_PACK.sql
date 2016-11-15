@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tbt_operation_pack FOR phenix.tbt_operation_pack;

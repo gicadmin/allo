@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM plh_pack FOR phenix.plh_pack;

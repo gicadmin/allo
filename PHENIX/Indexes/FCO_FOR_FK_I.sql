@@ -1,0 +1,1 @@
+CREATE INDEX phenix.fco_for_fk_i ON phenix.formula_components(fco_for_id);

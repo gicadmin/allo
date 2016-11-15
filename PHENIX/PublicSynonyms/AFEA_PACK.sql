@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM afea_pack FOR phenix.afea_pack;

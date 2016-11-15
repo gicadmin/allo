@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sen_pack FOR phenix.sen_pack;

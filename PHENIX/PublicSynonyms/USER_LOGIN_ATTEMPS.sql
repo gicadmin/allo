@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_login_attemps FOR phenix.user_login_attemps;

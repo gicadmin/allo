@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vro_pack FOR phenix.vro_pack;

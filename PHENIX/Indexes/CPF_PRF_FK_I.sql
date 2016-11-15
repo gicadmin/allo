@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpf_prf_fk_i ON phenix.customer_profiles(cpf_prf_prd_code,cpf_prf_fmt_code);

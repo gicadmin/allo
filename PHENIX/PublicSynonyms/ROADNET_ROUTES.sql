@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM roadnet_routes FOR phenix.roadnet_routes;

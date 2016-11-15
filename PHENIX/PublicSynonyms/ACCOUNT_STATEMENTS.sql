@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM account_statements FOR phenix.account_statements;

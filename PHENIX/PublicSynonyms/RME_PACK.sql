@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rme_pack FOR phenix.rme_pack;

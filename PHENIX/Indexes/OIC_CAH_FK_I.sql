@@ -1,0 +1,1 @@
+CREATE INDEX phenix.oic_cah_fk_i ON phenix.outstanding_inventory_counts(oic_rma_reference_number);

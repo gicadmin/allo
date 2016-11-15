@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rio_route_uk ON phenix.roadnet_imp_orders(rio_location_id,rio_location_type,rio_route,rio_position);

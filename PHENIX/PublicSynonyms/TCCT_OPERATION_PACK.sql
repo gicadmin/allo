@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tcct_operation_pack FOR phenix.tcct_operation_pack;

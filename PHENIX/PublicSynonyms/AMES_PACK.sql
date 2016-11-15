@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ames_pack FOR phenix.ames_pack;

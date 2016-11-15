@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pcr_operation_pack FOR phenix.pcr_operation_pack;

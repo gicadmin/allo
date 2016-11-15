@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rou_whs_delivery_fk_i ON phenix.routes(rou_whs_delivery_code);

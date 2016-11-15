@@ -1,0 +1,1 @@
+CREATE INDEX phenix.whs_internal_cus_code_fk_i ON phenix.warehouses(whs_internal_cus_code);

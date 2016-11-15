@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vtt_interface_pack FOR phenix.vtt_interface_pack;

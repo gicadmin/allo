@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pcds_prf_fk_i ON phenix.pci_customer_display_sequences(pcds_prf_prd_code,pcds_prf_fmt_code);

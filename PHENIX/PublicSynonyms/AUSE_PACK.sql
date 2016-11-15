@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ause_pack FOR phenix.ause_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM twh_pack FOR phenix.twh_pack;

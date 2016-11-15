@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ven_vgr_fk_i ON phenix.vendors(ven_vgr_code);

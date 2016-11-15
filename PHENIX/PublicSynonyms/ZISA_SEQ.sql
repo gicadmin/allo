@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM zisa_seq FOR phenix.zisa_seq;

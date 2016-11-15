@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pick_mission_headers FOR phenix.pick_mission_headers;

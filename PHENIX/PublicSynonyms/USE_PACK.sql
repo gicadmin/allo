@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM use_pack FOR phenix.use_pack;

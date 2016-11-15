@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM coa_pack FOR phenix.coa_pack;

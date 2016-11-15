@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sio_vsi_fk_i ON phenix.sales_incentive_objectives(sio_vsi_code);

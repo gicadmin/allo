@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.arstcus_index ON phenix.arstcus(idcust,stmtseq);

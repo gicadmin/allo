@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM replenish_pick_lists FOR phenix.replenish_pick_lists;

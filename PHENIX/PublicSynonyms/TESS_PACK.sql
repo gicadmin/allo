@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tess_pack FOR phenix.tess_pack;

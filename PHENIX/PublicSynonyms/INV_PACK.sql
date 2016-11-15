@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM inv_pack FOR phenix.inv_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cpr_operation_pack FOR phenix.cpr_operation_pack;

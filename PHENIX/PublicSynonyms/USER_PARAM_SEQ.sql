@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_param_seq FOR phenix.user_param_seq;

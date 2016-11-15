@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM maxivente_interface_pack FOR phenix.maxivente_interface_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM national_account_zones FOR phenix.national_account_zones;

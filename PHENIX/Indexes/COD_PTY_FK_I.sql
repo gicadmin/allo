@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_pty_fk_i ON phenix.customer_order_details(cod_pty_code);

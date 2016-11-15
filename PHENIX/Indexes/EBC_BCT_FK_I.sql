@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ebc_bct_fk_i ON phenix.establishment_barcodes(ebc_bct_code);

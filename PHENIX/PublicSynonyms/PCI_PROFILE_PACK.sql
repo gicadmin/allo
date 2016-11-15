@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pci_profile_pack FOR phenix.pci_profile_pack;

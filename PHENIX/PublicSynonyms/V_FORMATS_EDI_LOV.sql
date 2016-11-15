@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_formats_edi_lov FOR phenix.v_formats_edi_lov;

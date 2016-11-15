@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fsg_pack FOR phenix.fsg_pack;

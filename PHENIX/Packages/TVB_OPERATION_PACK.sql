@@ -1,0 +1,23 @@
+CREATE OR REPLACE PACKAGE phenix.TVB_OPERATION_PACK IS
+
+PROCEDURE EXTRACT_VB_INFO_PROC(
+   p_jsc_id   IN job_schedules.jsc_id%TYPE
+);
+
+PROCEDURE VALID_TVB(
+  p_sid  IN NUMBER
+);
+
+PROCEDURE IMP_TVB(
+  p_lang  IN VARCHAR2
+);
+
+PROCEDURE GENERATE_VBH_VBD(
+  p_sid     IN  NUMBER,
+  p_lang    IN  VARCHAR2,
+  p_called  IN  VARCHAR2,
+  p_error   OUT VARCHAR2
+);
+
+END TVB_OPERATION_PACK;
+/

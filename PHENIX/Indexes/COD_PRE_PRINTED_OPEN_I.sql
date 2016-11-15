@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_pre_printed_open_i ON phenix.customer_order_details(cod_pre_printed_switch,cod_open_switch);

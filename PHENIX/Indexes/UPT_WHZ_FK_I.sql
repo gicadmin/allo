@@ -1,0 +1,1 @@
+CREATE INDEX phenix.upt_whz_fk_i ON phenix.user_picking_times(upt_whz_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apick_generate_pack FOR phenix.apick_generate_pack;

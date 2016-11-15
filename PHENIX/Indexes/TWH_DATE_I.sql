@@ -1,0 +1,1 @@
+CREATE INDEX phenix.twh_date_i ON phenix.transit_warehouse_headers(twh_date);

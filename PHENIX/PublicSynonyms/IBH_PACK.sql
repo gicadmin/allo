@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ibh_pack FOR phenix.ibh_pack;

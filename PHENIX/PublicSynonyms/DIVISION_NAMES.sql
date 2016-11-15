@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM division_names FOR phenix.division_names;

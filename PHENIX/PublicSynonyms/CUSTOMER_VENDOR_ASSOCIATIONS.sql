@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_vendor_associations FOR phenix.customer_vendor_associations;

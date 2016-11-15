@@ -1,0 +1,1 @@
+CREATE INDEX phenix.acs_cus_fk_i ON phenix.account_statements(asc_cus_code);

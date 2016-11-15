@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tso_pack_maz FOR phenix.tso_pack_maz;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM proposed_interco_products_seq FOR phenix.proposed_interco_products_seq;

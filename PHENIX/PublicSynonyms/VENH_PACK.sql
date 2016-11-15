@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM venh_pack FOR phenix.venh_pack;

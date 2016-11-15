@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM console_pick_headers FOR phenix.console_pick_headers;

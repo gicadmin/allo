@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM report_route_rentability_pack FOR phenix.report_route_rentability_pack;

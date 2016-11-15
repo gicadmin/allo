@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.arstobl_index ON phenix.arstobl(stmtseq,idinvc,idcust);

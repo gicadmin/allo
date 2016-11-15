@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_wsp_validations FOR phenix.temporary_wsp_validations;

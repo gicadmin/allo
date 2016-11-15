@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sha_cus_fk_i ON phenix.shipment_audits(sha_cus_code);

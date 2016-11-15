@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pcds_operation_pack FOR phenix.pcds_operation_pack;

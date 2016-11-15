@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pcrf_pfe_fk_i ON phenix.pci_role_features(pcrf_pfe_code);

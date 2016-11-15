@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM daniel_pack FOR phenix.daniel_pack;

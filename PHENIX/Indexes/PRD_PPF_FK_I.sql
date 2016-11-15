@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_ppf_fk_i ON phenix.products(prd_ppf_code);

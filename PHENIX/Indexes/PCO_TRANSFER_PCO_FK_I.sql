@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pco_transfer_pco_fk_i ON phenix.pallet_consolidations(pco_transfer_pco_id);

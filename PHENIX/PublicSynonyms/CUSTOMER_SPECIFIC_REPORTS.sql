@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_specific_reports FOR phenix.customer_specific_reports;

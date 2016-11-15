@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vbd_approval_status_i ON phenix.vendor_billing_details(vbd_approval_status);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_product_cat_histories FOR phenix.vendor_product_cat_histories;

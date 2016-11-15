@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tso_operation_pack FOR phenix.tso_operation_pack;

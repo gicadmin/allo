@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pco_id_reverse_i ON phenix.pallet_consolidations(REVERSE(TO_CHAR("PCO_ID")));

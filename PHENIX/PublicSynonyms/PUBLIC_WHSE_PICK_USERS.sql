@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM public_whse_pick_users FOR phenix.public_whse_pick_users;

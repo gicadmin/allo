@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM read_edi_invoice_pack FOR phenix.read_edi_invoice_pack;

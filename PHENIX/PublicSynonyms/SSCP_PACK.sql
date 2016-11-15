@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sscp_pack FOR phenix.sscp_pack;

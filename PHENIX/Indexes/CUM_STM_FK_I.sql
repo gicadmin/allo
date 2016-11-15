@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cum_stm_fk_i ON phenix.customer_messages(cum_stm_code);

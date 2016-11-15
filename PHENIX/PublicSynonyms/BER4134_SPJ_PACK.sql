@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ber4134_spj_pack FOR phenix.ber4134_spj_pack;

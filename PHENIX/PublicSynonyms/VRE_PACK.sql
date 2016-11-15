@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vre_pack FOR phenix.vre_pack;

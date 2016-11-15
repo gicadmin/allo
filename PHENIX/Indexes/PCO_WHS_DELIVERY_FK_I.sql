@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pco_whs_delivery_fk_i ON phenix.pallet_consolidations(pco_whs_delivery_code);

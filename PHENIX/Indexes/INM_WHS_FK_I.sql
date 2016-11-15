@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inm_whs_fk_i ON phenix.inventory_movements(inm_whs_code);

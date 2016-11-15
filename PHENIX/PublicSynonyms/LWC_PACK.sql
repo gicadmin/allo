@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lwc_pack FOR phenix.lwc_pack;

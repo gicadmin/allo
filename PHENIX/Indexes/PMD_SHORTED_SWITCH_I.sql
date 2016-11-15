@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pmd_shorted_switch_i ON phenix.pick_mission_details(pmd_shorted_switch);

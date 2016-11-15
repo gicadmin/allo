@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM application_users FOR phenix.application_users;

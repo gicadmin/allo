@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ctr_rebill_crt_code_fk_i ON phenix.control(ctr_rebill_crt_code);

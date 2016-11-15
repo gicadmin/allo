@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tpd_cod_i ON phenix.temporary_pick_details(tpd_cod_coh_id,tpd_cod_line_number,tpd_cus_code);

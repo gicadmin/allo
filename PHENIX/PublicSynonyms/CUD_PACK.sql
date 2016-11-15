@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cud_pack FOR phenix.cud_pack;

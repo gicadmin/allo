@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_fmt_weighted_inv_fk_i ON phenix.products(prd_fmt_weighted_inv_code);

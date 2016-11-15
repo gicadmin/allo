@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rep_whs_fk_i ON phenix.replenishments(rep_whs_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wpp_pack FOR phenix.wpp_pack;

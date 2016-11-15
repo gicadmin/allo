@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tcd_tch_fk_i ON phenix.temporary_caps_details(tcd_tch_id);

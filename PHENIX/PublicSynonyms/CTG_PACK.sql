@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ctg_pack FOR phenix.ctg_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_check_digit_pack FOR phenix.wms_check_digit_pack;

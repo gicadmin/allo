@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lty_operation_pack FOR phenix.lty_operation_pack;

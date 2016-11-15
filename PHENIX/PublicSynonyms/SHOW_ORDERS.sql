@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM show_orders FOR phenix.show_orders;

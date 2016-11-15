@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM arcus FOR phenix.arcus;

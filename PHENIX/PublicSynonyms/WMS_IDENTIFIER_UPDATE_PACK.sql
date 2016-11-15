@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_identifier_update_pack FOR phenix.wms_identifier_update_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_drop_statements FOR phenix.vendor_drop_statements;

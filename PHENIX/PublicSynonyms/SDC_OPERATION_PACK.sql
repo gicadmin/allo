@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdc_operation_pack FOR phenix.sdc_operation_pack;

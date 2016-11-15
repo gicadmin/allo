@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pos_extract_pack FOR phenix.pos_extract_pack;

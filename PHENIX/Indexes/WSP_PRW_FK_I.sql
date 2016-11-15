@@ -1,0 +1,1 @@
+CREATE INDEX phenix.wsp_prw_fk_i ON phenix.warehouse_sellable_products(wsp_prw_prd_code,wsp_prw_whs_delivery_code);

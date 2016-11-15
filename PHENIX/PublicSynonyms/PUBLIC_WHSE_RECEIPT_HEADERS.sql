@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM public_whse_receipt_headers FOR phenix.public_whse_receipt_headers;

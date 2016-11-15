@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpd_pmd_use_picker_fk_i ON phenix.console_pick_details(cpd_pmd_use_picker_code);

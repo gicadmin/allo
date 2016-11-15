@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM etiquette_caisse_seq FOR phenix.etiquette_caisse_seq;

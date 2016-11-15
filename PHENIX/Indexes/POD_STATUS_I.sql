@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pod_status_i ON phenix.purchase_order_details(pod_status);

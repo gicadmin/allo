@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cot_car_inh_fk_i ON phenix.customer_order_transactions(cot_car_inh_id);

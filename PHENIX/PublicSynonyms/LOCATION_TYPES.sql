@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM location_types FOR phenix.location_types;

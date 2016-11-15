@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pmh_cus_rou_date_i ON phenix.pick_mission_headers(pmh_cus_code,pmh_rou_code,pmh_route_date);

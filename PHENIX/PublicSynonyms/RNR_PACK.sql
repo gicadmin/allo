@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rnr_pack FOR phenix.rnr_pack;

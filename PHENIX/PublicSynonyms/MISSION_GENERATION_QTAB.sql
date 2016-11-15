@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mission_generation_qtab FOR phenix.mission_generation_qtab;

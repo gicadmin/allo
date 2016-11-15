@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vcp_vct_fk_i ON phenix.vendor_charge_posting_types(vcp_vct_code);

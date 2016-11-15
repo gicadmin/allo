@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM system_licenses FOR phenix.system_licenses;

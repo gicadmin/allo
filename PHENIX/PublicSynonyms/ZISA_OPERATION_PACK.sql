@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM zisa_operation_pack FOR phenix.zisa_operation_pack;

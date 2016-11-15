@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM saud_sq FOR phenix.saud_sq;

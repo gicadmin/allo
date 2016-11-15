@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ctt_operation_pack FOR phenix.ctt_operation_pack;

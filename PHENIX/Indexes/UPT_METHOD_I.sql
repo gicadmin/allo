@@ -1,0 +1,1 @@
+CREATE INDEX phenix.upt_method_i ON phenix.user_picking_times(upt_method);

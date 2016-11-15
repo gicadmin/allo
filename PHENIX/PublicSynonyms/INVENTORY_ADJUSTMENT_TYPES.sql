@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM inventory_adjustment_types FOR phenix.inventory_adjustment_types;

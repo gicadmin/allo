@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM locks_seq FOR phenix.locks_seq;

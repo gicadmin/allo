@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM jlo_pack FOR phenix.jlo_pack;

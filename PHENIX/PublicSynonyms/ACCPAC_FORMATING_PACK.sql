@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM accpac_formating_pack FOR phenix.accpac_formating_pack;

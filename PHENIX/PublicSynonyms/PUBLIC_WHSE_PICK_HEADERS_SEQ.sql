@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM public_whse_pick_headers_seq FOR phenix.public_whse_pick_headers_seq;

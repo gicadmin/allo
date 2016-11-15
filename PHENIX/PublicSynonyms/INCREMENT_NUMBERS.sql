@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM increment_numbers FOR phenix.increment_numbers;

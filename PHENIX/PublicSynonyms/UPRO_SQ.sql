@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM upro_sq FOR phenix.upro_sq;

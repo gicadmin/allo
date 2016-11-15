@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dmr_pack FOR phenix.dmr_pack;

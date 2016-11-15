@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM establishment_barcodes_seq FOR phenix.establishment_barcodes_seq;

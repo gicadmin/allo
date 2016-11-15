@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pwid_use_pick_fk_i ON phenix.public_whse_identifiers(pwid_use_pick_code);

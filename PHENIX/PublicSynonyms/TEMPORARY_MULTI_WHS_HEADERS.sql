@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_multi_whs_headers FOR phenix.temporary_multi_whs_headers;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_billing_details FOR phenix.vendor_billing_details;

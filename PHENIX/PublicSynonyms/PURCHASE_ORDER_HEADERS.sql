@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM purchase_order_headers FOR phenix.purchase_order_headers;

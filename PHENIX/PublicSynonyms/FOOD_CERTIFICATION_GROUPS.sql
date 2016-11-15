@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM food_certification_groups FOR phenix.food_certification_groups;

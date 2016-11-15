@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dcs_operation_pack FOR phenix.dcs_operation_pack;

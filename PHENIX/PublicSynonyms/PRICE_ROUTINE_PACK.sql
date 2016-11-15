@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM price_routine_pack FOR phenix.price_routine_pack;

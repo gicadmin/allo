@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM display_list_details FOR phenix.display_list_details;

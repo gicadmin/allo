@@ -1,0 +1,1 @@
+CREATE INDEX phenix.auro_arol_fk_i ON phenix.application_user_roles(auro_arol_id);

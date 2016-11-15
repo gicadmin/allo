@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM system_license_exceptions FOR phenix.system_license_exceptions;

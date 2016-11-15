@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rtd_prd_loc_i ON phenix.receipt_transaction_details(rtd_prf_prd_code,rtd_loc_code);

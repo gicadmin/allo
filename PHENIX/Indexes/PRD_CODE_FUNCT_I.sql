@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_code_funct_i ON phenix.products(LPAD("PRD_CODE",5,'0'));

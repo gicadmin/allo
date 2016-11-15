@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_order_actions FOR phenix.customer_order_actions;

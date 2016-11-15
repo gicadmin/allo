@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dcg_pack FOR phenix.dcg_pack;

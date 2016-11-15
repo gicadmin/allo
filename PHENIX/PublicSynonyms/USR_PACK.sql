@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM usr_pack FOR phenix.usr_pack;

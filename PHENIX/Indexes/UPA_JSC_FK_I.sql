@@ -1,0 +1,1 @@
+CREATE INDEX phenix.upa_jsc_fk_i ON phenix.user_parameters(upa_jsc_id);

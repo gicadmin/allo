@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM xrg_operation_pack FOR phenix.xrg_operation_pack;

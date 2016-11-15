@@ -1,0 +1,9 @@
+CREATE OR REPLACE PACKAGE phenix.FOR_OPERATION_PACK AS
+
+FUNCTION  GET_DESCRIPTION_FUNC(
+  p_for_id                         IN         formulas.for_id%TYPE,
+  p_language_code                  IN         MULTI_LANG_MESSAGES.MLM_LANG_CODE%TYPE)
+RETURN MULTI_LANG_MESSAGES.MLM_MESSAGE%TYPE;
+
+END FOR_OPERATION_PACK;
+/

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stores FOR phenix.stores;

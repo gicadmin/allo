@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM recipient_seq FOR phenix.recipient_seq;

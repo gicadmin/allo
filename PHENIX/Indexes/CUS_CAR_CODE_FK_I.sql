@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_car_code_fk_i ON phenix.customers(cus_car_code);

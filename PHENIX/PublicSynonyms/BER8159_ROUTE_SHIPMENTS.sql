@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ber8159_route_shipments FOR phenix.ber8159_route_shipments;

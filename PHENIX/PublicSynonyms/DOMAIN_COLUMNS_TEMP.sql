@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM domain_columns_temp FOR phenix.domain_columns_temp;

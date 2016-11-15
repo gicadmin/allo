@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM accpac_drop_pack FOR phenix.accpac_drop_pack;

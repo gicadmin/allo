@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_transport_customers FOR phenix.vendor_transport_customers;

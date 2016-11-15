@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_program_roles_seq FOR phenix.user_program_roles_seq;

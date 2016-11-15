@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM swss_operation_pack FOR phenix.swss_operation_pack;

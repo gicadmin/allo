@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stat_itwal_pack FOR phenix.stat_itwal_pack;

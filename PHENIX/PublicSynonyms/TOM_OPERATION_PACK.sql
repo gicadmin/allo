@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tom_operation_pack FOR phenix.tom_operation_pack;

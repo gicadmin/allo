@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM client_type_associations FOR phenix.client_type_associations;

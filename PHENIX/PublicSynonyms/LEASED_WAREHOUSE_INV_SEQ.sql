@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM leased_warehouse_inv_seq FOR phenix.leased_warehouse_inv_seq;

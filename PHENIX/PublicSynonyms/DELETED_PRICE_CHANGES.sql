@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM deleted_price_changes FOR phenix.deleted_price_changes;

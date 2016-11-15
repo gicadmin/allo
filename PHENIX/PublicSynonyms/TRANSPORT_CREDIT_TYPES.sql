@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transport_credit_types FOR phenix.transport_credit_types;

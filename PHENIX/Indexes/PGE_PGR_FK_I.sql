@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pge_pgr_fk_i ON phenix.product_group_promo_exclusions(pge_pgr_code);

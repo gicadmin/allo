@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM prn_operation_pack FOR phenix.prn_operation_pack;

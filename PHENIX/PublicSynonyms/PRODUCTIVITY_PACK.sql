@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM productivity_pack FOR phenix.productivity_pack;

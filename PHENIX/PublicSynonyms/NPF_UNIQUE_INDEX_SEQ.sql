@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM npf_unique_index_seq FOR phenix.npf_unique_index_seq;

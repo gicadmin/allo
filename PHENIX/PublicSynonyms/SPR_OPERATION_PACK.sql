@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM spr_operation_pack FOR phenix.spr_operation_pack;

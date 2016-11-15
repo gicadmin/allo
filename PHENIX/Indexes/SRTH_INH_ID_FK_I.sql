@@ -1,0 +1,1 @@
+CREATE INDEX phenix.srth_inh_id_fk_i ON phenix.sales_register_trans_headers(srth_inh_id);

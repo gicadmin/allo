@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stat_tracking_category_formats FOR phenix.stat_tracking_category_formats;

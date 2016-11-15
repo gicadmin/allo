@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_whs_delivery_days FOR phenix.vendor_whs_delivery_days;

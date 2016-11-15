@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM enr_operation_pack FOR phenix.enr_operation_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.csp_whs_code_fk_i ON phenix.customer_specific_reports(csp_whs_code);

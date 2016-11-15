@@ -1,0 +1,1 @@
+CREATE INDEX phenix.red_rep_fk_i ON phenix.replenishment_details(red_rep_id);

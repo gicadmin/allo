@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_repack_pack FOR phenix.rap_repack_pack;

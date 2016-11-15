@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_couriers FOR phenix.customer_couriers;

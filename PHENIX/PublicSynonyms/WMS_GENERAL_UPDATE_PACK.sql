@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_general_update_pack FOR phenix.wms_general_update_pack;

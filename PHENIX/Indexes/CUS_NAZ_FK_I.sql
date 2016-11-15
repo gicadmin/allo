@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_naz_fk_i ON phenix.customers(cus_naz_nac_code,cus_naz_zone_code);

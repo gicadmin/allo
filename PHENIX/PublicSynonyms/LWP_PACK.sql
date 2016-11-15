@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lwp_pack FOR phenix.lwp_pack;

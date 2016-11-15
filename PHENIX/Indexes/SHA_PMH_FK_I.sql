@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sha_pmh_fk_i ON phenix.shipment_audits(sha_pmh_id);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_rma_pack FOR phenix.wms_rma_pack;

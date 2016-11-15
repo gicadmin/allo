@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rdh_pack FOR phenix.rdh_pack;

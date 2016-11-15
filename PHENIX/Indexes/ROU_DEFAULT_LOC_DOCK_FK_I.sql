@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rou_default_loc_dock_fk_i ON phenix.routes(rou_default_loc_dock_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_transports_pack FOR phenix.vendor_transports_pack;

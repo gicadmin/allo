@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tsss_pack FOR phenix.tsss_pack;

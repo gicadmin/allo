@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dlh_ven_fk_i ON phenix.display_list_headers(dlh_ven_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ura_use_fk_i ON phenix.user_remote_applications(ura_use_code);

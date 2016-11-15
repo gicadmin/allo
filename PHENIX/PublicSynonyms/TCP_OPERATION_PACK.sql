@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tcp_operation_pack FOR phenix.tcp_operation_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ciu_operation_pack FOR phenix.ciu_operation_pack;

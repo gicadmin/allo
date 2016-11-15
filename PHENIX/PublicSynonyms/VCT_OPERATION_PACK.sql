@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vct_operation_pack FOR phenix.vct_operation_pack;

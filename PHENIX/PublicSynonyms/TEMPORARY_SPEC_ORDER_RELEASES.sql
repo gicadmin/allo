@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_spec_order_releases FOR phenix.temporary_spec_order_releases;

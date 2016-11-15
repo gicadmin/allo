@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tpd_pack FOR phenix.tpd_pack;

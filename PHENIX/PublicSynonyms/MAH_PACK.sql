@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mah_pack FOR phenix.mah_pack;

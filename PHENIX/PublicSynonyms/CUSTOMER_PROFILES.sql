@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_profiles FOR phenix.customer_profiles;

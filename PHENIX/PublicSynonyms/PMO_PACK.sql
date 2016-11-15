@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pmo_pack FOR phenix.pmo_pack;

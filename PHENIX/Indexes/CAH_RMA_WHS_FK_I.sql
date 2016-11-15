@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cah_rma_whs_fk_i ON phenix.customer_adjustment_headers(cah_rma_whs_code);

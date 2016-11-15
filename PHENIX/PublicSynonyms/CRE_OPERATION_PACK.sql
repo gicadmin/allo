@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cre_operation_pack FOR phenix.cre_operation_pack;

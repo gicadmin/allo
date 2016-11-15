@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_product_lov FOR phenix.temporary_product_lov;

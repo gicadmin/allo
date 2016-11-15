@@ -1,0 +1,1 @@
+CREATE INDEX phenix.aq$_mission_generation_qtab_i ON phenix.mission_generation_qtab(q_name,"STATE",enq_time,step_no,chain_no,local_order_no);

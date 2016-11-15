@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM warehouse_source_warehouses FOR phenix.warehouse_source_warehouses;

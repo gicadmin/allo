@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cur_operation_pack FOR phenix.cur_operation_pack;

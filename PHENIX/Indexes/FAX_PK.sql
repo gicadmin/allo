@@ -1,0 +1,1 @@
+CREATE INDEX phenix.fax_pk ON phenix.fax_logs(fax_jobid);

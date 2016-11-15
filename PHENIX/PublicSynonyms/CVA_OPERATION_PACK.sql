@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cva_operation_pack FOR phenix.cva_operation_pack;

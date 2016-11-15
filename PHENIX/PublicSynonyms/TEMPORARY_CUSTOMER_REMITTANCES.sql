@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_customer_remittances FOR phenix.temporary_customer_remittances;

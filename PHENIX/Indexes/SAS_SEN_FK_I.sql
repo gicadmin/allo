@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sas_sen_fk_i ON phenix.system_active_sessions(sas_sen_code);

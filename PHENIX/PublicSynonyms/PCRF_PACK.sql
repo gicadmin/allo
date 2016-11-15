@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pcrf_pack FOR phenix.pcrf_pack;

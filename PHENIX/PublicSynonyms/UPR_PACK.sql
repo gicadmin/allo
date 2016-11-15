@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM upr_pack FOR phenix.upr_pack;

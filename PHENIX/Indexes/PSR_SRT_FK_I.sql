@@ -1,0 +1,1 @@
+CREATE INDEX phenix.psr_srt_fk_i ON phenix.product_srps(psr_srt_code);

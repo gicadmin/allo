@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_freegood_info_i ON phenix.customer_order_details(cod_prf_prd_code,cod_freegood_switch,cod_freegood_rebill_amount);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM trr_pack FOR phenix.trr_pack;

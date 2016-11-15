@@ -1,0 +1,18 @@
+CREATE OR REPLACE PACKAGE phenix.INVOICE_MATCHING_PACK IS
+
+PROCEDURE GENERATE_SYSTEM_ASN_PROC
+ (P_POH_ID IN number
+ );
+/***
+ * CALCULATE_FREIGHT_FUNC : Calcule le coût d'une livraison selon les
+ *	paramètres du fournisseur.
+ * RETURN : Le coût de la livraison arrondi à 2 chiffres après la virgule (monnaie).
+ */
+FUNCTION CALCULATE_FREIGHT_FUNC(
+	P_MAH_AP_INVOICE_NUMBER IN NUMBER
+) RETURN NUMBER;
+FUNCTION CALCULATE_POD_FREIGHT_FUNC(
+	P_MAH_AP_INVOICE_NUMBER IN NUMBER
+) RETURN NUMBER;
+END INVOICE_MATCHING_PACK;
+/

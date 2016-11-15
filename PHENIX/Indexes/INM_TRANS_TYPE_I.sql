@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inm_trans_type_i ON phenix.inventory_movements(inm_trans_type);

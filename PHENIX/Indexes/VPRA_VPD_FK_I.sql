@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vpra_vpd_fk_i ON phenix.vendor_product_allocations(vpra_vpd_code,vpra_vpd_ven_distrib_by_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_potential_picks FOR phenix.temporary_potential_picks;

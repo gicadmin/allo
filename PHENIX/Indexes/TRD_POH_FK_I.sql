@@ -1,0 +1,1 @@
+CREATE INDEX phenix.trd_poh_fk_i ON phenix.transfer_details(trd_poh_id);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM trg_pack FOR phenix.trg_pack;

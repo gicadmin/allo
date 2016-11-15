@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dit_pack FOR phenix.dit_pack;

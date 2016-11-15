@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_purchase_prd_warehouses FOR phenix.v_purchase_prd_warehouses;

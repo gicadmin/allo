@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_retail_clients_seq FOR phenix.customer_retail_clients_seq;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.lty_rac_fk_i ON phenix.location_types(lty_rac_code);

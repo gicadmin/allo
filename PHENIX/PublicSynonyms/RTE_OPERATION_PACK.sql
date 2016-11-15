@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rte_operation_pack FOR phenix.rte_operation_pack;

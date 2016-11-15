@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM twc_pack FOR phenix.twc_pack;

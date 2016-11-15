@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM load_price_pack FOR phenix.load_price_pack;

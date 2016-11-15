@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM omp_pack FOR phenix.omp_pack;

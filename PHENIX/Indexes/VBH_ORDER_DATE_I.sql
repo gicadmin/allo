@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vbh_order_date_i ON phenix.vendor_billing_headers(vbh_order_date);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_charge_posting_types FOR phenix.vendor_charge_posting_types;

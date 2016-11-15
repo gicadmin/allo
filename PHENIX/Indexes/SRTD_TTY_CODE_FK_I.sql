@@ -1,0 +1,1 @@
+CREATE INDEX phenix.srtd_tty_code_fk_i ON phenix.sales_register_trans_details(srtd_tty_code);

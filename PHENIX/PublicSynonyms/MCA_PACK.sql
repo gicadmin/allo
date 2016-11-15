@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mca_pack FOR phenix.mca_pack;

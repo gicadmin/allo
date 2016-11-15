@@ -1,0 +1,1 @@
+CREATE INDEX phenix.wsw_whs_source_fk_i ON phenix.warehouse_source_warehouses(wsw_whs_source_code);

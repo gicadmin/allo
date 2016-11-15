@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM int_pack FOR phenix.int_pack;

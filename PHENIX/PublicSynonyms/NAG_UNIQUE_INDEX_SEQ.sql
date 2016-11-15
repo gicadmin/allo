@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nag_unique_index_seq FOR phenix.nag_unique_index_seq;

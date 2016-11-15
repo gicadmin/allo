@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM site_weekly_sales_summaries FOR phenix.site_weekly_sales_summaries;

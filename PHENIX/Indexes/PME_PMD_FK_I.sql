@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pme_pmd_fk_i ON phenix.pick_mission_exp_dates(pme_pmd_id);

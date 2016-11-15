@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sar_cod_fk_i ON phenix.sales_agreement_reclaims(sar_cod_coh_id,sar_cod_line_number);

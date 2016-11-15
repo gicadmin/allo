@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM crypt_funct FOR phenix.crypt_funct;

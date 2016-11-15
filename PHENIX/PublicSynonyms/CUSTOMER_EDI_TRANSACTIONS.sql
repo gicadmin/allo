@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_edi_transactions FOR phenix.customer_edi_transactions;

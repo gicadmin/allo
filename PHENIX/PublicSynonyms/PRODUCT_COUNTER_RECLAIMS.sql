@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_counter_reclaims FOR phenix.product_counter_reclaims;

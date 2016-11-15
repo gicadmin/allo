@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_customer_sales FOR phenix.temporary_customer_sales;

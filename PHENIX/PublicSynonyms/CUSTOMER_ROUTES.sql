@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_routes FOR phenix.customer_routes;

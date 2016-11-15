@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_tendance_groups FOR phenix.temporary_tendance_groups;

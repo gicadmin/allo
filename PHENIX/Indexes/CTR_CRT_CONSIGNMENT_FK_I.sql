@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ctr_crt_consignment_fk_i ON phenix.control(ctr_crt_consignment_code);

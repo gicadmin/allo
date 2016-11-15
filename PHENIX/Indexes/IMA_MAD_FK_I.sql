@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ima_mad_fk_i ON phenix.invoice_matching_audits(ima_mad_mah_ap_invoice_number,ima_mad_line_number);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_catalog_prints FOR phenix.temporary_catalog_prints;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prx_vpd_date_posted_switch_i ON phenix.price_changes(prx_vpd_code,prx_vpd_ven_code,prx_posted_switch,prx_effective_date);

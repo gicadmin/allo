@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_promotions_seq FOR phenix.vendor_promotions_seq;

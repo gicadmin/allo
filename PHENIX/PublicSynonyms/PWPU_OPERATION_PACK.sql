@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pwpu_operation_pack FOR phenix.pwpu_operation_pack;

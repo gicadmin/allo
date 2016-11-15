@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cda_pack FOR phenix.cda_pack;

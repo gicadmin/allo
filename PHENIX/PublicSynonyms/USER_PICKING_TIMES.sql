@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_picking_times FOR phenix.user_picking_times;

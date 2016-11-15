@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM formula_sql_components FOR phenix.formula_sql_components;

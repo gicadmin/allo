@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prw_shr_fk_i ON phenix.product_warehouses(prw_shr_code);

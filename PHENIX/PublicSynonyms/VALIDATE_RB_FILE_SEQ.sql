@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM validate_rb_file_seq FOR phenix.validate_rb_file_seq;

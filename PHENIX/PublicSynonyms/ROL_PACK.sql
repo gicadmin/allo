@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rol_pack FOR phenix.rol_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM upa_pack FOR phenix.upa_pack;

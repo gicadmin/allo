@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vfe_ven_fk_i ON phenix.vendor_format_equivalences(vfe_ven_code);

@@ -1,0 +1,17 @@
+CREATE OR REPLACE PACKAGE phenix.PHXSGE_FUNCTIONS_PACK IS
+
+FUNCTION CREATE_UST_FUNC(
+	p_ust_use_code		 IN  NUMBER,
+	p_ust_start_date	 IN  DATE,
+	p_ust_end_date	   IN  DATE,
+	p_ust_menu_option	 IN VARCHAR2
+) RETURN PLS_INTEGER;
+
+FUNCTION UPDATE_UST_FUNC(
+	p_use_code			IN	NUMBER,
+	p_ust_end_date	IN	DATE
+) RETURN PLS_INTEGER;
+
+END PHXSGE_FUNCTIONS_PACK;
+ 
+/

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ulm_operation_pack FOR phenix.ulm_operation_pack;

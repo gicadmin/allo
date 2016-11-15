@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_pug_fk_i ON phenix.customers(cus_pug_code);

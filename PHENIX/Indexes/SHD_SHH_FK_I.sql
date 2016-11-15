@@ -1,0 +1,1 @@
+CREATE INDEX phenix.shd_shh_fk_i ON phenix.shipment_details(shd_shh_id);

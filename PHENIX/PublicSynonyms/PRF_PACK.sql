@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM prf_pack FOR phenix.prf_pack;

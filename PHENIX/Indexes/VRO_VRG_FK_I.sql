@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vro_vrg_fk_i ON phenix.volume_rebate_objectives(vro_vrg_code);

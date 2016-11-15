@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pth_shh_fk_i ON phenix.pallet_transaction_headers(pth_shh_id);

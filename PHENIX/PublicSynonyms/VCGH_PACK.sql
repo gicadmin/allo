@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vcgh_pack FOR phenix.vcgh_pack;

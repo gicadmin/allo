@@ -1,0 +1,1 @@
+CREATE INDEX phenix.shh_loading_info_i ON phenix.shipment_headers(shh_cus_code,shh_loc_code,shh_load_window,shh_trailer_number);

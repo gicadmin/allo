@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cdk_prv_code_fk_i ON phenix.cross_docks(cdk_prv_code);

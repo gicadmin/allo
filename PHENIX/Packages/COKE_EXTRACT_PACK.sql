@@ -1,0 +1,13 @@
+CREATE OR REPLACE PACKAGE phenix.COKE_EXTRACT_PACK IS
+PROCEDURE GEN_COKE_STATS_PROC
+ (p_jsc_id IN NUMBER ) ;
+
+ PROCEDURE EXTRACT_COKE_STATS_PROC
+(	p_from_date	IN DATE
+ ,p_to_date 	IN DATE
+ ,p_whs_code	IN VARCHAR2
+ ,p_from_cus  IN NUMBER       --CHA1483
+ ,p_to_cus    IN NUMBER       --CHA1483
+ ) ;
+END COKE_EXTRACT_PACK;
+/

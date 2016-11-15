@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM zero_inventory_sales_audits FOR phenix.zero_inventory_sales_audits;

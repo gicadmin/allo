@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM debug_traces FOR phenix.debug_traces;

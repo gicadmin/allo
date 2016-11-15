@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM interface_broker_pack FOR phenix.interface_broker_pack;

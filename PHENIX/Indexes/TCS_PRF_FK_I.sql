@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tcs_prf_fk_i ON phenix.temp_counter_special_orders(tcs_cod_prf_prd_code,tcs_cod_prf_fmt_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_caps_details_seq FOR phenix.temporary_caps_details_seq;

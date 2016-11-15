@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prf_prd_sell_cash_i ON phenix.product_formats(prf_prd_code,prf_sellable_format_switch,prf_cash_n_carry_only_switch);

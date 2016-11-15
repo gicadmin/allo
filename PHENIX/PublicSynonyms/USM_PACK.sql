@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM usm_pack FOR phenix.usm_pack;

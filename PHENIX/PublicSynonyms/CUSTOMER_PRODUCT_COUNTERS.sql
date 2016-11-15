@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_product_counters FOR phenix.customer_product_counters;

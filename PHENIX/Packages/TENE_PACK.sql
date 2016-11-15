@@ -1,0 +1,86 @@
+CREATE OR REPLACE PACKAGE phenix.TENE_PACK AS
+
+
+PROCEDURE INIT_RECORD_PROC(
+  p_rec                OUT NOCOPY  temporary_edi_ni_extract%ROWTYPE);
+
+
+PROCEDURE INSERT_PROC(
+  p_tene_id                       IN         temporary_edi_ni_extract.tene_id%TYPE                            DEFAULT NULL,
+  p_tene_type                     IN         temporary_edi_ni_extract.tene_type%TYPE                          DEFAULT NULL,
+  p_tene_cus_code                 IN         temporary_edi_ni_extract.tene_cus_code%TYPE                      DEFAULT NULL,
+  p_tene_order_date               IN         temporary_edi_ni_extract.tene_order_date%TYPE                    DEFAULT NULL,
+  p_tene_invoice_date             IN         temporary_edi_ni_extract.tene_invoice_date%TYPE                  DEFAULT NULL,
+  p_tene_reference_number         IN         temporary_edi_ni_extract.tene_reference_number%TYPE              DEFAULT NULL,
+  p_tene_seller_prd_ref_number    IN         temporary_edi_ni_extract.tene_seller_prd_ref_number%TYPE         DEFAULT NULL,
+  p_tene_buyer_prd_ref_number     IN         temporary_edi_ni_extract.tene_buyer_prd_ref_number%TYPE          DEFAULT NULL,
+  p_tene_upc_code                 IN         temporary_edi_ni_extract.tene_upc_code%TYPE                      DEFAULT NULL,
+  p_tene_ordered_quantity         IN         temporary_edi_ni_extract.tene_ordered_quantity%TYPE              DEFAULT NULL,
+  p_tene_invoiced_quantity        IN         temporary_edi_ni_extract.tene_invoiced_quantity%TYPE             DEFAULT NULL,
+  p_tene_line_number              IN         temporary_edi_ni_extract.tene_line_number%TYPE                   DEFAULT NULL,
+  p_tene_description              IN         temporary_edi_ni_extract.tene_description%TYPE                   DEFAULT NULL,
+  p_tene_original_invoice_number  IN         temporary_edi_ni_extract.tene_original_invoice_number%TYPE       DEFAULT NULL,
+  p_tene_customer_order_number    IN         temporary_edi_ni_extract.tene_customer_order_number%TYPE         DEFAULT NULL,
+  p_tene_customer_order_line      IN         temporary_edi_ni_extract.tene_customer_order_line%TYPE           DEFAULT NULL,
+  p_tene_whs_code                 IN         temporary_edi_ni_extract.tene_whs_code%TYPE                      DEFAULT NULL,
+  p_tene_use_code                 IN         temporary_edi_ni_extract.tene_use_code%TYPE                      DEFAULT NULL,
+  p_tene_cus_cus_code             IN         temporary_edi_ni_extract.tene_cus_cus_code%TYPE                  DEFAULT NULL,
+  p_tene_prf_prd_code             IN         temporary_edi_ni_extract.tene_prf_prd_code%TYPE                  DEFAULT NULL,
+  p_tene_prf_fmt_code             IN         temporary_edi_ni_extract.tene_prf_fmt_code%TYPE                  DEFAULT NULL,
+  p_tene_base_selling_cost        IN         temporary_edi_ni_extract.tene_base_selling_cost%TYPE             DEFAULT NULL,
+  p_tene_cost_price               IN         temporary_edi_ni_extract.tene_cost_price%TYPE                    DEFAULT NULL,
+  p_tene_original_retail          IN         temporary_edi_ni_extract.tene_original_retail%TYPE               DEFAULT NULL,
+  p_tene_pricing_source           IN         temporary_edi_ni_extract.tene_pricing_source%TYPE                DEFAULT NULL,
+  p_tene_promotion_amount         IN         temporary_edi_ni_extract.tene_promotion_amount%TYPE              DEFAULT NULL,
+  p_tene_project_delivery_date    IN         temporary_edi_ni_extract.tene_project_delivery_date%TYPE         DEFAULT NULL,
+  p_tene_selling_retail           IN         temporary_edi_ni_extract.tene_selling_retail%TYPE                DEFAULT NULL,
+  p_tene_surcharge                IN         temporary_edi_ni_extract.tene_surcharge%TYPE                     DEFAULT NULL,
+  p_tene_tobacco_tax              IN         temporary_edi_ni_extract.tene_tobacco_tax%TYPE                   DEFAULT NULL,
+  p_tene_fmt_code_srp             IN         temporary_edi_ni_extract.tene_fmt_code_srp%TYPE                  DEFAULT NULL,
+  p_tene_pty_code                 IN         temporary_edi_ni_extract.tene_pty_code%TYPE                      DEFAULT NULL,
+  p_tene_price_srp                IN         temporary_edi_ni_extract.tene_price_srp%TYPE                     DEFAULT NULL,
+  p_tene_quantity_srp             IN         temporary_edi_ni_extract.tene_quantity_srp%TYPE                  DEFAULT NULL,
+  p_tene_average_cost_1           IN         temporary_edi_ni_extract.tene_average_cost_1%TYPE                DEFAULT NULL,
+  p_tene_average_cost_2           IN         temporary_edi_ni_extract.tene_average_cost_2%TYPE                DEFAULT NULL,
+  p_tene_average_cost_3           IN         temporary_edi_ni_extract.tene_average_cost_3%TYPE                DEFAULT NULL,
+  p_tene_average_cost_4           IN         temporary_edi_ni_extract.tene_average_cost_4%TYPE                DEFAULT NULL,
+  p_tene_average_list             IN         temporary_edi_ni_extract.tene_average_list%TYPE                  DEFAULT NULL,
+  p_tene_avg_real_cost_1          IN         temporary_edi_ni_extract.tene_avg_real_cost_1%TYPE               DEFAULT NULL,
+  p_tene_avg_real_cost_2          IN         temporary_edi_ni_extract.tene_avg_real_cost_2%TYPE               DEFAULT NULL,
+  p_tene_avg_real_cost_3          IN         temporary_edi_ni_extract.tene_avg_real_cost_3%TYPE               DEFAULT NULL,
+  p_tene_avg_real_cost_4          IN         temporary_edi_ni_extract.tene_avg_real_cost_4%TYPE               DEFAULT NULL,
+  p_tene_avg_real_list            IN         temporary_edi_ni_extract.tene_avg_real_list%TYPE                 DEFAULT NULL,
+  p_tene_car_amount               IN         temporary_edi_ni_extract.tene_car_amount%TYPE                    DEFAULT NULL,
+  p_tene_replacement_list         IN         temporary_edi_ni_extract.tene_replacement_list%TYPE              DEFAULT NULL,
+  p_tene_replacement_cost_1       IN         temporary_edi_ni_extract.tene_replacement_cost_1%TYPE            DEFAULT NULL,
+  p_tene_replacement_cost_2       IN         temporary_edi_ni_extract.tene_replacement_cost_2%TYPE            DEFAULT NULL,
+  p_tene_replacement_cost_3       IN         temporary_edi_ni_extract.tene_replacement_cost_3%TYPE            DEFAULT NULL,
+  p_tene_replacement_cost_4       IN         temporary_edi_ni_extract.tene_replacement_cost_4%TYPE            DEFAULT NULL,
+  p_tene_royalty_amount           IN         temporary_edi_ni_extract.tene_royalty_amount%TYPE                DEFAULT NULL,
+  p_tene_loc_code                 IN         temporary_edi_ni_extract.tene_loc_code%TYPE                      DEFAULT NULL,
+  p_tene_prv_code                 IN         temporary_edi_ni_extract.tene_prv_code%TYPE                      DEFAULT NULL,
+  p_tene_federal_tax_switch       IN         temporary_edi_ni_extract.tene_federal_tax_switch%TYPE            DEFAULT NULL,
+  p_tene_provincial_tax_switch    IN         temporary_edi_ni_extract.tene_provincial_tax_switch%TYPE         DEFAULT NULL,
+  p_tene_provincial_tax_rate      IN         temporary_edi_ni_extract.tene_provincial_tax_rate%TYPE           DEFAULT NULL,
+  p_tene_federal_tax_rate         IN         temporary_edi_ni_extract.tene_federal_tax_rate%TYPE              DEFAULT NULL,
+  p_tene_compounded_tax_switch    IN         temporary_edi_ni_extract.tene_compounded_tax_switch%TYPE         DEFAULT NULL,
+  p_tene_provincial_line_tax_rat  IN         temporary_edi_ni_extract.tene_provincial_line_tax_rate%TYPE      DEFAULT NULL,
+  p_tene_federal_line_tax_rate    IN         temporary_edi_ni_extract.tene_federal_line_tax_rate%TYPE         DEFAULT NULL,
+  p_tene_apply_delivery_switch    IN         temporary_edi_ni_extract.tene_apply_delivery_switch%TYPE         DEFAULT NULL,
+  p_tene_crt_code                 IN         temporary_edi_ni_extract.tene_crt_code%TYPE                      DEFAULT NULL,
+  p_tene_cigar_switch             IN         temporary_edi_ni_extract.tene_cigar_switch%TYPE                  DEFAULT NULL,
+  p_tene_invoiced_ext_price       IN         temporary_edi_ni_extract.tene_invoiced_ext_price%TYPE            DEFAULT NULL,
+  p_tene_invoiced_ext_surcharge   IN         temporary_edi_ni_extract.tene_invoiced_ext_surcharge%TYPE        DEFAULT NULL,
+  p_tene_federal_tax_amount       IN         temporary_edi_ni_extract.tene_federal_tax_amount%TYPE            DEFAULT NULL,
+  p_tene_provincial_tax_amount    IN         temporary_edi_ni_extract.tene_provincial_tax_amount%TYPE         DEFAULT NULL,
+  p_tene_debit_switch             IN         temporary_edi_ni_extract.tene_debit_switch%TYPE                  DEFAULT NULL,
+  p_tene_ccr_code                 IN         temporary_edi_ni_extract.tene_ccr_code%TYPE                      DEFAULT NULL,
+  p_tene_store_num                IN         temporary_edi_ni_extract.tene_store_num%TYPE                     DEFAULT NULL,
+  p_tene_partner_id               IN         temporary_edi_ni_extract.tene_partner_id%TYPE                    DEFAULT NULL);
+
+
+PROCEDURE INSERT_PROC(
+  p_rec           IN OUT NOCOPY temporary_edi_ni_extract%ROWTYPE);
+
+END TENE_PACK;
+/

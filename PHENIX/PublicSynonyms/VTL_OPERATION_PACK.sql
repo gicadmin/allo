@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vtl_operation_pack FOR phenix.vtl_operation_pack;

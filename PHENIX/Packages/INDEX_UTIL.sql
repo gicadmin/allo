@@ -1,0 +1,8 @@
+CREATE OR REPLACE PACKAGE phenix.INDEX_UTIL IS
+
+PROCEDURE inspect_schema(
+ p_schema   IN VARCHAR2
+);
+
+END INDEX_UTIL;
+/

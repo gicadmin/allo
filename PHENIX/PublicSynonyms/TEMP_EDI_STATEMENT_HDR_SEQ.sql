@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_edi_statement_hdr_seq FOR phenix.temp_edi_statement_hdr_seq;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM receipt_headers FOR phenix.receipt_headers;

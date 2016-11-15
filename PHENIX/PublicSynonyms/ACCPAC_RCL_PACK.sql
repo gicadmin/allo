@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM accpac_rcl_pack FOR phenix.accpac_rcl_pack;

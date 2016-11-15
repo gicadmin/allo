@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM generatedoc_pack FOR phenix.generatedoc_pack;

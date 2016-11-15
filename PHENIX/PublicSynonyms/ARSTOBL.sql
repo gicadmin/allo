@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM arstobl FOR phenix.arstobl;

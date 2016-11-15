@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cds_pack FOR phenix.cds_pack;

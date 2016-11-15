@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_drop_statements FOR phenix.customer_drop_statements;

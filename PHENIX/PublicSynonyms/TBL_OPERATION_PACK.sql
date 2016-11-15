@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tbl_operation_pack FOR phenix.tbl_operation_pack;

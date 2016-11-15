@@ -1,0 +1,1 @@
+CREATE INDEX phenix.car_prv_fk_i ON phenix.carriers(car_prv_code);

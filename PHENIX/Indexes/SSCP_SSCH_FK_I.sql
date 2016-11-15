@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sscp_ssch_fk_i ON phenix.site_schedule_contract_payment(sscp_ssch_code);

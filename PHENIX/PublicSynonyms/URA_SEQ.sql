@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ura_seq FOR phenix.ura_seq;

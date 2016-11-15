@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pcro_pcro_fk_i ON phenix.pci_roles(pcro_pcro_id);

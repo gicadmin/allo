@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ved_operation_pack FOR phenix.ved_operation_pack;

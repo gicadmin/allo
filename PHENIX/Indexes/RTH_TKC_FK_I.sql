@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rth_tkc_fk_i ON phenix.receipt_transaction_headers(rth_tkc_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.npf_prf_fk_i ON phenix.nac_product_formats(npf_prf_prd_code,npf_prf_fmt_code);

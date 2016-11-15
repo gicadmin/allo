@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_invoice_report_headers FOR phenix.v_invoice_report_headers;

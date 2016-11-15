@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pus_use_fk_i ON phenix.pci_users(pus_use_code);

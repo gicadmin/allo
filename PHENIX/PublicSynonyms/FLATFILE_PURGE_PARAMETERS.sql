@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM flatfile_purge_parameters FOR phenix.flatfile_purge_parameters;

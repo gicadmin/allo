@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fsc_seq FOR phenix.fsc_seq;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_customer_lists FOR phenix.vendor_customer_lists;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vpra_operation_pack FOR phenix.vpra_operation_pack;

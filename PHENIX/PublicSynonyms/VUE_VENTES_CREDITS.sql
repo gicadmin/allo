@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vue_ventes_credits FOR phenix.vue_ventes_credits;

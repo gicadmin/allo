@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gcl9229_programs FOR phenix.gcl9229_programs;

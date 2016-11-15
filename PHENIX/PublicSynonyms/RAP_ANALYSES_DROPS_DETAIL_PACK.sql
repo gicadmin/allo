@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_analyses_drops_detail_pack FOR phenix.rap_analyses_drops_detail_pack;

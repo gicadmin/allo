@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cda_car_fk_i ON phenix.customer_dock_assignments(cda_car_code);

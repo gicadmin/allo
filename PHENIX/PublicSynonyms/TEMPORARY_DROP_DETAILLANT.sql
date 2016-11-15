@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_drop_detaillant FOR phenix.temporary_drop_detaillant;

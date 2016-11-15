@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_a_court_acheteur_pack FOR phenix.rap_a_court_acheteur_pack;

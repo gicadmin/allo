@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lwi_pack FOR phenix.lwi_pack;

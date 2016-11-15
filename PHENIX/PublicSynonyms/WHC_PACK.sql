@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM whc_pack FOR phenix.whc_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_containers_to_load FOR phenix.temporary_containers_to_load;

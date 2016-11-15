@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vdi_affect_match_cost_switch_i ON phenix.vendor_discounts(vdi_affect_match_cost_switch);

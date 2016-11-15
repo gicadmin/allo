@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM inh_queue_pack FOR phenix.inh_queue_pack;

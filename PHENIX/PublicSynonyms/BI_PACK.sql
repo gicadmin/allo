@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM bi_pack FOR phenix.bi_pack;

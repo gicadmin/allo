@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM split_pmd_pack FOR phenix.split_pmd_pack;

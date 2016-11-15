@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inm_source_ide_id_i ON phenix.inventory_movements(inm_source_ide_id);

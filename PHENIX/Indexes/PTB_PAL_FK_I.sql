@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ptb_pal_fk_i ON phenix.pallet_transaction_balances(ptb_pal_code);

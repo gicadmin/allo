@@ -1,0 +1,17 @@
+CREATE TABLE phenix.apven (
+  vendorid VARCHAR2(12 BYTE) NOT NULL,
+  audtorg VARCHAR2(6 BYTE) NOT NULL,
+  swactv NUMBER(*,0) NOT NULL,
+  dateinac NUMBER(9) NOT NULL,
+  vendname VARCHAR2(60 BYTE) NOT NULL,
+  textstre1 VARCHAR2(60 BYTE) NOT NULL,
+  textstre2 VARCHAR2(60 BYTE) NOT NULL,
+  textstre3 VARCHAR2(60 BYTE) NOT NULL,
+  textstre4 VARCHAR2(60 BYTE) NOT NULL,
+  namecity VARCHAR2(30 BYTE) NOT NULL,
+  codestte VARCHAR2(30 BYTE) NOT NULL,
+  codepstl VARCHAR2(20 BYTE) NOT NULL,
+  textphon1 VARCHAR2(30 BYTE) NOT NULL,
+  amtcrlimt NUMBER(19,3) NOT NULL,
+  CONSTRAINT apven_pk PRIMARY KEY (vendorid,audtorg)
+);

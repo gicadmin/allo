@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dyn_sql_pack FOR phenix.dyn_sql_pack;

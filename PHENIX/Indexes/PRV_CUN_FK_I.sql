@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prv_cun_fk_i ON phenix.provinces(prv_cun_code);

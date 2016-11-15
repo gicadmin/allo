@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_placement_table FOR phenix.temporary_placement_table;

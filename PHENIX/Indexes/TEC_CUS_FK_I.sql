@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tec_cus_fk_i ON phenix.transporter_ref_customers(tec_cus_code);

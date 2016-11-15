@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pci_sales_pack FOR phenix.pci_sales_pack;

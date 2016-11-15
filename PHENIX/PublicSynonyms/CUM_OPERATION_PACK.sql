@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cum_operation_pack FOR phenix.cum_operation_pack;

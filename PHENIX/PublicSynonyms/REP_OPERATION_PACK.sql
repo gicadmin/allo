@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rep_operation_pack FOR phenix.rep_operation_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_caps_i ON phenix.customer_order_details(cod_prf_prd_code,cod_open_switch,cod_order_type);

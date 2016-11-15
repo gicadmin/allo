@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cse_pack FOR phenix.cse_pack;

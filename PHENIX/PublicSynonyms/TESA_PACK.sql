@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tesa_pack FOR phenix.tesa_pack;

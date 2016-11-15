@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ven_negotiator_use_fk_i ON phenix.vendors(ven_negotiator_use_code);

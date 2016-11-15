@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cpr_pack FOR phenix.cpr_pack;

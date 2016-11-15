@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cpy_operation_pack FOR phenix.cpy_operation_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_gain_inventaire FOR phenix.temporary_gain_inventaire;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transporter_ref_customers_seq FOR phenix.transporter_ref_customers_seq;

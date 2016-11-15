@@ -1,0 +1,1 @@
+CREATE INDEX phenix.osm_date_prf_status_i ON phenix.outstanding_missions(osm_route_date,osm_prf_prd_code,osm_prf_fmt_code,osm_status);

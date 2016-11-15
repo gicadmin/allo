@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cur_prd_fk_i ON phenix.customer_remittances(cur_prd_code);

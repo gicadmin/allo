@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_product_quantity FOR phenix.v_product_quantity;

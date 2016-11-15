@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_format_transform_seq FOR phenix.product_format_transform_seq;

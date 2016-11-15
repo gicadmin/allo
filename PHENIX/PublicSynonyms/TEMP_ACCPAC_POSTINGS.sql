@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_accpac_postings FOR phenix.temp_accpac_postings;

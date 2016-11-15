@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pcro_operation_pack FOR phenix.pcro_operation_pack;

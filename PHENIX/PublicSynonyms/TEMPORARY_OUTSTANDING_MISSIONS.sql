@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_outstanding_missions FOR phenix.temporary_outstanding_missions;

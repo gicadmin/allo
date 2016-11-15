@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pof_pack FOR phenix.pof_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cad_prf_fk_i ON phenix.customer_adjustment_details(cad_prf_prd_code,cad_prf_fmt_code);

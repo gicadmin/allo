@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cah_whs_delivery_fk_i ON phenix.customer_adjustment_headers(cah_whs_delivery_code);

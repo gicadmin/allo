@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pss_prd_fk_i ON phenix.product_stats_summaries(pss_prd_code);

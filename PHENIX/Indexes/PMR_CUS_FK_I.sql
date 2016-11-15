@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pmr_cus_fk_i ON phenix.pallet_model_rules(pmr_cus_code);

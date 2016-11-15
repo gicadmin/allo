@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cud_dgt_fk_i ON phenix.customer_discounts(cud_dgt_code);

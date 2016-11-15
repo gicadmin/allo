@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pfe_pack FOR phenix.pfe_pack;

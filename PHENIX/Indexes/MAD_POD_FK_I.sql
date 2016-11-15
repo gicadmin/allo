@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mad_pod_fk_i ON phenix.match_details(mad_pod_poh_id,mad_pod_line_number);

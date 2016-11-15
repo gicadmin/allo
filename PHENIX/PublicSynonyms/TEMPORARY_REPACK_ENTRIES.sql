@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_repack_entries FOR phenix.temporary_repack_entries;

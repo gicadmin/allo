@@ -1,0 +1,22 @@
+CREATE TABLE phenix.lau526_transaction_by_lot (
+  tbl_id NUMBER(15) NOT NULL,
+  tbl_type VARCHAR2(21 BYTE) NOT NULL,
+  tbl_bar_code VARCHAR2(200 BYTE) NOT NULL,
+  tbl_prd_code VARCHAR2(10 BYTE) NOT NULL,
+  tbl_weight NUMBER(10,3) NOT NULL,
+  tbl_date DATE NOT NULL,
+  tbl_type_date VARCHAR2(1 BYTE) NOT NULL,
+  tbl_upc_code VARCHAR2(18 BYTE),
+  tbl_num_serial VARCHAR2(30 BYTE),
+  tbl_order_code NUMBER(15),
+  tbl_pick_code NUMBER(15),
+  tbl_creation_date DATE NOT NULL,
+  tbl_temperature NUMBER(6,2),
+  tbl_establishment VARCHAR2(7 BYTE),
+  tbl_use_code NUMBER(5) NOT NULL,
+  tbl_modification_date DATE NOT NULL,
+  tbl_pallet_number VARCHAR2(200 BYTE),
+  tbl_id_origin NUMBER(15),
+  tbl_recipe_number NUMBER(3),
+  tbl_customer_order_number NUMBER(7)
+);

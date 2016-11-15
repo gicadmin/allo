@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dpc_deletion_date_i ON phenix.deleted_price_changes(dpc_deletion_date);

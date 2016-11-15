@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rcl_rcm_fk_i ON phenix.retail_clients(rcl_rcm_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.wps_prw_fk_i ON phenix.weekly_product_summaries(wps_prw_prd_code,wps_prw_whs_code);

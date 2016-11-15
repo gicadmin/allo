@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM clm_operation_pack FOR phenix.clm_operation_pack;

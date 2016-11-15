@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pwp_prn_fk_i ON phenix.program_warehouse_printers(pwp_prn_id);

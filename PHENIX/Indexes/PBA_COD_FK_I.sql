@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pba_cod_fk_i ON phenix.prebook_audits(pba_cod_coh_id,pba_cod_line_number);

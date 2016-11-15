@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pod_prf_original_fk_i ON phenix.purchase_order_details(pod_prf_prd_original_code,pod_prf_fmt_original_code);

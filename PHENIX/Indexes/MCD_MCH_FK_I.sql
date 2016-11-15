@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mcd_mch_fk_i ON phenix.miscellaneous_charge_details(mcd_mch_id);

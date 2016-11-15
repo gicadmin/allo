@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cmt_pack FOR phenix.cmt_pack;

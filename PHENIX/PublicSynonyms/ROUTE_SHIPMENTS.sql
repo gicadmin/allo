@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM route_shipments FOR phenix.route_shipments;

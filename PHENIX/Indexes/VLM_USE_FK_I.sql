@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vlm_use_fk_i ON phenix.vendor_log_modifs(vlm_use_code);

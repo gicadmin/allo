@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transfer_details FOR phenix.transfer_details;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM loc_pack FOR phenix.loc_pack;

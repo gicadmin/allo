@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rte_use_fk_i ON phenix.route_transport_exceptions(rte_use_code);

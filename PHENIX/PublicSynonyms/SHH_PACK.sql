@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM shh_pack FOR phenix.shh_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dynamic_load_pack FOR phenix.dynamic_load_pack;

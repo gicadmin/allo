@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ula_operation_pack FOR phenix.ula_operation_pack;

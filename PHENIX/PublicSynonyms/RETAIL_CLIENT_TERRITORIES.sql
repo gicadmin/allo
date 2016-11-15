@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM retail_client_territories FOR phenix.retail_client_territories;

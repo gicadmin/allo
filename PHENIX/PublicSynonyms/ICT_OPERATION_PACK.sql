@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ict_operation_pack FOR phenix.ict_operation_pack;

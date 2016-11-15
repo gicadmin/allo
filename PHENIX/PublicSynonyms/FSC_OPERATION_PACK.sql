@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fsc_operation_pack FOR phenix.fsc_operation_pack;

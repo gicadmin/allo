@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rsh_created_by_use_fk_i ON phenix.route_shipments(rsh_created_by_use_code);

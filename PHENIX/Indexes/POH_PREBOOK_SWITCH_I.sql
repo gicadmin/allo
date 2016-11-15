@@ -1,0 +1,1 @@
+CREATE INDEX phenix.poh_prebook_switch_i ON phenix.purchase_order_headers(poh_prebook_switch);

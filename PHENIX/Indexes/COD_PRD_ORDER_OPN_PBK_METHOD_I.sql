@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_prd_order_opn_pbk_method_i ON phenix.customer_order_details(cod_prf_prd_code,cod_order_type,cod_open_switch,cod_prebook_method);

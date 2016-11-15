@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mcd_operation_pack FOR phenix.mcd_operation_pack;

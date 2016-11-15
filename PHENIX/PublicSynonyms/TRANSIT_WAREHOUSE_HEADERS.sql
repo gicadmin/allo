@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transit_warehouse_headers FOR phenix.transit_warehouse_headers;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scsc_seq FOR phenix.scsc_seq;

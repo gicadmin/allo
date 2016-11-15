@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM autonomous_pack FOR phenix.autonomous_pack;

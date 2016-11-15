@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stats_tracking_warehouses FOR phenix.stats_tracking_warehouses;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM price_changes FOR phenix.price_changes;

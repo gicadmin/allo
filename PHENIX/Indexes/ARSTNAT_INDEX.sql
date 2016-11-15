@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.arstnat_index ON phenix.arstnat(stmtseq,idnatacct);

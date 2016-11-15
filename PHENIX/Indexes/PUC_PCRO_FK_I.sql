@@ -1,0 +1,1 @@
+CREATE INDEX phenix.puc_pcro_fk_i ON phenix.pci_user_customers(puc_pcro_id);

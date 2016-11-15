@@ -1,0 +1,1 @@
+CREATE INDEX phenix.aq$_inh_archive_qtab_t ON phenix.inh_archive_qtab(time_manager_info);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.loc_lty_fk_i ON phenix.locations(loc_lty_code);

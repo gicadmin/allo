@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pallet_models FOR phenix.pallet_models;

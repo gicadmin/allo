@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM report_merge FOR phenix.report_merge;

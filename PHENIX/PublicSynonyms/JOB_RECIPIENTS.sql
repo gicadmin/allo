@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM job_recipients FOR phenix.job_recipients;

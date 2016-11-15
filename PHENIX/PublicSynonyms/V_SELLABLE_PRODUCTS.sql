@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_sellable_products FOR phenix.v_sellable_products;

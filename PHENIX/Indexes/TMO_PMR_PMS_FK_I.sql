@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tmo_pmr_pms_fk_i ON phenix.temporary_models(tmo_pmr_pms_id);

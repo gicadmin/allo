@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pwpd_operation_pack FOR phenix.pwpd_operation_pack;

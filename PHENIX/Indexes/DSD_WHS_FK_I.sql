@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dsd_whs_fk_i ON phenix.drop_statement_discounts(dsd_whs_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pbd_cpr_fk_i ON phenix.prebook_deliveries(pbd_cpr_id);

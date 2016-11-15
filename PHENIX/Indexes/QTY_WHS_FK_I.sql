@@ -1,0 +1,1 @@
+CREATE INDEX phenix.qty_whs_fk_i ON phenix.quotation_types(qty_whs_code);

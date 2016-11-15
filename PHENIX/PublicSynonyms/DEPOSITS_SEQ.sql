@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM deposits_seq FOR phenix.deposits_seq;

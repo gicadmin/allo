@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpd_prf_i ON phenix.console_pick_details(cpd_pmd_prf_prd_code,cpd_pmd_prf_fmt_code);

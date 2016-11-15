@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ber8159_temp_potential_picks FOR phenix.ber8159_temp_potential_picks;

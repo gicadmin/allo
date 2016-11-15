@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_discounts_seq FOR phenix.customer_discounts_seq;

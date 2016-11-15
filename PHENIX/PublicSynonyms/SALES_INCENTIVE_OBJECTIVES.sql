@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sales_incentive_objectives FOR phenix.sales_incentive_objectives;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rmc_whs_fk_i ON phenix.recurring_misc_charges(rmc_whs_code);

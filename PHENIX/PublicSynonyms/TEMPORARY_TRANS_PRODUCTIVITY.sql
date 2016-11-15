@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_trans_productivity FOR phenix.temporary_trans_productivity;

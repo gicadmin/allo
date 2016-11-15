@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM interval_type FOR phenix.interval_type;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_log_modifs_seq FOR phenix.customer_log_modifs_seq;

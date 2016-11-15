@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dvt_dit_fk_i ON phenix.division_discounts(dvt_dit_code);

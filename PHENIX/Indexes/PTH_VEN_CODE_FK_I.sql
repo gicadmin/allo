@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pth_ven_code_fk_i ON phenix.pallet_transaction_headers(pth_ven_code);

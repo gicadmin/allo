@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ccr_pack FOR phenix.ccr_pack;

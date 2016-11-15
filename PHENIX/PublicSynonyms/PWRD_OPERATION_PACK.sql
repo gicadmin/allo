@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pwrd_operation_pack FOR phenix.pwrd_operation_pack;

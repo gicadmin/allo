@@ -1,0 +1,1 @@
+CREATE INDEX phenix.puv_pus_fk_i ON phenix.pci_user_vendors(puv_pus_id);

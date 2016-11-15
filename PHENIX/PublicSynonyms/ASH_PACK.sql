@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ash_pack FOR phenix.ash_pack;

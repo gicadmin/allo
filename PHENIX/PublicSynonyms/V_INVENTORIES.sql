@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_inventories FOR phenix.v_inventories;

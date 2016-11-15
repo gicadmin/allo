@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vdi_vpd_fk_i ON phenix.vendor_discounts(vdi_vpd_code,vdi_vpd_ven_code);

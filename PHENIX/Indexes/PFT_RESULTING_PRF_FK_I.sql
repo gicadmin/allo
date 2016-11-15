@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pft_resulting_prf_fk_i ON phenix.product_format_transformations(pft_resulting_prf_prd_code,pft_resulting_prf_fmt_code);

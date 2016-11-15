@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rou_day_type_deliv_act_i ON phenix.routes(rou_day,rou_type,rou_whs_delivery_code,rou_active_switch);

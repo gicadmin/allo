@@ -1,0 +1,1 @@
+CREATE INDEX phenix.fmt_edi_short_i ON phenix.formats(fmt_edi_short_code);

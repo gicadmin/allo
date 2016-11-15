@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rou_pmo_fk_i ON phenix.routes(rou_pmo_code);

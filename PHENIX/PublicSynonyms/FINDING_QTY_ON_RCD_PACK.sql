@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM finding_qty_on_rcd_pack FOR phenix.finding_qty_on_rcd_pack;

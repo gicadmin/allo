@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tpl_cus_rou_i ON phenix.temporary_pick_lists(tpl_cus_code,tpl_rou_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM job_schedule_audits FOR phenix.job_schedule_audits;

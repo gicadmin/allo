@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sge_movement_pack FOR phenix.sge_movement_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pau_pack FOR phenix.pau_pack;

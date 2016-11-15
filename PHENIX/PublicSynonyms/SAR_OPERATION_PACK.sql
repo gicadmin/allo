@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sar_operation_pack FOR phenix.sar_operation_pack;

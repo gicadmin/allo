@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_prd_popup_sales_profile_i ON phenix.customer_order_details(cod_coh_id,cod_prf_prd_code,cod_prf_fmt_code);

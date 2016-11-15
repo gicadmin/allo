@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dormant_products_pack FOR phenix.dormant_products_pack;

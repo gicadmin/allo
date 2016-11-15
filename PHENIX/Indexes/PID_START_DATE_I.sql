@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pid_start_date_i ON phenix.pick_transactions(pid_start_date);

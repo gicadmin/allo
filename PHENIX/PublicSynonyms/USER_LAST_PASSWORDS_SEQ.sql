@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_last_passwords_seq FOR phenix.user_last_passwords_seq;

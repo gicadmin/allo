@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rsh_trk_fk_i ON phenix.route_shipments(rsh_trk_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.scu_cus_fk_i ON phenix.statistics_tracking_customers(scu_cus_code);

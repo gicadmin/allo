@@ -1,0 +1,1 @@
+CREATE INDEX phenix.voah_ven_fk_i ON phenix.vend_order_agreement_headers(voah_ven_code);

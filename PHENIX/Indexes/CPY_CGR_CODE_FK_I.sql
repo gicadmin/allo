@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpy_cgr_code_fk_i ON phenix.customer_promotion_types(cpy_cgr_code);

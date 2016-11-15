@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pct_start_end_date_i ON phenix.product_counters(pct_start_date,pct_end_date);

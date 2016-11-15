@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_promo_exclusions FOR phenix.vendor_promo_exclusions;

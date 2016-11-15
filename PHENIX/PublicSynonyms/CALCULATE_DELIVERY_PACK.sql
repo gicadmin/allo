@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM calculate_delivery_pack FOR phenix.calculate_delivery_pack;

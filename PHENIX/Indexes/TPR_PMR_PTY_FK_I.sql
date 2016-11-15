@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tpr_pmr_pty_fk_i ON phenix.temporary_pallet_rules(tpr_pmr_pty_code);

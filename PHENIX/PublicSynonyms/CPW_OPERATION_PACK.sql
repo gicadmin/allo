@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cpw_operation_pack FOR phenix.cpw_operation_pack;

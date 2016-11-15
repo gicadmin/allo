@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM naz_operation_pack FOR phenix.naz_operation_pack;

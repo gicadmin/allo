@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tcs_cod_fk_i ON phenix.temp_counter_special_orders(tcs_special_cod_coh_id,tcs_special_cod_line_number);

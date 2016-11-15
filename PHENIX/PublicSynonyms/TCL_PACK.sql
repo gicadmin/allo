@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tcl_pack FOR phenix.tcl_pack;

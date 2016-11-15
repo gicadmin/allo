@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_tendance_pack FOR phenix.rap_tendance_pack;

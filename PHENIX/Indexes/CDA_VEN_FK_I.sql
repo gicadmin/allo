@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cda_ven_fk_i ON phenix.customer_dock_assignments(cda_ven_code);

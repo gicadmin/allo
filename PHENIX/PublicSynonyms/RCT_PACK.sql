@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rct_pack FOR phenix.rct_pack;

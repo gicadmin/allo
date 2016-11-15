@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cot_operation_pack FOR phenix.cot_operation_pack;

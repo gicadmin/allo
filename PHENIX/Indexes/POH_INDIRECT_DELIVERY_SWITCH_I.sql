@@ -1,0 +1,1 @@
+CREATE INDEX phenix.poh_indirect_delivery_switch_i ON phenix.purchase_order_headers(poh_indirect_delivery_switch);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transit_warehouse_details FOR phenix.transit_warehouse_details;

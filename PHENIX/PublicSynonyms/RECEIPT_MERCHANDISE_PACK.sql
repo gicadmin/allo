@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM receipt_merchandise_pack FOR phenix.receipt_merchandise_pack;

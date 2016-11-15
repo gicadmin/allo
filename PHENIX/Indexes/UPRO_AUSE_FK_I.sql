@@ -1,0 +1,1 @@
+CREATE INDEX phenix.upro_ause_fk_i ON phenix.user_profiles(upro_ause_id);

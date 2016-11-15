@@ -1,0 +1,1 @@
+CREATE INDEX phenix.fbi_mni_code_fk_i ON phenix.form_block_items(fbi_mni_code);

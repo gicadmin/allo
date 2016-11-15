@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM brand_names FOR phenix.brand_names;

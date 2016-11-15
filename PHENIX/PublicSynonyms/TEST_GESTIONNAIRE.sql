@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM test_gestionnaire FOR phenix.test_gestionnaire;

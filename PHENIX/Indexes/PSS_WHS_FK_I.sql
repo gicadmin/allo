@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pss_whs_fk_i ON phenix.product_stats_summaries(pss_whs_code);

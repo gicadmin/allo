@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vtr_whs_code_fk_i ON phenix.vendor_transport_agreements(vtr_whs_code);

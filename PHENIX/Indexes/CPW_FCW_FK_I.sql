@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpw_fcw_fk_i ON phenix.customer_profile_weeks(cpw_fcw_fca_year,cpw_fcw_fca_period,cpw_fcw_week);

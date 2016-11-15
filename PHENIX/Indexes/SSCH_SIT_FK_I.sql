@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ssch_sit_fk_i ON phenix.site_sales_contract_headers(ssch_sit_code);

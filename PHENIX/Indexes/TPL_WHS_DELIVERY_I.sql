@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tpl_whs_delivery_i ON phenix.temporary_pick_lists(tpl_whs_delivery_code);

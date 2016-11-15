@@ -1,0 +1,1 @@
+CREATE INDEX phenix.jre_fk_and_dest_i ON phenix.job_recipients(jre_jsc_id,jre_dest_type);

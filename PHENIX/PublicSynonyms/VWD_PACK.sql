@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vwd_pack FOR phenix.vwd_pack;

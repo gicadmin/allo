@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM special_order_audits FOR phenix.special_order_audits;

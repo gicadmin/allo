@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pmd_use_picker_fk_i ON phenix.pick_mission_details(pmd_use_picker_code);

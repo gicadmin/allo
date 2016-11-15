@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tss_pty_fk_i ON phenix.temp_product_stats_summaries(tss_pty_code);

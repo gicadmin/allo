@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stw_pack FOR phenix.stw_pack;

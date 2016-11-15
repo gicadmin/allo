@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wod_pack FOR phenix.wod_pack;

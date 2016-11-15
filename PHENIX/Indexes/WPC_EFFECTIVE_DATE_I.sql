@@ -1,0 +1,1 @@
+CREATE INDEX phenix.wpc_effective_date_i ON phenix.warehouse_price_changes(wpc_effective_date);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_route_docum_headers FOR phenix.customer_route_docum_headers;

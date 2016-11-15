@@ -1,0 +1,1 @@
+CREATE INDEX phenix.twc_whc_fk_i ON phenix.truck_warehouse_conditions(twc_whc_code);

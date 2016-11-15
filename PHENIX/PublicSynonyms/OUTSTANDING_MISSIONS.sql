@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM outstanding_missions FOR phenix.outstanding_missions;

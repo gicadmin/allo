@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stat_customer_drops FOR phenix.stat_customer_drops;

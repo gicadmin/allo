@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vsa_operation_pack FOR phenix.vsa_operation_pack;

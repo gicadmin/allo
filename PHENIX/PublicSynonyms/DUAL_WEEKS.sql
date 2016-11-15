@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dual_weeks FOR phenix.dual_weeks;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rod_cus_fk_i ON phenix.route_dates(rod_cus_code);

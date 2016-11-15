@@ -1,0 +1,1 @@
+CREATE INDEX phenix.had_hah_fk_i ON phenix.hold_asn_details(had_hah_id);

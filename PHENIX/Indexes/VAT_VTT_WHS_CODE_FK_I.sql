@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vat_vtt_whs_code_fk_i ON phenix.validate_transp_transactions(vat_vtt_whs_code);

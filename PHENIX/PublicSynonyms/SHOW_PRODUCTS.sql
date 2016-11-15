@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM show_products FOR phenix.show_products;

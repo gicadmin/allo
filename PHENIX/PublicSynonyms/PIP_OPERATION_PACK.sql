@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pip_operation_pack FOR phenix.pip_operation_pack;

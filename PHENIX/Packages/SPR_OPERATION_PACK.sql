@@ -1,0 +1,8 @@
+CREATE OR REPLACE PACKAGE phenix.SPR_OPERATION_PACK IS
+
+PROCEDURE PURGE_PROC(
+  p_spr_prd_code IN show_products.spr_prd_code%TYPE
+);
+
+END SPR_OPERATION_PACK;
+/

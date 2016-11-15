@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dgt_operation_pack FOR phenix.dgt_operation_pack;

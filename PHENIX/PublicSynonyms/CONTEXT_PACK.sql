@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM context_pack FOR phenix.context_pack;

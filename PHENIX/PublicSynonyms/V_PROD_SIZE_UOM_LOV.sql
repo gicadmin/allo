@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_prod_size_uom_lov FOR phenix.v_prod_size_uom_lov;

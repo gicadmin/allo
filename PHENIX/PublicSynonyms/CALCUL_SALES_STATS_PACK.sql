@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM calcul_sales_stats_pack FOR phenix.calcul_sales_stats_pack;

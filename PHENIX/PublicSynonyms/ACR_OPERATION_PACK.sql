@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM acr_operation_pack FOR phenix.acr_operation_pack;

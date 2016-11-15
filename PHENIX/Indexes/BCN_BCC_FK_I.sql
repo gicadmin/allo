@@ -1,0 +1,1 @@
+CREATE INDEX phenix.bcn_bcc_fk_i ON phenix.barcode_nomenclatures(bcn_bcc_code);

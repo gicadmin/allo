@@ -1,0 +1,9 @@
+CREATE OR REPLACE PACKAGE phenix.RCU_OPERATION_PACK IS
+
+FUNCTION EXISTS_FUNC(
+  p_rcu_use_code IN receipt_users.rcu_use_code%TYPE
+)
+RETURN BOOLEAN;
+
+END RCU_OPERATION_PACK;
+/

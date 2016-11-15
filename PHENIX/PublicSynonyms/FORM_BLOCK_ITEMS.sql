@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM form_block_items FOR phenix.form_block_items;

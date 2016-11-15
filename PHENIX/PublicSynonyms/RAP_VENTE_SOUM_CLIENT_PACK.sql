@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_vente_soum_client_pack FOR phenix.rap_vente_soum_client_pack;

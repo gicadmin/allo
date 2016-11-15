@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rou_trk_fk_i ON phenix.routes(rou_trk_code);

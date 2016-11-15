@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM synchronization_traces FOR phenix.synchronization_traces;

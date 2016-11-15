@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sales_register_trans_details FOR phenix.sales_register_trans_details;

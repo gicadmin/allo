@@ -1,0 +1,11 @@
+GRANT SELECT ON phenix.def_param_seq TO "PUBLIC";
+GRANT SELECT ON phenix.err_logs TO "PUBLIC";
+GRANT INSERT ON phenix.err_logs TO "PUBLIC";
+GRANT SELECT ON phenix.job_log_seq TO "PUBLIC";
+GRANT SELECT ON phenix.job_seq TO "PUBLIC";
+GRANT SELECT ON phenix.program_seq TO "PUBLIC";
+GRANT EXECUTE ON phenix.srw_parameter TO "PUBLIC";
+GRANT EXECUTE ON phenix.srw_paramlist TO "PUBLIC";
+GRANT EXECUTE ON phenix.srw_paramlist_object TO "PUBLIC";
+GRANT SELECT ON phenix.user_param_seq TO "PUBLIC";
+GRANT SELECT ON phenix.valid_param_seq TO "PUBLIC";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM asc_inventaire FOR phenix.asc_inventaire;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM srv_picking_pack FOR phenix.srv_picking_pack;

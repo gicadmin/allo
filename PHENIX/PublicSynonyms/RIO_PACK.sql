@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rio_pack FOR phenix.rio_pack;

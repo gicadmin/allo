@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dlh_pack FOR phenix.dlh_pack;

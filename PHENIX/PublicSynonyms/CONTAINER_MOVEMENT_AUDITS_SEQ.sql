@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM container_movement_audits_seq FOR phenix.container_movement_audits_seq;

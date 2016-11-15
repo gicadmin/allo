@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mdr_mad_fk_i ON phenix.match_detail_rebills(mdr_mad_ap_invoice_number,mdr_mad_line_number);

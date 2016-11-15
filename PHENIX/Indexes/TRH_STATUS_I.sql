@@ -1,0 +1,1 @@
+CREATE INDEX phenix.trh_status_i ON phenix.transfer_headers(trh_status);

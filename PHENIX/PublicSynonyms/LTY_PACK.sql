@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lty_pack FOR phenix.lty_pack;

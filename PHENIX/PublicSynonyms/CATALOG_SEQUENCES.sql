@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM catalog_sequences FOR phenix.catalog_sequences;

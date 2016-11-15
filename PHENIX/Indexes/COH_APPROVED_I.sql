@@ -1,0 +1,1 @@
+CREATE INDEX phenix.coh_approved_i ON phenix.customer_order_headers(coh_approved_switch,coh_open_switch,coh_cus_code);

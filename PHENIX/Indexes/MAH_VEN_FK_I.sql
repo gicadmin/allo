@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mah_ven_fk_i ON phenix.match_headers(mah_ven_code);

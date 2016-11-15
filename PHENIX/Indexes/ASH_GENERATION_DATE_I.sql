@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ash_generation_date_i ON phenix.account_statement_headers(ash_generation_date);

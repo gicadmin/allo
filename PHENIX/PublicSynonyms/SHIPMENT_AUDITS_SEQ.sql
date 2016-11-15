@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM shipment_audits_seq FOR phenix.shipment_audits_seq;

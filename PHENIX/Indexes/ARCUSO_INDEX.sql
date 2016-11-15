@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.arcuso_index ON phenix.arcuso(idcust,optfield);

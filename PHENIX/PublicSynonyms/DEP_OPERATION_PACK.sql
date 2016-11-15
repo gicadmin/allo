@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dep_operation_pack FOR phenix.dep_operation_pack;

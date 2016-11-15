@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_declaration_taxe_nb_pack FOR phenix.rap_declaration_taxe_nb_pack;

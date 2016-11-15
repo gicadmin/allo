@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM coca_pack FOR phenix.coca_pack;

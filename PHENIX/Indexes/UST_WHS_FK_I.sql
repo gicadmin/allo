@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ust_whs_fk_i ON phenix.user_session_transactions(ust_whs_code);

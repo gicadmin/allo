@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM str_operation_pack FOR phenix.str_operation_pack;

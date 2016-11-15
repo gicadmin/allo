@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_status_cmd_i ON phenix.products(prd_status,prd_cmd_code);

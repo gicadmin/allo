@@ -1,0 +1,1 @@
+CREATE INDEX phenix.qtd_npf_fk_i ON phenix.quotation_details(qtd_npf_nac_code,qtd_npf_prf_prd_code,qtd_npf_prf_fmt_code);

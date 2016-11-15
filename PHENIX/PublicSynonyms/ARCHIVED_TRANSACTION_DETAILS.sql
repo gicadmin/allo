@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM archived_transaction_details FOR phenix.archived_transaction_details;

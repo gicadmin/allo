@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prx_posted_switch_i ON phenix.price_changes(prx_posted_switch);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.omp_plh_fk_i ON phenix.outstanding_mission_picklists(omp_plh_id);

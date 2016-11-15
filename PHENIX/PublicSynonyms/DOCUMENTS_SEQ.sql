@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM documents_seq FOR phenix.documents_seq;

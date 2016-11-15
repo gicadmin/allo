@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dsc_pack FOR phenix.dsc_pack;

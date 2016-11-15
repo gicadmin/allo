@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ptd_pal_code_fk_i ON phenix.pallet_transaction_details(ptd_pal_code);

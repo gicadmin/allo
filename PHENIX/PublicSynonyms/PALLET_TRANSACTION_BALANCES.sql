@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pallet_transaction_balances FOR phenix.pallet_transaction_balances;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tcr_operation_pack FOR phenix.tcr_operation_pack;

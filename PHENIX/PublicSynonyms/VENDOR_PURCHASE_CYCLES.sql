@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_purchase_cycles FOR phenix.vendor_purchase_cycles;

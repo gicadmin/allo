@@ -1,0 +1,1 @@
+CREATE INDEX phenix.jsc_int_fk_i ON phenix.job_schedules(jsc_int_id);

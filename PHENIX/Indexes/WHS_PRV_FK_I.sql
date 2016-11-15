@@ -1,0 +1,1 @@
+CREATE INDEX phenix.whs_prv_fk_i ON phenix.warehouses(whs_prv_code);

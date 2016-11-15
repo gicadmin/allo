@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vbh_credit_note_i ON phenix.vendor_billing_headers(vbh_credit_note);

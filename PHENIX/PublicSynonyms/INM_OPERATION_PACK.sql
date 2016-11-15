@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM inm_operation_pack FOR phenix.inm_operation_pack;

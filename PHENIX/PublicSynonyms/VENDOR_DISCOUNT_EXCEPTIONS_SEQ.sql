@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_discount_exceptions_seq FOR phenix.vendor_discount_exceptions_seq;

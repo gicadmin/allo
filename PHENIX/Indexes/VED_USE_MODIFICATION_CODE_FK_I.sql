@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ved_use_modification_code_fk_i ON phenix.vendor_agreement_details(ved_use_modification_code);

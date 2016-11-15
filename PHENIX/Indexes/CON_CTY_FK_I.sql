@@ -1,0 +1,1 @@
+CREATE INDEX phenix.con_cty_fk_i ON phenix.contacts(con_cty_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_daily_reception_volume FOR phenix.v_daily_reception_volume;

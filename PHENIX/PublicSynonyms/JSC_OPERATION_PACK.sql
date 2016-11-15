@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM jsc_operation_pack FOR phenix.jsc_operation_pack;

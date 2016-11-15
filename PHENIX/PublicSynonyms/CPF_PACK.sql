@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cpf_pack FOR phenix.cpf_pack;

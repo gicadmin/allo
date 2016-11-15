@@ -1,0 +1,1 @@
+CREATE INDEX phenix.lck_use_fk_i ON phenix.locks(lck_use_code);

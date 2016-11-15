@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pbd_pack FOR phenix.pbd_pack;

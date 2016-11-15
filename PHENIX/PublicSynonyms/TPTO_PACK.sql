@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tpto_pack FOR phenix.tpto_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM indirect_billing_sums FOR phenix.indirect_billing_sums;

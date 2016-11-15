@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_sales_region FOR phenix.temporary_sales_region;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tru_pack FOR phenix.tru_pack;

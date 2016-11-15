@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM action_required_seq FOR phenix.action_required_seq;

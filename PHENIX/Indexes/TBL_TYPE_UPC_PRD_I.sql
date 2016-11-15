@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tbl_type_upc_prd_i ON phenix.transaction_by_lot(tbl_type,tbl_prd_code,tbl_upc_code);

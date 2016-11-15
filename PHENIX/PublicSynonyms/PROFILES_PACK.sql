@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM profiles_pack FOR phenix.profiles_pack;

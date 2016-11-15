@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_volume_client_pack FOR phenix.rap_volume_client_pack;

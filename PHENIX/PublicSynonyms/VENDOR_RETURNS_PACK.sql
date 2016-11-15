@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_returns_pack FOR phenix.vendor_returns_pack;

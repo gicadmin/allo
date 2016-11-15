@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rtd_pack FOR phenix.rtd_pack;

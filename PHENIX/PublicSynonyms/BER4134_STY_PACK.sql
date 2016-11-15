@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ber4134_sty_pack FOR phenix.ber4134_sty_pack;

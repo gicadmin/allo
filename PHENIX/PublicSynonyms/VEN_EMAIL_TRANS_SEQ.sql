@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ven_email_trans_seq FOR phenix.ven_email_trans_seq;

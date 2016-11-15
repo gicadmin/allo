@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM prd_pack FOR phenix.prd_pack;

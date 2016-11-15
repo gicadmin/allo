@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_pc_file FOR phenix.temporary_pc_file;

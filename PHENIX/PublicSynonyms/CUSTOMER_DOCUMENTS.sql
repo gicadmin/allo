@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_documents FOR phenix.customer_documents;

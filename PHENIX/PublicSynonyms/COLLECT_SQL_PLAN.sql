@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM collect_sql_plan FOR phenix.collect_sql_plan;

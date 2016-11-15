@@ -1,0 +1,1 @@
+CREATE INDEX phenix.qty_srt_fk_i ON phenix.quotation_types(qty_srt_code);

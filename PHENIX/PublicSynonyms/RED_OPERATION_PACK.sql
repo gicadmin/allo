@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM red_operation_pack FOR phenix.red_operation_pack;

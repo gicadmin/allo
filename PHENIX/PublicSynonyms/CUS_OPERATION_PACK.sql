@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cus_operation_pack FOR phenix.cus_operation_pack;

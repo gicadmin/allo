@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stat_jti_pack FOR phenix.stat_jti_pack;

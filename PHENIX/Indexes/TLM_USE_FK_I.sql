@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tlm_use_fk_i ON phenix.transaction_by_lot_log_modifs(tlm_use_code);

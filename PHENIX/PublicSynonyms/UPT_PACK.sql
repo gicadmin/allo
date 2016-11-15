@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM upt_pack FOR phenix.upt_pack;

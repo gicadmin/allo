@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_ctg_fk_i ON phenix.products(prd_ctg_code);

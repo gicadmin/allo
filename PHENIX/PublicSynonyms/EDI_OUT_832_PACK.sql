@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM edi_out_832_pack FOR phenix.edi_out_832_pack;

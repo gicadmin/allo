@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM allied_extract_pack FOR phenix.allied_extract_pack;

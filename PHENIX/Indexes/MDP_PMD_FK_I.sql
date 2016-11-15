@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mdp_pmd_fk_i ON phenix.mission_detail_picklists(mdp_pmd_id);

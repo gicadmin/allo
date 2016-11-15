@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM archived_trans_headers_seq FOR phenix.archived_trans_headers_seq;

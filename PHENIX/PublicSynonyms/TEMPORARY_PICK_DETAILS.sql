@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_pick_details FOR phenix.temporary_pick_details;

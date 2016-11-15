@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_qte_sugg FOR phenix.temp_qte_sugg;

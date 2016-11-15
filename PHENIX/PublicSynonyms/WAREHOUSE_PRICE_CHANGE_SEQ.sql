@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM warehouse_price_change_seq FOR phenix.warehouse_price_change_seq;

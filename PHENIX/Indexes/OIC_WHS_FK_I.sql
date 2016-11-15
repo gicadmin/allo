@@ -1,0 +1,1 @@
+CREATE INDEX phenix.oic_whs_fk_i ON phenix.outstanding_inventory_counts(oic_whs_code);

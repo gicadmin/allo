@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lock_traces FOR phenix.lock_traces;

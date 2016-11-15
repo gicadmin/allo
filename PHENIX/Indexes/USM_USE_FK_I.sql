@@ -1,0 +1,1 @@
+CREATE INDEX phenix.usm_use_fk_i ON phenix.user_skipped_missions(usm_use_code);

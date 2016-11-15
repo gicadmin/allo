@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM match_details FOR phenix.match_details;

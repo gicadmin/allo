@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM prebook_deliveries_seq FOR phenix.prebook_deliveries_seq;

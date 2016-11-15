@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lph_pack FOR phenix.lph_pack;

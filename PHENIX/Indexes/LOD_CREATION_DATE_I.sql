@@ -1,0 +1,1 @@
+CREATE INDEX phenix.lod_creation_date_i ON phenix.log_details(lod_creation_date);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_des_gains_sur_invent_pack FOR phenix.rap_des_gains_sur_invent_pack;

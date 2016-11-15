@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_messages_seq FOR phenix.customer_messages_seq;

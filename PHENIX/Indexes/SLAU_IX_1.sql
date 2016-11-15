@@ -1,0 +1,1 @@
+CREATE INDEX phenix.slau_ix_1 ON phenix.security_login_audits(slau_ause_login,slau_status);

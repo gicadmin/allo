@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM arol_sq FOR phenix.arol_sq;

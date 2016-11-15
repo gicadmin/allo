@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cnd_pack FOR phenix.cnd_pack;

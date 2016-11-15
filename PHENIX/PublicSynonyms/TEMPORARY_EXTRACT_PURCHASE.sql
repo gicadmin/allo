@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_extract_purchase FOR phenix.temporary_extract_purchase;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cdo_operation_pack FOR phenix.cdo_operation_pack;

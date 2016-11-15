@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vds_status_i ON phenix.vendor_drop_statements(vds_status,vds_ven_ap_code);

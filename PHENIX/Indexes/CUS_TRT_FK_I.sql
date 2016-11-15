@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_trt_fk_i ON phenix.customers(cus_trt_code);

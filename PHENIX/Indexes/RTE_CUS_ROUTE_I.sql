@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rte_cus_route_i ON phenix.route_transport_exceptions(rte_cus_code,rte_route_date);

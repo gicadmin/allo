@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cds_retail_client_inh_fk_i ON phenix.customer_drop_statements(cds_retail_client_inh_id);

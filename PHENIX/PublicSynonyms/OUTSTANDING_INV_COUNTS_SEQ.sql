@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM outstanding_inv_counts_seq FOR phenix.outstanding_inv_counts_seq;

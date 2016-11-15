@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM load_quotation_pack FOR phenix.load_quotation_pack;

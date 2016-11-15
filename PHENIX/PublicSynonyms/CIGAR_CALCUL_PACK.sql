@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cigar_calcul_pack FOR phenix.cigar_calcul_pack;

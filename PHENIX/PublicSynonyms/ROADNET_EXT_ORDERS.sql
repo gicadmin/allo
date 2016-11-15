@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM roadnet_ext_orders FOR phenix.roadnet_ext_orders;

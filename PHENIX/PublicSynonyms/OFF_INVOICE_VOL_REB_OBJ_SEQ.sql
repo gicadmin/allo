@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM off_invoice_vol_reb_obj_seq FOR phenix.off_invoice_vol_reb_obj_seq;

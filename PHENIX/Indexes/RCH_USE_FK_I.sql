@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rch_use_fk_i ON phenix.receipt_headers(rch_use_code);

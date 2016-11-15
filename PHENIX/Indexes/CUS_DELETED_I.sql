@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_deleted_i ON phenix.customers(cus_deleted_switch);

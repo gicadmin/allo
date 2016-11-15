@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rnr_operation_pack FOR phenix.rnr_operation_pack;

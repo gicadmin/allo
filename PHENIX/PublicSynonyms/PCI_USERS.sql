@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pci_users FOR phenix.pci_users;

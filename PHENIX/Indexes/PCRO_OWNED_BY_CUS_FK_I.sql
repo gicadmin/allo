@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pcro_owned_by_cus_fk_i ON phenix.pci_roles(pcro_owned_by_cus_code);

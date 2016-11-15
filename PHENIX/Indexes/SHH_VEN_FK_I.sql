@@ -1,0 +1,1 @@
+CREATE INDEX phenix.shh_ven_fk_i ON phenix.shipment_headers(shh_ven_code);

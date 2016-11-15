@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM err_logs FOR phenix.err_logs;

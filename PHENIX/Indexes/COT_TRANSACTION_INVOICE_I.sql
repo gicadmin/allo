@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cot_transaction_invoice_i ON phenix.customer_order_transactions(cot_cod_coh_id,cot_cod_line_number,cot_inh_id);

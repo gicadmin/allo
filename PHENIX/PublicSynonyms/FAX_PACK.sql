@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fax_pack FOR phenix.fax_pack;

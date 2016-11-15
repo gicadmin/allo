@@ -1,0 +1,24 @@
+CREATE OR REPLACE PACKAGE phenix.ACCPAC_SALES_TOBACCO_PACK IS
+
+PROCEDURE AP_SALES_TOBACCO_PROC(
+  p_inh_id IN invoice_headers.inh_id%TYPE
+);
+
+PROCEDURE AP_BILLED_FOR_TOBACCO_PROC(
+  p_inh_id IN invoice_headers.inh_id%TYPE
+);
+
+PROCEDURE AP_ADJUSTMENT_TOBACCO_PROC(
+  p_inh_id IN invoice_headers.inh_id%TYPE
+);
+
+PROCEDURE AP_CREDITED_FOR_TOBACCO_PROC(
+  p_inh_id IN invoice_headers.inh_id%TYPE
+);
+
+PROCEDURE AP_DROP_STATEMENT_TOBACCO_PROC(
+  p_inh_id IN invoice_headers.inh_id%TYPE
+);
+
+END ACCPAC_SALES_TOBACCO_PACK;
+/

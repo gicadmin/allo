@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_sales_incent_prod_seq FOR phenix.vendor_sales_incent_prod_seq;

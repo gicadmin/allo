@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pallet_consolidations_seq FOR phenix.pallet_consolidations_seq;

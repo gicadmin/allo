@@ -1,0 +1,12 @@
+CREATE OR REPLACE PACKAGE phenix.WARNING_MGMT_PACK IS
+
+PROCEDURE FLUSH_PROC;
+
+PROCEDURE PUSH_PROC(
+  p_prefix            IN VARCHAR2,
+  p_code              IN NUMBER,
+  p_message           IN VARCHAR2
+);
+
+END WARNING_MGMT_PACK;
+/

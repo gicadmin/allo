@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cns_pack FOR phenix.cns_pack;

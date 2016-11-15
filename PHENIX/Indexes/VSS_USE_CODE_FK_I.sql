@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vss_use_code_fk_i ON phenix.vendor_stats_summaries(vss_use_code);

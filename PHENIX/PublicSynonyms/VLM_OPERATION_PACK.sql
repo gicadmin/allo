@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vlm_operation_pack FOR phenix.vlm_operation_pack;

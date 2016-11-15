@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mni_mni_fk_i ON phenix.menu_items(mni_mni_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vsip_vsi_fk_i ON phenix.vendor_sales_incent_products(vsip_vsi_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM system_active_sessions FOR phenix.system_active_sessions;

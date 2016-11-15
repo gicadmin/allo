@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM recurring_misc_charges FOR phenix.recurring_misc_charges;

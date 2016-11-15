@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ved_prd_pgr_bill_to_i ON phenix.vendor_agreement_details(ved_pgr_code,ved_prf_prd_code,ved_prf_fmt_code,ved_bill_to_vendor_switch);

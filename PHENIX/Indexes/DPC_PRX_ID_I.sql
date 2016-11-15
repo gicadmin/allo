@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dpc_prx_id_i ON phenix.deleted_price_changes(dpc_prx_id);

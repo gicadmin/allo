@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pss_year_period_week_i ON phenix.product_stats_summaries(pss_year,pss_period,pss_week);

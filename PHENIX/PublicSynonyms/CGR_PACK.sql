@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cgr_pack FOR phenix.cgr_pack;

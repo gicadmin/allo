@@ -1,0 +1,1 @@
+CREATE INDEX phenix.fse_sgr_code_fk_i ON phenix.form_security(fse_sgr_code);

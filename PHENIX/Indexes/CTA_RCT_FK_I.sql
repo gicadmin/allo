@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cta_rct_fk_i ON phenix.client_type_associations(cta_rct_code);

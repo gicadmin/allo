@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tvb_pack FOR phenix.tvb_pack;

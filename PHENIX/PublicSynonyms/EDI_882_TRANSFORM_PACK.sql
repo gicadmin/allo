@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM edi_882_transform_pack FOR phenix.edi_882_transform_pack;

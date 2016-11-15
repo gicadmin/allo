@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_car_cpr_id_fk_i ON phenix.customer_order_details(cod_car_cpr_id);

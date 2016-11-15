@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM phxjobs_pack FOR phenix.phxjobs_pack;

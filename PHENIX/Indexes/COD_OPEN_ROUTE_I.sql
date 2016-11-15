@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_open_route_i ON phenix.customer_order_details(cod_project_delivery_date,cod_open_switch,cod_cod_coh_id,cod_line_number,cod_order_type,cod_spec_order_status);

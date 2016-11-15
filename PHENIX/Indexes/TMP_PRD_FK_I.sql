@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tmp_prd_fk_i ON phenix.temporary_multi_products(tmp_prd_code);

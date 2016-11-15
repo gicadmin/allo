@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tcp_pack FOR phenix.tcp_pack;

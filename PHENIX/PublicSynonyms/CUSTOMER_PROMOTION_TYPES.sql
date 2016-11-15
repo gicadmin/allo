@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_promotion_types FOR phenix.customer_promotion_types;

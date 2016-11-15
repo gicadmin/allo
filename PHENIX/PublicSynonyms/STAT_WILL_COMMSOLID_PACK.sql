@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stat_will_commsolid_pack FOR phenix.stat_will_commsolid_pack;

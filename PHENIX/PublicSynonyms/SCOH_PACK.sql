@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scoh_pack FOR phenix.scoh_pack;

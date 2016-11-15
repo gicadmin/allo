@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tmh_whs_fk_i ON phenix.temporary_multi_whs_headers(tmh_whs_code);

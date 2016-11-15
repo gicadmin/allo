@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inh_trunc_invoice_date_i ON phenix.invoice_headers(TRUNC("INH_INVOICE_DATE"));

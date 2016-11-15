@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_prep_pre_cueillette_pack FOR phenix.rap_prep_pre_cueillette_pack;

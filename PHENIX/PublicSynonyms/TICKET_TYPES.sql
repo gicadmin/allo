@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ticket_types FOR phenix.ticket_types;

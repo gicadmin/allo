@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hold_di_details FOR phenix.hold_di_details;

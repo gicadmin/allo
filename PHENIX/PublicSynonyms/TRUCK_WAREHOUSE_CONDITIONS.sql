@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM truck_warehouse_conditions FOR phenix.truck_warehouse_conditions;

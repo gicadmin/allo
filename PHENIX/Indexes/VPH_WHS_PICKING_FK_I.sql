@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vph_whs_picking_fk_i ON phenix.vendor_pick_headers(vph_whs_picking_code);

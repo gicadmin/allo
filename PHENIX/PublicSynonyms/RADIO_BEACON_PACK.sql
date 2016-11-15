@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM radio_beacon_pack FOR phenix.radio_beacon_pack;

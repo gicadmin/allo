@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM spa_operation_pack FOR phenix.spa_operation_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM weekly_product_summaries FOR phenix.weekly_product_summaries;

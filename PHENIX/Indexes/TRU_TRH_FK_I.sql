@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tru_trh_fk_i ON phenix.transfer_users(tru_trh_id);

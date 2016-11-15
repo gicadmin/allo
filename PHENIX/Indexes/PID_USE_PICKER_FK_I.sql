@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pid_use_picker_fk_i ON phenix.pick_transactions(pid_use_picker_code);

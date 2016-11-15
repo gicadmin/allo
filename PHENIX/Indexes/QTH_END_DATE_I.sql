@@ -1,0 +1,1 @@
+CREATE INDEX phenix.qth_end_date_i ON phenix.quotation_headers(qth_end_date);

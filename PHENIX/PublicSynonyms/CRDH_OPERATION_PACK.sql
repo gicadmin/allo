@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM crdh_operation_pack FOR phenix.crdh_operation_pack;

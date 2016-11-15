@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pth_pack FOR phenix.pth_pack;

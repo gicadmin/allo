@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tcc_cod_fk_i ON phenix.temporary_caps_cods(tcc_cod_coh_id,tcc_cod_line_number);

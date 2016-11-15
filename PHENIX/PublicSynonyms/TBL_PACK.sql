@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tbl_pack FOR phenix.tbl_pack;

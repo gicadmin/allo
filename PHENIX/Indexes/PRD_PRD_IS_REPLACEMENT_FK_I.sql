@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_prd_is_replacement_fk_i ON phenix.products(prd_prd_is_replacement_code);

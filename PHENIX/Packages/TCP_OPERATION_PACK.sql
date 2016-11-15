@@ -1,0 +1,7 @@
+CREATE OR REPLACE PACKAGE phenix.TCP_OPERATION_PACK AS
+
+PROCEDURE GEN_CUS_PRICE_PROC(
+ p_cus_code           IN customers.cus_code%TYPE
+) ;
+END TCP_OPERATION_PACK;
+/

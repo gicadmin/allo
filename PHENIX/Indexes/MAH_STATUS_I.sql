@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mah_status_i ON phenix.match_headers(mah_status);

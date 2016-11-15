@@ -1,0 +1,1 @@
+CREATE INDEX phenix.fsb_fsg_objetcive_i ON phenix.fuel_surcharge_brackets(fsb_fsg_code,fsb_lower_objective_bracket,fsb_upper_objective_bracket);

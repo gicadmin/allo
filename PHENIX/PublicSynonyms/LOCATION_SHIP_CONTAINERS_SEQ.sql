@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM location_ship_containers_seq FOR phenix.location_ship_containers_seq;

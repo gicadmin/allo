@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM archive_transactions_pack FOR phenix.archive_transactions_pack;

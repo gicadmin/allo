@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sef_jre_id_fk_i ON phenix.send_fax(sef_jre_id);

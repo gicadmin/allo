@@ -1,0 +1,1 @@
+CREATE INDEX phenix.shh_in_process_switch_i ON phenix.shipment_headers(shh_in_process_switch);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lock_mgmt_pack FOR phenix.lock_mgmt_pack;

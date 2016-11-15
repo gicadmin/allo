@@ -1,0 +1,1 @@
+CREATE INDEX phenix.fcd_corresponding_vpc_i ON phenix.fiscal_calendar_days(fcd_corresponding_vpc_pcy_day,fcd_corresponding_vpc_pcy_week);

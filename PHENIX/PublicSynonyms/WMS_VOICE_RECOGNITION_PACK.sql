@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_voice_recognition_pack FOR phenix.wms_voice_recognition_pack;

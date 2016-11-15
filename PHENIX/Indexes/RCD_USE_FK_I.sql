@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rcd_use_fk_i ON phenix.receipt_details(rcd_use_code);

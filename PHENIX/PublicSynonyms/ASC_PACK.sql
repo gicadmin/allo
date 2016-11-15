@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM asc_pack FOR phenix.asc_pack;

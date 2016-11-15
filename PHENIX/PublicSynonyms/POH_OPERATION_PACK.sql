@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM poh_operation_pack FOR phenix.poh_operation_pack;

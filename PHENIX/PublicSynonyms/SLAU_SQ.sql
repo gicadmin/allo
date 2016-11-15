@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM slau_sq FOR phenix.slau_sq;

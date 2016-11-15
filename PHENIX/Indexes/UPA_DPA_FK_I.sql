@@ -1,0 +1,1 @@
+CREATE INDEX phenix.upa_dpa_fk_i ON phenix.user_parameters(upa_dpa_id);

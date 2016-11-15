@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cah_rth_fk_i ON phenix.customer_adjustment_headers(cah_rth_id);

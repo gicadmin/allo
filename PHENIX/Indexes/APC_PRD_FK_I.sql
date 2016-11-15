@@ -1,0 +1,1 @@
+CREATE INDEX phenix.apc_prd_fk_i ON phenix.alternate_product_codes(apc_prd_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sor_poh_1_fk_i ON phenix.show_orders(sor_poh_id_1);

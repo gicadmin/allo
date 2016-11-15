@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vco_pack FOR phenix.vco_pack;

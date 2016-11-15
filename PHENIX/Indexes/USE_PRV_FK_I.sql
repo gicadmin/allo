@@ -1,0 +1,1 @@
+CREATE INDEX phenix.use_prv_fk_i ON phenix."USERS"(use_prv_code);

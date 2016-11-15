@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_inventory_pack FOR phenix.rap_inventory_pack;

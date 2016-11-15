@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.upr_pro_role_uk ON phenix.user_program_roles(upr_pro_id,upr_role_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM program_seq FOR phenix.program_seq;

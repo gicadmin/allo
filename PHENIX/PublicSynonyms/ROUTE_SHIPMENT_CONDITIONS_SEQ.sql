@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM route_shipment_conditions_seq FOR phenix.route_shipment_conditions_seq;

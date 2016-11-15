@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tnd_ccr_fk_i ON phenix.temp_cus_consignment_details(tnd_ccr_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM positioning_family_locations FOR phenix.positioning_family_locations;

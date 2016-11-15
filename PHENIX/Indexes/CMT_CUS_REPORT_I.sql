@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cmt_cus_report_i ON phenix.customer_email_transactions(cmt_cus_code,cmt_report_type);

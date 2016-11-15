@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sio_pack FOR phenix.sio_pack;

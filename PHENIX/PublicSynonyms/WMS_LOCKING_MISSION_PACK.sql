@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_locking_mission_pack FOR phenix.wms_locking_mission_pack;

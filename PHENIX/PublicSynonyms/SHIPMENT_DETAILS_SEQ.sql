@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM shipment_details_seq FOR phenix.shipment_details_seq;

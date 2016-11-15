@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM products_inv FOR phenix.products_inv;

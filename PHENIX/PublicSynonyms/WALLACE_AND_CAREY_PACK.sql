@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wallace_and_carey_pack FOR phenix.wallace_and_carey_pack;

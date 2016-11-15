@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cush_operation_pack FOR phenix.cush_operation_pack;

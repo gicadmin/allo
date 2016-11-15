@@ -1,0 +1,44 @@
+CREATE OR REPLACE PACKAGE phenix.ACCPAC_SELECT_PACK IS
+
+
+FUNCTION FIND_ARCUS_CODESLSP1_FUNC(
+	p_cus_code IN NUMBER
+)
+RETURN VARCHAR2;
+
+FUNCTION FIND_ARRTA_TERM_DESC_FUNC(
+	p_term IN VARCHAR2
+)
+RETURN VARCHAR2;
+
+FUNCTION FIND_DUE_DAYS_FUNC(
+	p_terms 	IN customers.cus_terms%TYPE
+)
+RETURN NUMBER;
+
+FUNCTION FIND_AMOUNT_DUE_FUNC(
+	p_cus_code IN NUMBER
+)
+RETURN NUMBER;
+
+FUNCTION FIND_AMOUNT_PAST_DUE_FUNC(
+	p_cus_code 	IN NUMBER  --USG744
+)
+RETURN NUMBER;
+
+--GCL8845 fonction qui retourne le nombre de jour lié à un terme dans APRTB
+FUNCTION FIND_AP_TERM_DAYS_FUNC(
+  p_ven_terms IN VARCHAR2
+)
+RETURN NUMBER ;
+
+PROCEDURE GET_TERMS_INFO_PROC(
+  p_terms_code        IN  VARCHAR2,
+  p_payment_number    IN  NUMBER,
+  p_terms_description OUT VARCHAR2,
+  p_discount_percent  OUT NUMBER,
+  p_discount_days     OUT NUMBER
+);
+
+END ACCPAC_SELECT_PACK;
+/

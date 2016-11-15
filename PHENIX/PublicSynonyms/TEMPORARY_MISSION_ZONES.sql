@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_mission_zones FOR phenix.temporary_mission_zones;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_order_type_i ON phenix.customer_order_details(cod_order_type);

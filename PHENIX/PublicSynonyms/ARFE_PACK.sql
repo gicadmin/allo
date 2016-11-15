@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM arfe_pack FOR phenix.arfe_pack;

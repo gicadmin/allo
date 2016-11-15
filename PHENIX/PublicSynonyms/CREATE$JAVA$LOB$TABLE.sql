@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM create$java$lob$table FOR phenix.create$java$lob$table;

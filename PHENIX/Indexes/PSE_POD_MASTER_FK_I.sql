@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pse_pod_master_fk_i ON phenix.program_sequences(pse_master);

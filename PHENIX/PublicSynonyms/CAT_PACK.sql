@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cat_pack FOR phenix.cat_pack;

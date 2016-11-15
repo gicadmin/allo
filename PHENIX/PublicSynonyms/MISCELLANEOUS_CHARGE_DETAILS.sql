@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM miscellaneous_charge_details FOR phenix.miscellaneous_charge_details;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cubiscan_interface_updates FOR phenix.cubiscan_interface_updates;

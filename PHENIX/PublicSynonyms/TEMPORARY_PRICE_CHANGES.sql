@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_price_changes FOR phenix.temporary_price_changes;

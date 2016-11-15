@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gcl7889_spa FOR phenix.gcl7889_spa;

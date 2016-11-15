@@ -1,0 +1,1 @@
+CREATE INDEX phenix.spr_ccr_fk_i ON phenix.show_products(spr_ccr_code);

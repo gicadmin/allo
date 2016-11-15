@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM con_operation_pack FOR phenix.con_operation_pack;

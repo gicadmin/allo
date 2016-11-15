@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pfe_operation_pack FOR phenix.pfe_operation_pack;

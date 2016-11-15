@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cse_operation_pack FOR phenix.cse_operation_pack;

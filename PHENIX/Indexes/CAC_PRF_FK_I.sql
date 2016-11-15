@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cac_prf_fk_i ON phenix.customer_adjustment_consigns(cac_prf_prd_code,cac_prf_fmt_code);

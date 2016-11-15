@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tot_transaction_seq FOR phenix.tot_transaction_seq;

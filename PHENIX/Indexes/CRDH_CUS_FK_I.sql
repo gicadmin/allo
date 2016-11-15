@@ -1,0 +1,1 @@
+CREATE INDEX phenix.crdh_cus_fk_i ON phenix.customer_route_docum_headers(crdh_cus_code);

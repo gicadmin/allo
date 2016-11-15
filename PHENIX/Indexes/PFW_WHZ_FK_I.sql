@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pfw_whz_fk_i ON phenix.product_format_warehouses(pfw_whz_code);

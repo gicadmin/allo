@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pmh_whs_delivery_fk_i ON phenix.pick_mission_headers(pmh_whs_delivery_code);

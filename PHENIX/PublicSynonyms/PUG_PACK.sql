@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pug_pack FOR phenix.pug_pack;

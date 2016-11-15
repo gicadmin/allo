@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wpc_operation_pack FOR phenix.wpc_operation_pack;

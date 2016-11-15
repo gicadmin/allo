@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tesd_pack FOR phenix.tesd_pack;

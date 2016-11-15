@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM remote_pack FOR phenix.remote_pack;

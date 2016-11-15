@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pmh_pco_fk_i ON phenix.pick_mission_headers(pmh_pco_id);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpr_prf_from_to_date_i ON phenix.customer_promotions(cpr_prf_prd_code,cpr_prf_fmt_code,cpr_from_date,cpr_to_date);

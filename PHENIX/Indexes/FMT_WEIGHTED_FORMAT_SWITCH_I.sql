@@ -1,0 +1,1 @@
+CREATE INDEX phenix.fmt_weighted_format_switch_i ON phenix.formats(fmt_weighted_format_switch);

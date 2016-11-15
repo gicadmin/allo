@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_prd_delivery_date_whs_i ON phenix.customer_order_details(cod_prf_prd_code,cod_prf_fmt_code,cod_whs_picking_code,cod_open_switch,cod_project_delivery_date);

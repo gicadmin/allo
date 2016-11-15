@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM job_seq FOR phenix.job_seq;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tobacco_product_categories FOR phenix.tobacco_product_categories;

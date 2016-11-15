@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vet_operation_pack FOR phenix.vet_operation_pack;

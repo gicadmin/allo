@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ovo_pack FOR phenix.ovo_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ven_ven_association_fk_i ON phenix.vendors(ven_ven_association_code);

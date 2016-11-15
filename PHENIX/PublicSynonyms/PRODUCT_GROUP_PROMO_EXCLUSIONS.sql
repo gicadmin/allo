@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_group_promo_exclusions FOR phenix.product_group_promo_exclusions;

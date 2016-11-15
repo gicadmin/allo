@@ -1,0 +1,1 @@
+CREATE INDEX phenix.upt_end_date_i ON phenix.user_picking_times(upt_end_date);

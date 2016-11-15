@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM job_logs FOR phenix.job_logs;

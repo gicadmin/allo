@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rch_status_i ON phenix.receipt_headers(rch_status);

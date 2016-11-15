@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transfer_ftp_pack FOR phenix.transfer_ftp_pack;

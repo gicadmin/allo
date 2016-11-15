@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rou_pack FOR phenix.rou_pack;

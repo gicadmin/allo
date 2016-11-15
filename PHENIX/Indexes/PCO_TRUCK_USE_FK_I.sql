@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pco_truck_use_fk_i ON phenix.pallet_consolidations(pco_truck_use_code);

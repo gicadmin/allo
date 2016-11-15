@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ula_use_fk_i ON phenix.user_login_attemps(ula_use_code);

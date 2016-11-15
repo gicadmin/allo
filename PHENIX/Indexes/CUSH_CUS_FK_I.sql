@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cush_cus_fk_i ON phenix.customer_histories(cush_cus_code);

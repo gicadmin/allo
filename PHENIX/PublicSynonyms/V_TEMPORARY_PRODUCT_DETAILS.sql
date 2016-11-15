@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_temporary_product_details FOR phenix.v_temporary_product_details;

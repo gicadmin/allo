@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM formulas_seq FOR phenix.formulas_seq;

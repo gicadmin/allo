@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_alert_products FOR phenix.temporary_alert_products;

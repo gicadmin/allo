@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cph_pmh_rou_i ON phenix.console_pick_headers(cph_pmh_rou_code);

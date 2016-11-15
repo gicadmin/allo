@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cds_csc8090_back FOR phenix.cds_csc8090_back;

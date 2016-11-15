@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vbd_vsi_fk_i ON phenix.vendor_billing_details(vbd_vsi_code);

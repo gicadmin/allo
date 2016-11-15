@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dgt_pack FOR phenix.dgt_pack;

@@ -1,0 +1,16 @@
+CREATE OR REPLACE PACKAGE phenix.EDI_OUT_867_PACK IS
+
+PROCEDURE GENERATE_EDI_867_PROC
+(
+  p_inv_from_date DATE,
+  p_inv_to_date   DATE,
+  p_vendor        NUMBER  --CSC6518
+);
+
+PROCEDURE GENERATE_EDI_867_JOB_PROC
+(
+  p_jsc_id  IN NUMBER
+);
+
+END EDI_OUT_867_PACK;
+/

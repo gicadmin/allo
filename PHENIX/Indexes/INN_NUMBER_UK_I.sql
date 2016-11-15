@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.inn_number_uk_i ON phenix.increment_numbers(inn_number);

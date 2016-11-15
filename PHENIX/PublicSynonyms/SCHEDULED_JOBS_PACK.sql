@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scheduled_jobs_pack FOR phenix.scheduled_jobs_pack;

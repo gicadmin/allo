@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nac_product_formats FOR phenix.nac_product_formats;

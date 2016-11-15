@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vcr_operation_pack FOR phenix.vcr_operation_pack;

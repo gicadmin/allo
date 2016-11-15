@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tlt_pack FOR phenix.tlt_pack;

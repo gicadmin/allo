@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cash_registers FOR phenix.cash_registers;

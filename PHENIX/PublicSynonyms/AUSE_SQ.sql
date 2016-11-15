@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ause_sq FOR phenix.ause_sq;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ctr_iat_physical_count_fk_i ON phenix.control(ctr_iat_physical_count_code);

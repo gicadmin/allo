@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pmh_id_reverse_i ON phenix.pick_mission_headers(REVERSE(TO_CHAR("PMH_ID")));

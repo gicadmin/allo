@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM program_warehouse_printers FOR phenix.program_warehouse_printers;

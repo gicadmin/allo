@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mse_sgp_fk_i ON phenix.menu_security(mse_sgr_code);

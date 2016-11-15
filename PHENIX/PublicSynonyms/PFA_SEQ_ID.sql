@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pfa_seq_id FOR phenix.pfa_seq_id;

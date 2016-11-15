@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sites FOR phenix.sites;

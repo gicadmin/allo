@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inm_start_end_date_i ON phenix.inventory_movements(inm_start_date,inm_end_date);

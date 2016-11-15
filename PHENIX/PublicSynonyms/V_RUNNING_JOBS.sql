@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_running_jobs FOR phenix.v_running_jobs;

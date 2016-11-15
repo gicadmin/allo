@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vta_rct_fk_i ON phenix.ven_client_type_associations(vta_rct_code);

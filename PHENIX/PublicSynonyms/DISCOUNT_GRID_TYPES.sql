@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM discount_grid_types FOR phenix.discount_grid_types;

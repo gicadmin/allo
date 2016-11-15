@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "DirList" FOR phenix."DirList";

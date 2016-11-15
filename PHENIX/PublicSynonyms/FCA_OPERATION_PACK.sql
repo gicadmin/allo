@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fca_operation_pack FOR phenix.fca_operation_pack;

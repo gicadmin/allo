@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ciu_prf_fk_i ON phenix.cubiscan_interface_updates(ciu_prf_fmt_code);

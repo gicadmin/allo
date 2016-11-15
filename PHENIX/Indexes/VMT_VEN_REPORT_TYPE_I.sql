@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vmt_ven_report_type_i ON phenix.vendor_email_transactions(vmt_ven_code,vmt_report_type);

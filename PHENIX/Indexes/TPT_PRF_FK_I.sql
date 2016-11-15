@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tpt_prf_fk_i ON phenix.temporary_placement_table(tpt_prf_prd_code,tpt_prf_fmt_code);

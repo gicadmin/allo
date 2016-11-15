@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pci_order_rgf_number_seq FOR phenix.pci_order_rgf_number_seq;

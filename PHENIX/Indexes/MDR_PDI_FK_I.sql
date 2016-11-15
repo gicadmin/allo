@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mdr_pdi_fk_i ON phenix.match_detail_rebills(mdr_pod_poh_id,mdr_pod_line_number,mdr_pdi_dit_code,mdr_pdi_ven_code);

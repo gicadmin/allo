@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_product_xref FOR phenix.v_product_xref;

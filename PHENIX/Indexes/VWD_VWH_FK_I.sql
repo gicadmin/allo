@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vwd_vwh_fk_i ON phenix.vendor_whs_delivery_days(vwd_ven_code,vwd_whs_code);

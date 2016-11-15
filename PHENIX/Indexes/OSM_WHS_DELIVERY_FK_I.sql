@@ -1,0 +1,1 @@
+CREATE INDEX phenix.osm_whs_delivery_fk_i ON phenix.outstanding_missions(osm_whs_delivery_code);

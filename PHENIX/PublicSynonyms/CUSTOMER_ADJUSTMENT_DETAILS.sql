@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_adjustment_details FOR phenix.customer_adjustment_details;

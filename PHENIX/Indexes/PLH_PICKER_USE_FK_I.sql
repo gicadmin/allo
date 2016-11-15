@@ -1,0 +1,1 @@
+CREATE INDEX phenix.plh_picker_use_fk_i ON phenix.pick_list_headers(plh_picker_use_code);

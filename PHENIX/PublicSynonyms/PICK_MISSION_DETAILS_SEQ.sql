@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pick_mission_details_seq FOR phenix.pick_mission_details_seq;

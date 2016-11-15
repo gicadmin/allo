@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_products_to_order FOR phenix.temporary_products_to_order;

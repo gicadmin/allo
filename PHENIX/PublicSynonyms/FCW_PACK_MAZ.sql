@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fcw_pack_maz FOR phenix.fcw_pack_maz;

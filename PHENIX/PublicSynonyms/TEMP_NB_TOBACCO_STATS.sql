@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_nb_tobacco_stats FOR phenix.temp_nb_tobacco_stats;

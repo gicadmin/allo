@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_project_date_type_coh_id_i ON phenix.customer_order_details(cod_coh_id,cod_project_delivery_date,cod_order_type);

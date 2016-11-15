@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cdo_cgr_fk ON phenix.customer_documents(cdo_cgr_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vco_shorted_fk_i ON phenix.validate_customer_orders(vco_shorted_id);

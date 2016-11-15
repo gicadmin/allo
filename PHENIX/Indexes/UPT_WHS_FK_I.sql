@@ -1,0 +1,1 @@
+CREATE INDEX phenix.upt_whs_fk_i ON phenix.user_picking_times(upt_whs_code);

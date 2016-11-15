@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pfq_whs_fk_i ON phenix.product_format_qty_timeline(pfq_whs_code);

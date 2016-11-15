@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cah_pack FOR phenix.cah_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pci_roles FOR phenix.pci_roles;

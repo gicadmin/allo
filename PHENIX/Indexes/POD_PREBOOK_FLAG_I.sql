@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pod_prebook_flag_i ON phenix.purchase_order_details(pod_prebook_flag);

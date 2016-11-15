@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM reo_pack FOR phenix.reo_pack;

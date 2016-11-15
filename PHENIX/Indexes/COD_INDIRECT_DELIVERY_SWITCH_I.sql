@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_indirect_delivery_switch_i ON phenix.customer_order_details(cod_indirect_delivery_switch);

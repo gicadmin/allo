@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_log_modifs FOR phenix.vendor_log_modifs;

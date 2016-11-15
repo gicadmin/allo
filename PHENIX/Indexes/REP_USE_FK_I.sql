@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rep_use_fk_i ON phenix.replenishments(rep_use_code);

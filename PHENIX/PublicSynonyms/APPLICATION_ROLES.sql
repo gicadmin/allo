@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM application_roles FOR phenix.application_roles;

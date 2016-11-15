@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cop_cot_fk_i ON phenix.customer_order_pallets(cop_cot_cod_coh_id,cop_cot_cod_line_number,cop_cot_line_number);

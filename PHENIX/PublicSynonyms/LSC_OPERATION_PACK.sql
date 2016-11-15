@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lsc_operation_pack FOR phenix.lsc_operation_pack;

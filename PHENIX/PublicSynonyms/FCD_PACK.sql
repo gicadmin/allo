@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fcd_pack FOR phenix.fcd_pack;

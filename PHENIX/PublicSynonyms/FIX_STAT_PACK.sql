@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fix_stat_pack FOR phenix.fix_stat_pack;

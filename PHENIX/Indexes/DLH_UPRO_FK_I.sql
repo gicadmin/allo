@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dlh_upro_fk_i ON phenix.display_list_headers(dlh_upro_id);

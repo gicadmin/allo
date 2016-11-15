@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_commision_details_seq FOR phenix.product_commision_details_seq;

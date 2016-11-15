@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sge_pack FOR phenix.sge_pack;

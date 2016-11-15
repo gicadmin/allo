@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dsd_cds_fk_i ON phenix.drop_statement_discounts(dsd_cds_vds_id,dsd_cds_cus_code,dsd_cds_reference_number);

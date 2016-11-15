@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mem_use_fk_i ON phenix.memos(mem_use_code);

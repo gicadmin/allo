@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM shipment_headers_seq FOR phenix.shipment_headers_seq;

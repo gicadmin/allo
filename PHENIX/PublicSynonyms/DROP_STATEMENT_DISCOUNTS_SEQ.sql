@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM drop_statement_discounts_seq FOR phenix.drop_statement_discounts_seq;

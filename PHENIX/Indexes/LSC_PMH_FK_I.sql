@@ -1,0 +1,1 @@
+CREATE INDEX phenix.lsc_pmh_fk_i ON phenix.location_shipping_containers(lsc_pmh_id);

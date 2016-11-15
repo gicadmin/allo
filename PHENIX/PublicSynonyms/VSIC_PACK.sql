@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vsic_pack FOR phenix.vsic_pack;

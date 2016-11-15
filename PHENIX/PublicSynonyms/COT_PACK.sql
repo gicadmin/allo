@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cot_pack FOR phenix.cot_pack;

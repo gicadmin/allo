@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prw_whs_sell_pick_i ON phenix.product_warehouses(prw_whs_code,prw_sellable_switch,prw_pickable_switch);

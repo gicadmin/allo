@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpr_pty_fk_i ON phenix.customer_promotions(cpr_pty_code);

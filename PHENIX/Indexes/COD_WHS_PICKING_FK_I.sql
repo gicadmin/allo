@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_whs_picking_fk_i ON phenix.customer_order_details(cod_whs_picking_code);

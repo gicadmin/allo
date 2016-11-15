@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pgr_coca_fk_i ON phenix.product_groups(pgr_coca_code);

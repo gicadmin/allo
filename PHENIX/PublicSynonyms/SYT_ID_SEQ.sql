@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM syt_id_seq FOR phenix.syt_id_seq;

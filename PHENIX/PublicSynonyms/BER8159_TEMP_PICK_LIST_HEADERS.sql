@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ber8159_temp_pick_list_headers FOR phenix.ber8159_temp_pick_list_headers;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pdi_affect_match_cost_switch_i ON phenix.purchase_order_discounts(pdi_affect_match_cost_switch);

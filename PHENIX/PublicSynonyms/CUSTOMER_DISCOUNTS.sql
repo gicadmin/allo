@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_discounts FOR phenix.customer_discounts;

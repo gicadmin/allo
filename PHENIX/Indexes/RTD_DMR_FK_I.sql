@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rtd_dmr_fk_i ON phenix.receipt_transaction_details(rtd_dmr_code);

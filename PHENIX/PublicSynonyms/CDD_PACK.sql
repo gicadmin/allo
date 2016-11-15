@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cdd_pack FOR phenix.cdd_pack;

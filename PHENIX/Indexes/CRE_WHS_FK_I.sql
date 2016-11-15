@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cre_whs_fk_i ON phenix.cash_registers(cre_whs_code);

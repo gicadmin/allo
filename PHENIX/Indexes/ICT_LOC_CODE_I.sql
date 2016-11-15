@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ict_loc_code_i ON phenix.inventory_count_transactions(ict_loc_code);

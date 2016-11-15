@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_tobacco_product_movements FOR phenix.temp_tobacco_product_movements;

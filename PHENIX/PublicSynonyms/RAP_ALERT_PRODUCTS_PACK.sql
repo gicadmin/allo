@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rap_alert_products_pack FOR phenix.rap_alert_products_pack;

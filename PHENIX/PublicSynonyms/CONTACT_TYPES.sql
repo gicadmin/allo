@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM contact_types FOR phenix.contact_types;

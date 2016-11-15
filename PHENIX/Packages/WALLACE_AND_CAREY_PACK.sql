@@ -1,0 +1,20 @@
+CREATE OR REPLACE PACKAGE phenix.WALLACE_AND_CAREY_PACK IS
+
+PROCEDURE GEN_INTERFACES_PROC(
+  p_inh_id  IN invoice_headers.inh_id%TYPE
+);
+
+PROCEDURE GENERATE_INVOICE_FILE_PROC(
+  p_inh_id  IN invoice_headers.inh_id%TYPE
+);
+
+PROCEDURE GENERATE_CREDIT_FILE_PROC(
+  p_inh_id  IN invoice_headers.inh_id%TYPE
+);
+
+PROCEDURE GENERATE_INVENTORY_FILE_PROC(
+  p_jsc_id  IN job_schedules.jsc_id%TYPE
+);
+
+END WALLACE_AND_CAREY_PACK;
+/

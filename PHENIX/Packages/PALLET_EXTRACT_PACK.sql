@@ -1,0 +1,12 @@
+CREATE OR REPLACE PACKAGE phenix.PALLET_EXTRACT_PACK IS
+
+PROCEDURE EXTRACT_CHEP_PROC(
+  p_jsc_id IN job_schedules.jsc_id%TYPE
+);
+
+PROCEDURE EXTRACT_PECO_PROC(
+  p_jsc_id IN job_schedules.jsc_id%TYPE
+);
+
+END PALLET_EXTRACT_PACK;
+/

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_haz_fk_i ON phenix.products(prd_haz_code);

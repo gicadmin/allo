@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_detail_potentials FOR phenix.temporary_detail_potentials;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM statistics_tracking_groups FOR phenix.statistics_tracking_groups;

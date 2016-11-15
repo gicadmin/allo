@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cah_transaction_date_i ON phenix.customer_adjustment_headers(cah_transaction_date);

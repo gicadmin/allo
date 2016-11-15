@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vmt_operation_pack FOR phenix.vmt_operation_pack;

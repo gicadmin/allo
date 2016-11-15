@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cah_open_switch_i ON phenix.customer_adjustment_headers(cah_open_switch);

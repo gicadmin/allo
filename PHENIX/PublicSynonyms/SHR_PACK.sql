@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM shr_pack FOR phenix.shr_pack;

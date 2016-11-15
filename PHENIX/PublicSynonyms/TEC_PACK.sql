@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tec_pack FOR phenix.tec_pack;

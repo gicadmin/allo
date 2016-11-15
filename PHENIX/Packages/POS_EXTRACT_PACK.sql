@@ -1,0 +1,36 @@
+CREATE OR REPLACE PACKAGE phenix.POS_EXTRACT_PACK IS
+/*
+*  GIMAT		 DATE			  AUTEUR	DESCRIPTION
+* -------	----------	---------	-----------------------------------------
+* EFE70   21-09-2011  Mawuko    Enlever la fonction GET_CONSIGN
+*/
+
+FUNCTION GET_PSR_PRICE( --ROL1847
+	p_prd_code IN VARCHAR2,
+	p_fmt_code IN VARCHAR2
+)
+RETURN VARCHAR2;
+
+PROCEDURE POS_EXTRACT_PROC(
+	p_jsc_id IN NUMBER
+);
+
+PROCEDURE EXTRACT_PROC(
+	p_jsc_id IN NUMBER
+);
+
+--création d'un fichier pour Martin Jacques chez Colabor (CSC2340)
+PROCEDURE CREATE_FILE_ALL_PRODUCTS_PROC(
+	p_jsc_id IN NUMBER
+);
+
+PROCEDURE GEN_PRICE_DIFFERENCE_PROC(
+	p_jsc_id IN NUMBER
+);
+
+PROCEDURE DIFF_PRICE_MANUF_COST_PROC;
+
+PROCEDURE DIFF_PRICE_COST_REAL_COST_PROC;
+
+END POS_EXTRACT_PACK;
+/

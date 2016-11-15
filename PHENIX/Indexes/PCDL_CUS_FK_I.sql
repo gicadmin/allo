@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pcdl_cus_fk_i ON phenix.pci_customer_display_lists(pcdl_cus_code);

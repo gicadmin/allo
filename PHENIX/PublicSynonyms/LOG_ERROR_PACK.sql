@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM log_error_pack FOR phenix.log_error_pack;

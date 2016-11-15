@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_pallet_rules FOR phenix.temporary_pallet_rules;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wcs_pack FOR phenix.wcs_pack;

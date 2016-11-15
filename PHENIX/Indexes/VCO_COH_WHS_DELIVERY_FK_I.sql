@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vco_coh_whs_delivery_fk_i ON phenix.validate_customer_orders(vco_coh_whs_delivery_code);

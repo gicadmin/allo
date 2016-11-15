@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rcl_naz_fk_i ON phenix.retail_clients(rcl_naz_nac_code,rcl_naz_zone_code);

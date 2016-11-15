@@ -1,0 +1,1 @@
+CREATE INDEX phenix.loh_upper_module_name_i ON phenix.log_headers(UPPER("LOH_MODULE_NAME"));

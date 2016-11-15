@@ -1,0 +1,1 @@
+CREATE INDEX phenix.upt_use_fk_i ON phenix.user_picking_times(upt_use_code);

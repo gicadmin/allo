@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prf_upc_i ON phenix.product_formats(prf_upc_code);

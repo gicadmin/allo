@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM accpac_remittances_pack FOR phenix.accpac_remittances_pack;

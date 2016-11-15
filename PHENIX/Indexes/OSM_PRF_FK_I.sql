@@ -1,0 +1,1 @@
+CREATE INDEX phenix.osm_prf_fk_i ON phenix.outstanding_missions(osm_prf_prd_code,osm_prf_fmt_code);

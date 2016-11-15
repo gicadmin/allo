@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpf_history_last_recalc_date_i ON phenix.customer_profiles(cpf_history_calculated_date);

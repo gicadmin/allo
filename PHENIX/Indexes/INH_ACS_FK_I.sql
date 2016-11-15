@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inh_acs_fk_i ON phenix.invoice_headers(inh_asc_id);

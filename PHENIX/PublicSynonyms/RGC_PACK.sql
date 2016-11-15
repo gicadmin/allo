@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rgc_pack FOR phenix.rgc_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gpu_utilisateur_groupe FOR phenix.gpu_utilisateur_groupe;

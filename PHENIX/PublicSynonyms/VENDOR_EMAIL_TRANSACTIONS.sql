@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_email_transactions FOR phenix.vendor_email_transactions;

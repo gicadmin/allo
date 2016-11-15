@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sha_loc_code_i ON phenix.shipment_audits(sha_loc_code);

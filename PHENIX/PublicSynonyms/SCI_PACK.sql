@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sci_pack FOR phenix.sci_pack;

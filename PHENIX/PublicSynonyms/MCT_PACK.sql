@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mct_pack FOR phenix.mct_pack;

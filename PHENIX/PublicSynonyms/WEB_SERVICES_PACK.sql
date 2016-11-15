@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM web_services_pack FOR phenix.web_services_pack;

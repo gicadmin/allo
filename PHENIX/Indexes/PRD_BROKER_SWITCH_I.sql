@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_broker_switch_i ON phenix.products(prd_broker_switch);

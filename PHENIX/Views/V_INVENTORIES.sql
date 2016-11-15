@@ -1,0 +1,108 @@
+CREATE OR REPLACE FORCE VIEW phenix.v_inventories (inv_prf_prd_code,inv_prf_fmt_code,inv_loc_code,inv_quantity_on_hand,inv_weight_on_hand,inv_quantity_to_pick,inv_weight_to_pick,inv_quantity_in,inv_weight_in,inv_quantity_out,inv_weight_out,inv_quantity_on_hold,inv_weight_on_hold,inv_in_date,inv_quantity_max,inv_last_pick_date,inv_last_count_date,inv_fifo_date,inv_expiry_date,inv_quantity_min,inv_weight_max,inv_weight_min,inv_out_date,inv_quantity_moved_in,inv_quantity_moved_out,inv_weight_moved_out,inv_trans_type,inv_creation_date,inv_last_modification_date,inv_on_hold_date) AS
+SELECT INV_PRF_PRD_CODE,
+       INV_PRF_FMT_CODE,
+       INV_LOC_CODE,
+       SUM(INV_QUANTITY_ON_HAND)            INV_QUANTITY_ON_HAND,
+       SUM(INV_WEIGHT_ON_HAND)              INV_WEIGHT_ON_HAND,
+       SUM(INV_QUANTITY_TO_PICK)            INV_QUANTITY_TO_PICK,
+       SUM(INV_WEIGHT_TO_PICK)              INV_WEIGHT_TO_PICK,
+       SUM(INV_QUANTITY_IN)                 INV_QUANTITY_IN,
+       SUM(INV_WEIGHT_IN)                   INV_WEIGHT_IN,
+       SUM(INV_QUANTITY_OUT)                INV_QUANTITY_OUT,
+       SUM(INV_WEIGHT_OUT)                  INV_WEIGHT_OUT,
+       SUM(INV_QUANTITY_ON_HOLD)            INV_QUANTITY_ON_HOLD,
+       SUM(INV_WEIGHT_ON_HOLD)              INV_WEIGHT_ON_HOLD,
+       MAX(INV_IN_DATE)                     INV_IN_DATE,
+       MAX(INV_QUANTITY_MAX)                INV_QUANTITY_MAX,
+       MAX(INV_LAST_PICK_DATE)              INV_LAST_PICK_DATE,
+       MAX(INV_LAST_COUNT_DATE)             INV_LAST_COUNT_DATE,
+       MAX(INV_FIFO_DATE)                   INV_FIFO_DATE,
+       MAX(INV_EXPIRY_DATE)                 INV_EXPIRY_DATE,
+       MIN(INV_QUANTITY_MIN)                INV_QUANTITY_MIN,
+       MAX(INV_WEIGHT_MAX)                  INV_WEIGHT_MAX,
+       MIN(INV_WEIGHT_MIN)                  INV_WEIGHT_MIN,
+       MAX(INV_OUT_DATE)                    INV_OUT_DATE,
+       SUM(INV_QUANTITY_MOVED_IN)           INV_QUANTITY_MOVED_IN,
+       SUM(INV_QUANTITY_MOVED_OUT)          INV_QUANTITY_MOVED_OUT,
+       SUM(INV_WEIGHT_MOVED_OUT)            INV_WEIGHT_MOVED_OUT,
+       MAX(INV_TRANS_TYPE)                  INV_TRANS_TYPE,
+       MAX(INV_CREATION_DATE)               INV_CREATION_DATE,
+       MAX(INV_LAST_MODIFICATION_DATE)      INV_LAST_MODIFICATION_DATE,
+       MAX(INV_ON_HOLD_DATE)                INV_ON_HOLD_DATE
+  FROM (
+    SELECT INV.INV_PRF_PRD_CODE,
+           INV.INV_PRF_FMT_CODE,
+           INV.INV_LOC_CODE,
+           INV.INV_QUANTITY_ON_HAND,
+           INV.INV_WEIGHT_ON_HAND,
+           0   INV_QUANTITY_TO_PICK,
+           0   INV_WEIGHT_TO_PICK,
+           INV.INV_QUANTITY_IN,
+           INV.INV_WEIGHT_IN,
+           INV.INV_QUANTITY_OUT,
+           INV.INV_WEIGHT_OUT,
+           INV.INV_QUANTITY_ON_HOLD,
+           INV.INV_WEIGHT_ON_HOLD,
+           INV.INV_IN_DATE,
+           INV.INV_QUANTITY_MAX,
+           INV.INV_LAST_PICK_DATE,
+           INV.INV_LAST_COUNT_DATE,
+           INV.INV_FIFO_DATE,
+           INV.INV_EXPIRY_DATE,
+           INV.INV_QUANTITY_MIN,
+           INV.INV_WEIGHT_MAX,
+           INV.INV_WEIGHT_MIN,
+           INV.INV_OUT_DATE,
+           INV.INV_QUANTITY_MOVED_IN,
+           INV.INV_QUANTITY_MOVED_OUT,
+           INV.INV_WEIGHT_MOVED_OUT,
+           INV.INV_TRANS_TYPE,
+           INV.INV_CREATION_DATE,
+           INV.INV_LAST_MODIFICATION_DATE,
+           INV.INV_ON_HOLD_DATE
+      FROM INVENTORIES INV
+    UNION ALL
+    SELECT CPD_PMD_PRF_PRD_CODE,
+           CPD_PMD_PRF_FMT_CODE,
+           CPD_PMD_LOC_CODE,
+           0                                   INV_QUANTITY_ON_HAND,
+           0                                   INV_WEIGHT_ON_HAND,
+           NVL(CPD.CPD_PMD_QUANTITY,0) - DECODE(CPD.CPD_PMD_USE_PICKER_CODE, NULL, 0, NVL(CPD.CPD_PMD_QUANTITY_PICKED,0)) INV_QUANTITY_TO_PICK, --ber6445 prendre la qté juste sil y a un cueilleur
+           CASE
+            WHEN prd.prd_definition = 'F' THEN
+              NVL(CPD.CPD_PMD_WEIGHT,0) - DECODE(CPD.CPD_PMD_USE_PICKER_CODE, NULL, 0, NVL(CPD.CPD_PMD_WEIGHT_PICKED, 0))   --ber6445 prendre la qté juste sil y a un cueilleur
+            ELSE 0
+           END INV_WEIGHT_TO_PICK,
+           0                                   INV_QUANTITY_IN,
+           0                                   INV_WEIGHT_IN,
+           0                                   INV_QUANTITY_OUT,
+           0                                   INV_WEIGHT_OUT,
+           0                                   INV_QUANTITY_ON_HOLD,
+           0                                   INV_WEIGHT_ON_HOLD,
+           NULL                                INV_IN_DATE,
+           NULL                                INV_QUANTITY_MAX,
+           NULL                                INV_LAST_PICK_DATE,
+           NULL                                INV_LAST_COUNT_DATE,
+           NULL                                INV_FIFO_DATE,
+           NULL                                INV_EXPIRY_DATE,
+           NULL                                INV_QUANTITY_MIN,
+           NULL                                INV_WEIGHT_MAX,
+           NULL                                INV_WEIGHT_MIN,
+           NULL                                INV_OUT_DATE,
+           0                                   INV_QUANTITY_MOVED_IN,
+           0                                   INV_QUANTITY_MOVED_OUT,
+           0                                   INV_WEIGHT_MOVED_OUT,
+           NULL                                INV_TRANS_TYPE,
+           NULL                                INV_CREATION_DATE,
+           NULL                                INV_LAST_MODIFICATION_DATE,
+           NULL                                INV_ON_HOLD_DATE
+      FROM CONSOLE_PICK_DETAILS CPD join
+           products prd on
+            (prd.prd_code = cpd_pmd_prf_prd_code)
+     WHERE (NVL(CPD.CPD_PMD_QUANTITY,0) - DECODE(CPD.CPD_PMD_USE_PICKER_CODE, NULL, 0, NVL(CPD.CPD_PMD_QUANTITY_PICKED,0))) +
+           (DECODE(prd.prd_definition,'F',NVL(CPD.CPD_PMD_WEIGHT,0) - DECODE(CPD.CPD_PMD_USE_PICKER_CODE, NULL, 0, NVL(CPD.CPD_PMD_WEIGHT_PICKED, 0)),0)) != 0
+            )
+ GROUP BY INV_PRF_PRD_CODE,
+       INV_PRF_FMT_CODE,
+       INV_LOC_CODE
+  ;

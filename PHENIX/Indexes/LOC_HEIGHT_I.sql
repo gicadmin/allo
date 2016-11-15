@@ -1,0 +1,1 @@
+CREATE INDEX phenix.loc_height_i ON phenix.locations(loc_height);

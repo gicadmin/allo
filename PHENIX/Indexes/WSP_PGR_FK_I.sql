@@ -1,0 +1,1 @@
+CREATE INDEX phenix.wsp_pgr_fk_i ON phenix.warehouse_sellable_products(wsp_pgr_code);

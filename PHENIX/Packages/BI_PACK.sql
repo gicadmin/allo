@@ -1,0 +1,19 @@
+CREATE OR REPLACE PACKAGE phenix.BI_PACK IS
+
+FUNCTION GET_SUM_QTY_COT_FUNC (
+  p_coh_id   IN NUMBER,
+  p_cod_line IN NUMBER,
+  p_inh_id   IN NUMBER
+)
+RETURN NUMBER;
+
+FUNCTION GET_SUM_WEIGHT_COT_FUNC (
+  p_coh_id   IN NUMBER,
+  p_cod_line IN NUMBER,
+  p_inh_id   IN NUMBER
+)
+RETURN NUMBER;
+
+END BI_PACK;
+ 
+/

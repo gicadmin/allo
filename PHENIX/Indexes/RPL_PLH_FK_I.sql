@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rpl_plh_fk_i ON phenix.replenish_pick_lists(rpl_plh_id);

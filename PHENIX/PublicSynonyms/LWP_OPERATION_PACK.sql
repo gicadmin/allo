@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lwp_operation_pack FOR phenix.lwp_operation_pack;

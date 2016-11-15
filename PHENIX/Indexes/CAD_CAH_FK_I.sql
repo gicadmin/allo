@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cad_cah_fk_i ON phenix.customer_adjustment_details(cad_cah_id);

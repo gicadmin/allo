@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pmh_use_picker_code_fk_i ON phenix.pick_mission_headers(pmh_use_picker_code);

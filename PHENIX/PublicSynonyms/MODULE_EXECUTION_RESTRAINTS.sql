@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM module_execution_restraints FOR phenix.module_execution_restraints;

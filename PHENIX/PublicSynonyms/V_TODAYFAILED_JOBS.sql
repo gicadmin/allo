@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_todayfailed_jobs FOR phenix.v_todayfailed_jobs;

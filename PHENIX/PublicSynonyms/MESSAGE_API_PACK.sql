@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM message_api_pack FOR phenix.message_api_pack;

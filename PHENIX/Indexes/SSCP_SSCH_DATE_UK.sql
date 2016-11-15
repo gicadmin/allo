@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.sscp_ssch_date_uk ON phenix.site_schedule_contract_payment(sscp_ssch_code,sscp_revised_payable_date);

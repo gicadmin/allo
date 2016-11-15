@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM field_code_seq FOR phenix.field_code_seq;

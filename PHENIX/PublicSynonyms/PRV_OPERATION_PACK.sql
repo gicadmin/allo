@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM prv_operation_pack FOR phenix.prv_operation_pack;

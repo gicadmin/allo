@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pms_rou_fk_i ON phenix.pallet_model_specifics(pms_rou_code);

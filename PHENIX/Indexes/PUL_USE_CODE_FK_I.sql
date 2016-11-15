@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pul_use_code_fk_i ON phenix.phenix_user_locks(pul_use_code);

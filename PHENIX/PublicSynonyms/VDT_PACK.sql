@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vdt_pack FOR phenix.vdt_pack;

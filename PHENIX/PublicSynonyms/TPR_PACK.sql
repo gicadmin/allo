@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tpr_pack FOR phenix.tpr_pack;

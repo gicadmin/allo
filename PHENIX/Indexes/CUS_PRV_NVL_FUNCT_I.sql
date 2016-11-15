@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_prv_nvl_funct_i ON phenix.customers(NVL("CUS_PRV_DELIVERS_IN_CODE","CUS_PRV_RESIDES_IN_CODE"));

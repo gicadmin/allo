@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fiscal_calendar_weeks FOR phenix.fiscal_calendar_weeks;

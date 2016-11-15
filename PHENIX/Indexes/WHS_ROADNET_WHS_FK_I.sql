@@ -1,0 +1,1 @@
+CREATE INDEX phenix.whs_roadnet_whs_fk_i ON phenix.warehouses(whs_roadnet_whs_code);

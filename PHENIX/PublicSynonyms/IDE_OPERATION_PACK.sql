@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ide_operation_pack FOR phenix.ide_operation_pack;

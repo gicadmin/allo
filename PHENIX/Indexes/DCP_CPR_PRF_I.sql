@@ -1,0 +1,1 @@
+CREATE INDEX phenix.dcp_cpr_prf_i ON phenix.deleted_customer_promotions(dcp_cpr_prf_prd_code,dcp_cpr_prf_fmt_code);

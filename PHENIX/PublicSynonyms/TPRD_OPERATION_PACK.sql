@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tprd_operation_pack FOR phenix.tprd_operation_pack;

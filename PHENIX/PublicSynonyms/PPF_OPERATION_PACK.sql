@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ppf_operation_pack FOR phenix.ppf_operation_pack;

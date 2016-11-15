@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_schedules FOR phenix.customer_schedules;

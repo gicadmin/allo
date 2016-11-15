@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM csc8833_pick_mission_details FOR phenix.csc8833_pick_mission_details;

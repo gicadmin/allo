@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_product_whs_inv_tpl FOR phenix.v_product_whs_inv_tpl;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.lty_prn_fk_i ON phenix.location_types(lty_prn_id);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sph_operation_pack FOR phenix.sph_operation_pack;

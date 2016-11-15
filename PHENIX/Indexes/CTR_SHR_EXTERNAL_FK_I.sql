@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ctr_shr_external_fk_i ON phenix.control(ctr_shr_external_code);

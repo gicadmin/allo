@@ -1,0 +1,1 @@
+CREATE INDEX phenix.coh_cus_fk_i ON phenix.customer_order_headers(coh_cus_code);

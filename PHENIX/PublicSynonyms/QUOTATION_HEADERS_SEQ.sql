@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM quotation_headers_seq FOR phenix.quotation_headers_seq;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM different_pack FOR phenix.different_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.voar_cod_fk_i ON phenix.vend_order_agreement_reclaims(voar_cod_coh_id,voar_cod_line_number);

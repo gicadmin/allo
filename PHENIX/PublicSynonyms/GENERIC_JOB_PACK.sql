@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM generic_job_pack FOR phenix.generic_job_pack;

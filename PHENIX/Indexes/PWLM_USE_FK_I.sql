@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pwlm_use_fk_i ON phenix.public_whse_log_modifs(pwlm_use_code);

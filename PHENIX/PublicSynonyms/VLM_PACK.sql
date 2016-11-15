@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vlm_pack FOR phenix.vlm_pack;

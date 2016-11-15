@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM barcode_nomenclatures_seq FOR phenix.barcode_nomenclatures_seq;

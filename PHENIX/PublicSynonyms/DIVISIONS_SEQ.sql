@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM divisions_seq FOR phenix.divisions_seq;

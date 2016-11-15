@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fco_operation_pack FOR phenix.fco_operation_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM valid_param_seq FOR phenix.valid_param_seq;

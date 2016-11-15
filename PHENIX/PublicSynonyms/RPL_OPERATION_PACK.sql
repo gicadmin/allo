@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rpl_operation_pack FOR phenix.rpl_operation_pack;

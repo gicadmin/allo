@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM discount_types FOR phenix.discount_types;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_brn_fk_i ON phenix.products(prd_brn_code);

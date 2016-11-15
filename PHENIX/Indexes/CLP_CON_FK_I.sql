@@ -1,0 +1,1 @@
+CREATE INDEX phenix.clp_con_fk_i ON phenix.contacts_last_passwords(clp_con_id);

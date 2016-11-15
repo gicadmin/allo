@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cah_operation_pack FOR phenix.cah_operation_pack;

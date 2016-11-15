@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_shorted_cods FOR phenix.temporary_shorted_cods;

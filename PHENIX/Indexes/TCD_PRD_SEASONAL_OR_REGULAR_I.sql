@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tcd_prd_seasonal_or_regular_i ON phenix.temporary_caps_details(tcd_prd_seasonal_or_regular);

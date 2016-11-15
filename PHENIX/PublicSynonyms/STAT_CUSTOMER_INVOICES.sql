@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stat_customer_invoices FOR phenix.stat_customer_invoices;

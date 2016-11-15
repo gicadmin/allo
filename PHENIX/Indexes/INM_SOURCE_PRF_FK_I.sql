@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inm_source_prf_fk_i ON phenix.inventory_movements(inm_prf_prd_code,inm_prf_source_fmt_code);

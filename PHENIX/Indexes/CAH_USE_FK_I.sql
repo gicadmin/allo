@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cah_use_fk_i ON phenix.customer_adjustment_headers(cah_use_code);

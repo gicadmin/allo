@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM volume_rebate_pack FOR phenix.volume_rebate_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM whz_pack FOR phenix.whz_pack;

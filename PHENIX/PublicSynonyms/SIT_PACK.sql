@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sit_pack FOR phenix.sit_pack;

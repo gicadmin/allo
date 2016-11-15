@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM external_softwares FOR phenix.external_softwares;

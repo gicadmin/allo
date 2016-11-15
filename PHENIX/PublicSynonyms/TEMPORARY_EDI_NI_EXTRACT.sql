@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_edi_ni_extract FOR phenix.temporary_edi_ni_extract;

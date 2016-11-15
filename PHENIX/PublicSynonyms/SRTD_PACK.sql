@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM srtd_pack FOR phenix.srtd_pack;

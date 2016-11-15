@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rdh_use_aide_fk_i ON phenix.route_date_headers(rdh_use_aide_code);

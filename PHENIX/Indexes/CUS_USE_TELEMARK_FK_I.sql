@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_use_telemark_fk_i ON phenix.customers(cus_use_telemark_code);

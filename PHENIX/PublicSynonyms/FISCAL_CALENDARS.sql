@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fiscal_calendars FOR phenix.fiscal_calendars;

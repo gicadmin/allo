@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM territory_groups FOR phenix.territory_groups;

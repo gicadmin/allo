@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM invoice_headers_seq FOR phenix.invoice_headers_seq;

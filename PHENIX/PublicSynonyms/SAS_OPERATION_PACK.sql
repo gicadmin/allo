@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sas_operation_pack FOR phenix.sas_operation_pack;

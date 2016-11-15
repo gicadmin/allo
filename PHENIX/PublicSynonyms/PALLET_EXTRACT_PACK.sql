@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pallet_extract_pack FOR phenix.pallet_extract_pack;

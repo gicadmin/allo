@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sales_agreement_reclaims_seq FOR phenix.sales_agreement_reclaims_seq;

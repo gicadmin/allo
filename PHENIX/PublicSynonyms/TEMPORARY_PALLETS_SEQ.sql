@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_pallets_seq FOR phenix.temporary_pallets_seq;

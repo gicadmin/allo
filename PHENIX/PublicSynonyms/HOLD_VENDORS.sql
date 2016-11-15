@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hold_vendors FOR phenix.hold_vendors;

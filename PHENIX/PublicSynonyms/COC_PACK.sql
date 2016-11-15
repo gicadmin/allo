@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM coc_pack FOR phenix.coc_pack;

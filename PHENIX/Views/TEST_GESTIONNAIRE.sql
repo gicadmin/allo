@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE VIEW phenix.test_gestionnaire (bou) AS
+SELECT 1 BOU FROM DUAL;

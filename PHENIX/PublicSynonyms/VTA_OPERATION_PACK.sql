@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vta_operation_pack FOR phenix.vta_operation_pack;

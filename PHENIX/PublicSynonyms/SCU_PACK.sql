@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scu_pack FOR phenix.scu_pack;

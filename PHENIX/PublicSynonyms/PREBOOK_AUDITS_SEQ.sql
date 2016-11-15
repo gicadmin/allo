@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM prebook_audits_seq FOR phenix.prebook_audits_seq;

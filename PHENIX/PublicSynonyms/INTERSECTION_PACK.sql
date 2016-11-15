@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM intersection_pack FOR phenix.intersection_pack;

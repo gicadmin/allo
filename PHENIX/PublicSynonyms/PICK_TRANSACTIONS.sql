@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pick_transactions FOR phenix.pick_transactions;

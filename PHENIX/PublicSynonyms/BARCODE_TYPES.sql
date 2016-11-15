@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM barcode_types FOR phenix.barcode_types;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_quotation_sales FOR phenix.temporary_quotation_sales;

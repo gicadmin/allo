@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM history_timeline FOR phenix.history_timeline;

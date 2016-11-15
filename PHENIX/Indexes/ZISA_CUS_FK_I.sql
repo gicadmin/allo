@@ -1,0 +1,1 @@
+CREATE INDEX phenix.zisa_cus_fk_i ON phenix.zero_inventory_sales_audits(zisa_cus_code);

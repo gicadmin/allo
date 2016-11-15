@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_locations_pre_pick FOR phenix.temp_locations_pre_pick;

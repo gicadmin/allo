@@ -1,0 +1,1 @@
+CREATE INDEX phenix.qtd_pty_fk_i ON phenix.quotation_details(qtd_pty_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_agreement_pack FOR phenix.vendor_agreement_pack;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX phenix.crdh_whs_date_seq_i ON phenix.customer_route_docum_headers("CRDH_WHS_CODE"||TO_CHAR("CRDH_ROU_DATE",'YYMMDD')||TO_CHAR("CRDH_SEQUENCE"));

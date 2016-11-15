@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM replenishment_details_seq FOR phenix.replenishment_details_seq;

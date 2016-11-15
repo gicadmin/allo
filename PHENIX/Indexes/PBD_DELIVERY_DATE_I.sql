@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pbd_delivery_date_i ON phenix.prebook_deliveries(pbd_delivery_date);

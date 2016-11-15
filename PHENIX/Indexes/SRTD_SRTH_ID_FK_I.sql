@@ -1,0 +1,1 @@
+CREATE INDEX phenix.srtd_srth_id_fk_i ON phenix.sales_register_trans_details(srtd_srth_id);

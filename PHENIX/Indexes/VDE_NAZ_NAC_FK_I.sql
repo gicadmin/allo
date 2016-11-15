@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vde_naz_nac_fk_i ON phenix.vendor_discount_exceptions(vde_naz_nac_code,vde_naz_zone_code);

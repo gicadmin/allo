@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nagios_pack FOR phenix.nagios_pack;

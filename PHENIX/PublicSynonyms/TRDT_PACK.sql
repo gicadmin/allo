@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM trdt_pack FOR phenix.trdt_pack;

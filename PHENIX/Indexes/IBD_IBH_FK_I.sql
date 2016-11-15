@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ibd_ibh_fk_i ON phenix.indirect_billing_details(ibd_ibh_id);

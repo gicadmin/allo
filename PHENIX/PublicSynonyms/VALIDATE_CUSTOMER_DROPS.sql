@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM validate_customer_drops FOR phenix.validate_customer_drops;

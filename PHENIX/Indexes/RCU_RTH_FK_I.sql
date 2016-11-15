@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rcu_rth_fk_i ON phenix.receipt_users(rcu_rth_id);

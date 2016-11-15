@@ -1,0 +1,1 @@
+CREATE INDEX phenix.oic_loc_fk_i ON phenix.outstanding_inventory_counts(oic_loc_code);

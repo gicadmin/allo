@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cgr_cgr_fk_i ON phenix.customer_groups(cgr_cgr_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_formats FOR phenix.product_formats;

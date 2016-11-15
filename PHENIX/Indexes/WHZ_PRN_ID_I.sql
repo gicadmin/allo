@@ -1,0 +1,1 @@
+CREATE INDEX phenix.whz_prn_id_i ON phenix.warehouse_zones(whz_prn_id);

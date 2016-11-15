@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cot_freegood_inh_id_fk_i ON phenix.customer_order_transactions(cot_freegood_inh_id);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ctr_pack FOR phenix.ctr_pack;

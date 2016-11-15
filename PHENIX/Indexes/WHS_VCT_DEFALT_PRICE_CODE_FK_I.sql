@@ -1,0 +1,1 @@
+CREATE INDEX phenix.whs_vct_defalt_price_code_fk_i ON phenix.warehouses(whs_vct_default_price_code);

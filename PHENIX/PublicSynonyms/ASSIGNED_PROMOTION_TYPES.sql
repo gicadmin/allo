@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM assigned_promotion_types FOR phenix.assigned_promotion_types;

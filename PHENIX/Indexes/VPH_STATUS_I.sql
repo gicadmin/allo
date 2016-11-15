@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vph_status_i ON phenix.vendor_pick_headers(vph_status);

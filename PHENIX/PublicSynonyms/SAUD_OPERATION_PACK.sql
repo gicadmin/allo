@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM saud_operation_pack FOR phenix.saud_operation_pack;

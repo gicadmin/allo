@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM etiquette_pallet_seq FOR phenix.etiquette_pallet_seq;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.hdd_hdh_fk_i ON phenix.hold_di_details(hdd_hdh_id);

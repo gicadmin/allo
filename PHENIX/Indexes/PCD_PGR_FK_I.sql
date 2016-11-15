@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pcd_pgr_fk_i ON phenix.product_commission_details(pcd_pgr_code);

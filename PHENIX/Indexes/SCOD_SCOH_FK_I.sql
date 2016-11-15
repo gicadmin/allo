@@ -1,0 +1,1 @@
+CREATE INDEX phenix.scod_scoh_fk_i ON phenix.shopping_cart_order_details(scod_scoh_id);

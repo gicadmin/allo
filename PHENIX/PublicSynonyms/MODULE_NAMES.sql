@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM module_names FOR phenix.module_names;

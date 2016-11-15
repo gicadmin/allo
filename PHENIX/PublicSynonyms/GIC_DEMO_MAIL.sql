@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gic_demo_mail FOR phenix.gic_demo_mail;

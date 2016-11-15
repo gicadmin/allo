@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_groups FOR phenix.product_groups;

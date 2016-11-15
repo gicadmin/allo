@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM positioning_pack FOR phenix.positioning_pack;

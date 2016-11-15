@@ -1,0 +1,1 @@
+CREATE INDEX phenix.wzp_whs_fk_i ON phenix.warehouse_zone_printers(wzp_whs_code);

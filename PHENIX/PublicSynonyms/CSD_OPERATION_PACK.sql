@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM csd_operation_pack FOR phenix.csd_operation_pack;

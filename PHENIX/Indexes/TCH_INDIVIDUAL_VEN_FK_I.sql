@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tch_individual_ven_fk_i ON phenix.temporary_caps_headers(tch_individual_ven_code);

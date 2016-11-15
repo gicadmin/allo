@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rio_operation_pack FOR phenix.rio_operation_pack;

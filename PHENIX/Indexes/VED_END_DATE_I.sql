@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ved_end_date_i ON phenix.vendor_agreement_details(ved_end_date);

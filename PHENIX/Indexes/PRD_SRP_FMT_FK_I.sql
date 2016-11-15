@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_srp_fmt_fk_i ON phenix.products(prd_srp_fmt_code);

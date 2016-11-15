@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ide_actual_loc_fk_i ON phenix.identifiers(ide_actual_loc_code);

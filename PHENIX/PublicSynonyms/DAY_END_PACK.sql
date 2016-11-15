@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM day_end_pack FOR phenix.day_end_pack;

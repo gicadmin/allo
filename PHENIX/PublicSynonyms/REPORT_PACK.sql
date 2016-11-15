@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM report_pack FOR phenix.report_pack;

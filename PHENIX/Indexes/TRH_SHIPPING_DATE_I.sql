@@ -1,0 +1,1 @@
+CREATE INDEX phenix.trh_shipping_date_i ON phenix.transfer_headers(trh_shipping_date);

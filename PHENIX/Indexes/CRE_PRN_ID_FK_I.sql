@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cre_prn_id_fk_i ON phenix.cash_registers(cre_prn_id);

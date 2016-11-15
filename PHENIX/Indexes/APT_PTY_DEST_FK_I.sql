@@ -1,0 +1,1 @@
+CREATE INDEX phenix.apt_pty_dest_fk_i ON phenix.assigned_promotion_types(apt_pty_destination_code);

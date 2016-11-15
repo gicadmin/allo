@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mdp_plh_processed_i ON phenix.mission_detail_picklists(mdp_plh_id,mdp_processed_switch);

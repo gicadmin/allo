@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ide_prf_fmt_fk_i ON phenix.identifiers(ide_prf_fmt_code);

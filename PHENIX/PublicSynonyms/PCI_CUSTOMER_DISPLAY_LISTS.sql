@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pci_customer_display_lists FOR phenix.pci_customer_display_lists;

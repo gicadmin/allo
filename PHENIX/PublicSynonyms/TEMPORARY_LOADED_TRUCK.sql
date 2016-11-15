@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_loaded_truck FOR phenix.temporary_loaded_truck;

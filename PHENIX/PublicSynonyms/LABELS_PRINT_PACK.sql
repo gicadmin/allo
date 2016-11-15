@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM labels_print_pack FOR phenix.labels_print_pack;

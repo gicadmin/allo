@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM history_timeline_audit FOR phenix.history_timeline_audit;

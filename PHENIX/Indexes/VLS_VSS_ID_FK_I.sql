@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vls_vss_id_fk_i ON phenix.vendor_lost_sales(vls_vss_id);

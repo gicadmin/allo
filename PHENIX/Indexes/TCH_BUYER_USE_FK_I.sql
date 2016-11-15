@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tch_buyer_use_fk_i ON phenix.temporary_caps_headers(tch_buyer_use_code);

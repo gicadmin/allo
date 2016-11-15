@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scsc_pack FOR phenix.scsc_pack;

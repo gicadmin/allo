@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM inventory_movements_seq FOR phenix.inventory_movements_seq;

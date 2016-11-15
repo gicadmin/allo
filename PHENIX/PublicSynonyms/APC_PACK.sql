@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apc_pack FOR phenix.apc_pack;

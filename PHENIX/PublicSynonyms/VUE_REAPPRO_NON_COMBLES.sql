@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vue_reappro_non_combles FOR phenix.vue_reappro_non_combles;

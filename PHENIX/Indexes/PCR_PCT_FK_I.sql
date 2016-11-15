@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pcr_pct_fk_i ON phenix.product_counter_reclaims(pcr_pct_id);

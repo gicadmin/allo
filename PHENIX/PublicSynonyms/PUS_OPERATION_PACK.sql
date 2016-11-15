@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pus_operation_pack FOR phenix.pus_operation_pack;

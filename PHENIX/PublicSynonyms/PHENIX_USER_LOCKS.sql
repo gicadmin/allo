@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM phenix_user_locks FOR phenix.phenix_user_locks;

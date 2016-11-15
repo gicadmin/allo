@@ -1,0 +1,1 @@
+CREATE INDEX phenix.soa_pod_fk_i ON phenix.special_order_audits(soa_pod_poh_id,soa_pod_line_number);

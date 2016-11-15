@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_warehouses FOR phenix.product_warehouses;

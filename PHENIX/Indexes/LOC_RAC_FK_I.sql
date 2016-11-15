@@ -1,0 +1,1 @@
+CREATE INDEX phenix.loc_rac_fk_i ON phenix.locations(loc_rac_code);

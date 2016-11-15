@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_billing_headers FOR phenix.vendor_billing_headers;

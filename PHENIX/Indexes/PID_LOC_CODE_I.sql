@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pid_loc_code_i ON phenix.pick_transactions(pid_loc_code);

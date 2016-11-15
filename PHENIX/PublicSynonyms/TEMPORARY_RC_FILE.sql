@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_rc_file FOR phenix.temporary_rc_file;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM swss_seq FOR phenix.swss_seq;

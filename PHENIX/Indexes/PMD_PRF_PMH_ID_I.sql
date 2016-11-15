@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pmd_prf_pmh_id_i ON phenix.pick_mission_details(pmd_prf_prd_code,pmd_prf_fmt_code,pmd_pmh_id);

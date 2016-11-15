@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pwpu_pwph_fk_i ON phenix.public_whse_pick_users(pwpu_pwph_id);

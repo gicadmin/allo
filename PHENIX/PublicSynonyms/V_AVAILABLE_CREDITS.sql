@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_available_credits FOR phenix.v_available_credits;

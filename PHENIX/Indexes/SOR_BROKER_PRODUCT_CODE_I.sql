@@ -1,0 +1,1 @@
+CREATE INDEX phenix.sor_broker_product_code_i ON phenix.show_orders(sor_broker_product_code);

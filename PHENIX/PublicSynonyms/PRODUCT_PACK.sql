@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_pack FOR phenix.product_pack;

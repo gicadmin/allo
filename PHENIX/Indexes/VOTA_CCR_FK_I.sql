@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vota_ccr_fk_i ON phenix.validate_oa_tpa_agreements(vota_ccr_code);

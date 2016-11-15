@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apc_operation_pack FOR phenix.apc_operation_pack;

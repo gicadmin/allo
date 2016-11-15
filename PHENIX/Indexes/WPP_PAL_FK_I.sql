@@ -1,0 +1,1 @@
+CREATE INDEX phenix.wpp_pal_fk_i ON phenix.warehouse_pallet_programs(wpp_pal_code);

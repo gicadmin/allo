@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cus_cdk_fk_i ON phenix.customers(cus_cdk_code);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rtd_ide_id_i ON phenix.receipt_transaction_details(rtd_ide_id);

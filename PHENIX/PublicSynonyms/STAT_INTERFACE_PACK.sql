@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM stat_interface_pack FOR phenix.stat_interface_pack;

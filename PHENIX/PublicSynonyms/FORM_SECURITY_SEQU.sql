@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM form_security_sequ FOR phenix.form_security_sequ;

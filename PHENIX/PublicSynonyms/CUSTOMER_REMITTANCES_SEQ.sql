@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_remittances_seq FOR phenix.customer_remittances_seq;

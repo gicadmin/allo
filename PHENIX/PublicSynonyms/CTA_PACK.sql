@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cta_pack FOR phenix.cta_pack;

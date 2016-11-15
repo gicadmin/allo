@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM srw FOR phenix.srw;

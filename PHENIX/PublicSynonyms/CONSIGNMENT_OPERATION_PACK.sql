@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM consignment_operation_pack FOR phenix.consignment_operation_pack;

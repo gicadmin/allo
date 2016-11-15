@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pgre_qty_fk_i ON phenix.product_group_exceptions(pgre_qty_code);

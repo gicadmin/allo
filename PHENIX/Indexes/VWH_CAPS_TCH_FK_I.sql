@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vwh_caps_tch_fk_i ON phenix.vendor_warehouses(vwh_caps_tch_locking_id);

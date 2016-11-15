@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM osm_operation_pack FOR phenix.osm_operation_pack;

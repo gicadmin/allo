@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_reception_pack FOR phenix.wms_reception_pack;

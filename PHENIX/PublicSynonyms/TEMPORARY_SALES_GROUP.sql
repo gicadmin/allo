@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_sales_group FOR phenix.temporary_sales_group;

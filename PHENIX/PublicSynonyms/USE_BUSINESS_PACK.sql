@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM use_business_pack FOR phenix.use_business_pack;

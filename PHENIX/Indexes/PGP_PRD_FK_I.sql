@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pgp_prd_fk_i ON phenix.purchasing_group_products(pgp_prd_code);

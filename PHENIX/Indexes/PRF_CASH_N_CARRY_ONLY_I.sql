@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prf_cash_n_carry_only_i ON phenix.product_formats(prf_cash_n_carry_only_switch);

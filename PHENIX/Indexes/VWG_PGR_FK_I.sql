@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vwg_pgr_fk_i ON phenix.vendor_warehouse_groups(vwg_pgr_code);

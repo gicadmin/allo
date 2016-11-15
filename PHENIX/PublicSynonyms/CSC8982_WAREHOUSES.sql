@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM csc8982_warehouses FOR phenix.csc8982_warehouses;

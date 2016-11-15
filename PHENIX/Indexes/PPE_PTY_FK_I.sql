@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ppe_pty_fk_i ON phenix.product_promo_exclusions(ppe_pty_code);

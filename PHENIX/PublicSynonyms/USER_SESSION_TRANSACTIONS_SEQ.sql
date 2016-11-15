@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_session_transactions_seq FOR phenix.user_session_transactions_seq;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vpd_pack FOR phenix.vpd_pack;

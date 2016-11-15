@@ -1,0 +1,1 @@
+CREATE INDEX phenix.trd_use_po_fk_i ON phenix.transfer_details(trd_use_po_recept_code);

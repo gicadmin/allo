@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transaction_by_lot_log_modifs FOR phenix.transaction_by_lot_log_modifs;

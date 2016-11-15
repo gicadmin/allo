@@ -1,0 +1,1 @@
+CREATE INDEX phenix.soa_cod_fk_i ON phenix.special_order_audits(soa_cod_coh_id,soa_cod_line_number);

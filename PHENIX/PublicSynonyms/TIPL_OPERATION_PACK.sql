@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tipl_operation_pack FOR phenix.tipl_operation_pack;

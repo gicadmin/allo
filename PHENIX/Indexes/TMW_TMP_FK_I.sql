@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tmw_tmp_fk_i ON phenix.temporary_multi_warehouses(tmw_tmp_tch_id,tmw_tmp_prd_code);

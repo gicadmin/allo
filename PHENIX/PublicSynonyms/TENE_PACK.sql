@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tene_pack FOR phenix.tene_pack;

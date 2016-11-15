@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM application_messages FOR phenix.application_messages;

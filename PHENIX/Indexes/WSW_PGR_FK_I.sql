@@ -1,0 +1,1 @@
+CREATE INDEX phenix.wsw_pgr_fk_i ON phenix.warehouse_source_warehouses(wsw_pgr_code);

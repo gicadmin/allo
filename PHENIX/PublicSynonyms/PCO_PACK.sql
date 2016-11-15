@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pco_pack FOR phenix.pco_pack;

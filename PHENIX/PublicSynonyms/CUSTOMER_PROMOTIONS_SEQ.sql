@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_promotions_seq FOR phenix.customer_promotions_seq;

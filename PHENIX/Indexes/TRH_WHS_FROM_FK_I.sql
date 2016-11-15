@@ -1,0 +1,1 @@
+CREATE INDEX phenix.trh_whs_from_fk_i ON phenix.transfer_headers(trh_whs_from_code);

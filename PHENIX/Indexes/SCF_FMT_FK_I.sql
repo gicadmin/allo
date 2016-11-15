@@ -1,0 +1,1 @@
+CREATE INDEX phenix.scf_fmt_fk_i ON phenix.stat_tracking_category_formats(scf_fmt_code);

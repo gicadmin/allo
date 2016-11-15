@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sge_interco_pack FOR phenix.sge_interco_pack;

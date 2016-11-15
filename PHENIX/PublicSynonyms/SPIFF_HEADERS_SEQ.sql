@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM spiff_headers_seq FOR phenix.spiff_headers_seq;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ovg_pack FOR phenix.ovg_pack;

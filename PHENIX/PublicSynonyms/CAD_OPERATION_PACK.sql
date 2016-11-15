@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cad_operation_pack FOR phenix.cad_operation_pack;

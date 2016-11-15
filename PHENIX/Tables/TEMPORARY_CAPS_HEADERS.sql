@@ -1,0 +1,35 @@
+CREATE TABLE phenix.temporary_caps_headers (
+  tch_id NUMBER(15) NOT NULL,
+  tch_current_use_code NUMBER(5) NOT NULL,
+  tch_buyer_use_code NUMBER(5) NOT NULL,
+  tch_current_date DATE NOT NULL,
+  tch_whs_code VARCHAR2(2 BYTE),
+  tch_ven_order_type VARCHAR2(3 BYTE) NOT NULL CONSTRAINT tch_ven_order_type_ck CHECK (TCH_VEN_ORDER_TYPE IN ('BRK', 'OTH', 'BSP')),
+  tch_spec_out_of_cycle_switch NUMBER(1) NOT NULL CONSTRAINT tch_spec_out_of_cycle_swi_ck CHECK (TCH_SPEC_OUT_OF_CYCLE_SWITCH IN (0, 1)),
+  tch_order_type VARCHAR2(2 BYTE) NOT NULL CONSTRAINT tch_order_type_ck CHECK (TCH_ORDER_TYPE IN ('NA', 'DC', 'FD')),
+  tch_delivery_date DATE NOT NULL,
+  tch_include_broker_prd_switch NUMBER(1) NOT NULL CONSTRAINT tch_include_broker_prd_swi_ck CHECK (TCH_INCLUDE_BROKER_PRD_SWITCH IN (0, 1)),
+  tch_include_other_prd_switch NUMBER(1) NOT NULL CONSTRAINT tch_include_other_prd_swi_ck CHECK (TCH_INCLUDE_OTHER_PRD_SWITCH IN (0, 1)),
+  tch_include_inactiv_prd_switch NUMBER(1) NOT NULL CONSTRAINT tch_include_inactiv_prd_swi_ck CHECK (TCH_INCLUDE_INACTIV_PRD_SWITCH IN (0, 1)),
+  tch_measurement_type VARCHAR2(2 BYTE) NOT NULL CONSTRAINT tch_measurement_type_ck CHECK (TCH_MEASUREMENT_TYPE IN ('MT', 'FT')),
+  tch_day_of_cycle NUMBER(1),
+  tch_week_of_cycle NUMBER(1),
+  tch_independent_switch NUMBER(1) NOT NULL CONSTRAINT tch_independent_swi_ck CHECK (TCH_INDEPENDENT_SWITCH IN (0, 1)),
+  tch_automatic_order_switch NUMBER(1) NOT NULL CONSTRAINT tch_automatic_order_swi_ck CHECK (TCH_AUTOMATIC_ORDER_SWITCH IN (0, 1)),
+  tch_individual_ven_code NUMBER(5),
+  tch_from_broker_ven_code NUMBER(5),
+  tch_to_broker_ven_code NUMBER(5),
+  tch_original_tch_id NUMBER(15),
+  tch_program_flag VARCHAR2(1 BYTE) NOT NULL CONSTRAINT tch_program_flag_ck CHECK (TCH_PROGRAM_FLAG IN ('C', 'M', 'F')),
+  CONSTRAINT tch_program_whs_ck CHECK (
+	(		(TCH_PROGRAM_FLAG IN ('C', 'F') AND TCH_WHS_CODE IS NOT NULL)
+	OR 	(TCH_PROGRAM_FLAG = 'M' AND TCH_WHS_CODE IS NULL))
+),
+  CONSTRAINT tch_pk PRIMARY KEY (tch_id),
+  CONSTRAINT tch_buyer_use_fk FOREIGN KEY (tch_buyer_use_code) REFERENCES phenix."USERS" (use_code) ON DELETE CASCADE,
+  CONSTRAINT tch_current_use_fk FOREIGN KEY (tch_current_use_code) REFERENCES phenix."USERS" (use_code) ON DELETE CASCADE,
+  CONSTRAINT tch_from_broker_ven_fk FOREIGN KEY (tch_from_broker_ven_code) REFERENCES phenix.vendors (ven_code) ON DELETE CASCADE,
+  CONSTRAINT tch_individual_ven_fk FOREIGN KEY (tch_individual_ven_code) REFERENCES phenix.vendors (ven_code) ON DELETE CASCADE,
+  CONSTRAINT tch_to_broker_ven_fk FOREIGN KEY (tch_to_broker_ven_code) REFERENCES phenix.vendors (ven_code) ON DELETE CASCADE,
+  CONSTRAINT tch_whs_fk FOREIGN KEY (tch_whs_code) REFERENCES phenix.warehouses (whs_code) ON DELETE CASCADE
+);

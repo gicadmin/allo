@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pss_operation_pack FOR phenix.pss_operation_pack;

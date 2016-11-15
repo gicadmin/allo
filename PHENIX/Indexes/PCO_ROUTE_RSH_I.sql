@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pco_route_rsh_i ON phenix.pallet_consolidations(pco_route_rsh_id);

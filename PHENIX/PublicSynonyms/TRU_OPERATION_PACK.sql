@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tru_operation_pack FOR phenix.tru_operation_pack;

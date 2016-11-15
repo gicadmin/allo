@@ -1,0 +1,1 @@
+CREATE INDEX phenix.shh_load_window_i ON phenix.shipment_headers(shh_load_window);

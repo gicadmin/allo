@@ -1,0 +1,1 @@
+CREATE INDEX phenix.coh_hold_sw_i ON phenix.customer_order_headers(coh_hold_switch);

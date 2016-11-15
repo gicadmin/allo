@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pro_operation_pack FOR phenix.pro_operation_pack;

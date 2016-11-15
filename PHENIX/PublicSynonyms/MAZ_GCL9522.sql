@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM maz_gcl9522 FOR phenix.maz_gcl9522;

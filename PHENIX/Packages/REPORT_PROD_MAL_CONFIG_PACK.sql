@@ -1,0 +1,7 @@
+CREATE OR REPLACE PACKAGE phenix.REPORT_PROD_MAL_CONFIG_PACK IS
+
+PROCEDURE rap_rentability_route_proc (
+	p_code_entrepot		IN VARCHAR2
+);
+END REPORT_PROD_MAL_CONFIG_PACK;
+/

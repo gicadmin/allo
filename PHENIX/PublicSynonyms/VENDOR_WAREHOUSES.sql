@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_warehouses FOR phenix.vendor_warehouses;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pod_prf_prebook_i ON phenix.purchase_order_details(pod_prf_prd_code,pod_prf_fmt_code,pod_prebook_flag,pod_status);

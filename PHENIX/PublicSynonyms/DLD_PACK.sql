@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dld_pack FOR phenix.dld_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.qty_pug_fk_i ON phenix.quotation_types(qty_pug_code);

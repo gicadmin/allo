@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vpa_pro_fk_i ON phenix.valid_parameters(vpa_pro_id);

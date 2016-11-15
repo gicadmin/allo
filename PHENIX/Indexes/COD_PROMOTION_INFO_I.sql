@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cod_promotion_info_i ON phenix.customer_order_details(cod_prf_prd_code,cod_prf_fmt_code,cod_pty_code);

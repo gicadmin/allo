@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM slau_operation_pack FOR phenix.slau_operation_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM report_prod_mal_config_pack FOR phenix.report_prod_mal_config_pack;

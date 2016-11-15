@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM extract_pack FOR phenix.extract_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_attribute_i ON phenix.products(prd_attribute);

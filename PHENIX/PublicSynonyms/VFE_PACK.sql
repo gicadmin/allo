@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vfe_pack FOR phenix.vfe_pack;

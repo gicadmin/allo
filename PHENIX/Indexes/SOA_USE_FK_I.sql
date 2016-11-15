@@ -1,0 +1,1 @@
+CREATE INDEX phenix.soa_use_fk_i ON phenix.special_order_audits(soa_use_code);

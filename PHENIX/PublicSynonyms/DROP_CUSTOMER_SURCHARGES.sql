@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM drop_customer_surcharges FOR phenix.drop_customer_surcharges;

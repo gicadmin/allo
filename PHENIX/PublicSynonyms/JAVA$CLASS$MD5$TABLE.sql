@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM java$class$md5$table FOR phenix.java$class$md5$table;

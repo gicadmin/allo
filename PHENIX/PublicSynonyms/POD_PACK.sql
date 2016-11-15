@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pod_pack FOR phenix.pod_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sgr_pack FOR phenix.sgr_pack;

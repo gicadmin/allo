@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vsip_prf_fk_i ON phenix.vendor_sales_incent_products(vsip_prf_prd_code,vsip_prf_fmt_code);

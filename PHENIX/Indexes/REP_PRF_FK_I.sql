@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rep_prf_fk_i ON phenix.replenishments(rep_prf_prd_code,rep_prf_fmt_code);

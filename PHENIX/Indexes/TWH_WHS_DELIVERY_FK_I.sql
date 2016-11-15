@@ -1,0 +1,1 @@
+CREATE INDEX phenix.twh_whs_delivery_fk_i ON phenix.transit_warehouse_headers(twh_whs_delivery_code);

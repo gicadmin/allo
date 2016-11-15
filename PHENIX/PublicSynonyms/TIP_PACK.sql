@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tip_pack FOR phenix.tip_pack;

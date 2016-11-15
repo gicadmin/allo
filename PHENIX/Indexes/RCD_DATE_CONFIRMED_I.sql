@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rcd_date_confirmed_i ON phenix.receipt_details(rcd_date_confirmed);

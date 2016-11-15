@@ -1,0 +1,1 @@
+CREATE INDEX phenix.ctr_caps_volume_rol_fk_i ON phenix.control(ctr_caps_volume_rol_code);

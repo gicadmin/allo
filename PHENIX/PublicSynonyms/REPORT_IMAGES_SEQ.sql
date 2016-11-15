@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM report_images_seq FOR phenix.report_images_seq;

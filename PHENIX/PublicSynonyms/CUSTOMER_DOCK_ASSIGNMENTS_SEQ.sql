@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_dock_assignments_seq FOR phenix.customer_dock_assignments_seq;

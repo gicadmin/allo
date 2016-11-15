@@ -1,0 +1,1 @@
+CREATE INDEX phenix.stw_use_fk_i ON phenix.stats_tracking_warehouses(stw_use_contact_code);

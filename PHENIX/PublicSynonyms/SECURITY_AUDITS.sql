@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM security_audits FOR phenix.security_audits;

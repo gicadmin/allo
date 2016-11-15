@@ -1,0 +1,1 @@
+CREATE INDEX phenix.jlo_jsc_fk_i ON phenix.job_logs(jlo_jsc_id);

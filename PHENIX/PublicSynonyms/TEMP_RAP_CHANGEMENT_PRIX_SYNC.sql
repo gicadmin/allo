@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_rap_changement_prix_sync FOR phenix.temp_rap_changement_prix_sync;

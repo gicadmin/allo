@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM bct_pack FOR phenix.bct_pack;

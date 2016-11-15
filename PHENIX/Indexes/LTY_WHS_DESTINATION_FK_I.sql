@@ -1,0 +1,1 @@
+CREATE INDEX phenix.lty_whs_destination_fk_i ON phenix.location_types(lty_whs_destination_code);

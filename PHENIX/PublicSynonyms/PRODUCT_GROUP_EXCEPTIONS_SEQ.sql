@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_group_exceptions_seq FOR phenix.product_group_exceptions_seq;

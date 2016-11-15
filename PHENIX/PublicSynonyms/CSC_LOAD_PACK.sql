@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM csc_load_pack FOR phenix.csc_load_pack;

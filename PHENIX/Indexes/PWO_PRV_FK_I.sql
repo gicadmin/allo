@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pwo_prv_fk_i ON phenix.public_whse_owners(pwo_prv_code);

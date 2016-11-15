@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM system_projects FOR phenix.system_projects;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM archived_transaction_addresses FOR phenix.archived_transaction_addresses;

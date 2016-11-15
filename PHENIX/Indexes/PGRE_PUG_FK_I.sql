@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pgre_pug_fk_i ON phenix.product_group_exceptions(pgre_pug_code);

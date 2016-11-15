@@ -1,0 +1,1 @@
+CREATE INDEX phenix.mca_mct_fk_i ON phenix.misc_charge_whs_accounts(mca_mct_code);

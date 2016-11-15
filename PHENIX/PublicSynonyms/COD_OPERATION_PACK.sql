@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cod_operation_pack FOR phenix.cod_operation_pack;

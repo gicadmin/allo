@@ -1,0 +1,8 @@
+CREATE OR REPLACE PACKAGE phenix.PMS_OPERATION_PACK IS
+
+FUNCTION DOES_MAIN_PMS_ID_EXISTS_FUNC(
+  p_pms_pmo_code  IN pallet_model_specifics.pms_pmo_code%TYPE
+)RETURN NUMBER;
+
+END PMS_OPERATION_PACK;
+/

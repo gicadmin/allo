@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mad_operation_pack FOR phenix.mad_operation_pack;

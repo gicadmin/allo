@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM generate_route_pack FOR phenix.generate_route_pack;

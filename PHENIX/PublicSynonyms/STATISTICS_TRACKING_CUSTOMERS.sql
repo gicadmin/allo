@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM statistics_tracking_customers FOR phenix.statistics_tracking_customers;

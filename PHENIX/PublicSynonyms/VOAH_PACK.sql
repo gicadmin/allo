@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM voah_pack FOR phenix.voah_pack;

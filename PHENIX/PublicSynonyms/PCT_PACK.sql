@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pct_pack FOR phenix.pct_pack;

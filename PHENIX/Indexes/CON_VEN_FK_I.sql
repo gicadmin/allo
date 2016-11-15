@@ -1,0 +1,1 @@
+CREATE INDEX phenix.con_ven_fk_i ON phenix.contacts(con_ven_code);

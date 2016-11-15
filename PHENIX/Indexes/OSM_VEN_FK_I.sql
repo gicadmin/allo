@@ -1,0 +1,1 @@
+CREATE INDEX phenix.osm_ven_fk_i ON phenix.outstanding_missions(osm_ven_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM caps_operation_pack FOR phenix.caps_operation_pack;

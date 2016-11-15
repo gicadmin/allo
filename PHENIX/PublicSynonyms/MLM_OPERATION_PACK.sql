@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mlm_operation_pack FOR phenix.mlm_operation_pack;

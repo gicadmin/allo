@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pwid_pack FOR phenix.pwid_pack;

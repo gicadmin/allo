@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tom_pack FOR phenix.tom_pack;

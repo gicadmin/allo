@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fmt_operation_pack FOR phenix.fmt_operation_pack;

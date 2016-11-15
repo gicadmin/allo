@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pmh_pickup_loc_code_fk_i ON phenix.pick_mission_headers(pmh_pickup_loc_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cus_pack FOR phenix.cus_pack;

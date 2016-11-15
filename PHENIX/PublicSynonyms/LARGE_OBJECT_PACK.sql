@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM large_object_pack FOR phenix.large_object_pack;

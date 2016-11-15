@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM int_seq FOR phenix.int_seq;

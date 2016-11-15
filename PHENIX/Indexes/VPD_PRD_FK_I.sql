@@ -1,0 +1,1 @@
+CREATE INDEX phenix.vpd_prd_fk_i ON phenix.vendor_products(vpd_prd_code);

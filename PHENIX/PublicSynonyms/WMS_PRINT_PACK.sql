@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_print_pack FOR phenix.wms_print_pack;

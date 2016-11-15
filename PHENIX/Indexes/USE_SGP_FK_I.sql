@@ -1,0 +1,1 @@
+CREATE INDEX phenix.use_sgp_fk_i ON phenix."USERS"(use_sgr_code);

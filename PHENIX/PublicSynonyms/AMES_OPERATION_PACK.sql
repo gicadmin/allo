@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ames_operation_pack FOR phenix.ames_operation_pack;

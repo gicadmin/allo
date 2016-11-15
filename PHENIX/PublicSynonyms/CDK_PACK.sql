@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cdk_pack FOR phenix.cdk_pack;

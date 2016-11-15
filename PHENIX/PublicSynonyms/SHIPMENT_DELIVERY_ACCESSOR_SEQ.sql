@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM shipment_delivery_accessor_seq FOR phenix.shipment_delivery_accessor_seq;

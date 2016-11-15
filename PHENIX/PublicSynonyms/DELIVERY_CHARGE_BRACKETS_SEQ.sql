@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM delivery_charge_brackets_seq FOR phenix.delivery_charge_brackets_seq;

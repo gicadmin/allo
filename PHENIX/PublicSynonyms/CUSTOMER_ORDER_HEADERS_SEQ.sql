@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_order_headers_seq FOR phenix.customer_order_headers_seq;

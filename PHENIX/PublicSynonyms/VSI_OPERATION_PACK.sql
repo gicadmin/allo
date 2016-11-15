@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vsi_operation_pack FOR phenix.vsi_operation_pack;

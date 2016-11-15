@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pallet_transaction_headers FOR phenix.pallet_transaction_headers;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_public_whse_transactions FOR phenix.v_public_whse_transactions;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dtr_seq FOR phenix.dtr_seq;

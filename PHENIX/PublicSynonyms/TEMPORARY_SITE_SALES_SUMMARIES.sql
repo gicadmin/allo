@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_site_sales_summaries FOR phenix.temporary_site_sales_summaries;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pdi_ven_fk_i ON phenix.purchase_order_discounts(pdi_ven_code);

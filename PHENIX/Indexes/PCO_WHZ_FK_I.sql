@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pco_whz_fk_i ON phenix.pallet_consolidations(pco_whz_code);

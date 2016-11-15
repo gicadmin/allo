@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wms_loading_pack FOR phenix.wms_loading_pack;

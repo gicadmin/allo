@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rma_operation_pack FOR phenix.rma_operation_pack;

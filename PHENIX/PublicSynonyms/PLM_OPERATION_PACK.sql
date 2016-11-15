@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM plm_operation_pack FOR phenix.plm_operation_pack;

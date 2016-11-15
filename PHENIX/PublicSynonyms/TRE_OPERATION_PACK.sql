@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tre_operation_pack FOR phenix.tre_operation_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.tci_whs_fk_i ON phenix.temporary_caps_intercos(tci_whs_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM xref_grids FOR phenix.xref_grids;

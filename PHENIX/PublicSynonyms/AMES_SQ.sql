@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ames_sq FOR phenix.ames_sq;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.scsc_vgr_fk_i ON phenix.site_contract_sale_commitments(scsc_vgr_code);

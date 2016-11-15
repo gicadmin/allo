@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sli_pack FOR phenix.sli_pack;

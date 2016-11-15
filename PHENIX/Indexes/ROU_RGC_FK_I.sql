@@ -1,0 +1,1 @@
+CREATE INDEX phenix.rou_rgc_fk_i ON phenix.routes(rou_rgc_code);

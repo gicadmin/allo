@@ -1,0 +1,1 @@
+CREATE INDEX phenix.whs_transit_loc_fk_i ON phenix.warehouses(whs_transit_loc_code);

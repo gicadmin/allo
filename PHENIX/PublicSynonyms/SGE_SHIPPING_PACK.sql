@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sge_shipping_pack FOR phenix.sge_shipping_pack;

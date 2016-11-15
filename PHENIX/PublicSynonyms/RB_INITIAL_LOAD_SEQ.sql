@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rb_initial_load_seq FOR phenix.rb_initial_load_seq;

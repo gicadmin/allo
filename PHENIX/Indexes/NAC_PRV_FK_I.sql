@@ -1,0 +1,1 @@
+CREATE INDEX phenix.nac_prv_fk_i ON phenix.national_accounts(nac_prv_code);

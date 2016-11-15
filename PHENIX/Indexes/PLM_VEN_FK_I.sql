@@ -1,0 +1,1 @@
+CREATE INDEX phenix.plm_ven_fk_i ON phenix.product_log_modifs(plm_ven_code);

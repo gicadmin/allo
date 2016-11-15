@@ -1,0 +1,1 @@
+CREATE INDEX phenix.spa_sty_fk_i ON phenix.system_parameters(spa_sty_id);

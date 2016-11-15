@@ -1,0 +1,1 @@
+CREATE INDEX phenix.prd_season_i ON phenix.products(prd_season_start,prd_season_end);

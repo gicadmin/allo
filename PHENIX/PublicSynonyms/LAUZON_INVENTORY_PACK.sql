@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lauzon_inventory_pack FOR phenix.lauzon_inventory_pack;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fbi_pack FOR phenix.fbi_pack;

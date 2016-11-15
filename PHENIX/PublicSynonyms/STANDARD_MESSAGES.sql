@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM standard_messages FOR phenix.standard_messages;

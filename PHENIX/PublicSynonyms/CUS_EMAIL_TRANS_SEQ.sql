@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cus_email_trans_seq FOR phenix.cus_email_trans_seq;

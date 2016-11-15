@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpy_pty_fk_i ON phenix.customer_promotion_types(cpy_pty_code);

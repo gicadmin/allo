@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM classes FOR phenix.classes;

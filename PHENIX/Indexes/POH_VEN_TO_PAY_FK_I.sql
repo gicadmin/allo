@@ -1,0 +1,1 @@
+CREATE INDEX phenix.poh_ven_to_pay_fk_i ON phenix.purchase_order_headers(poh_ven_to_pay_code);

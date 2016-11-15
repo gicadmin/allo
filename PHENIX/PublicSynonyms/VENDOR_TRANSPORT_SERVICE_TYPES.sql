@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_transport_service_types FOR phenix.vendor_transport_service_types;

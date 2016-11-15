@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pul_rou_fk_i ON phenix.phenix_user_locks(pul_rou_code);

@@ -1,0 +1,21 @@
+CREATE TABLE phenix.validate_oa_tpa_agreements (
+  vota_sender_id VARCHAR2(3 BYTE),
+  vota_ven_code NUMBER(5),
+  vota_agreement_id VARCHAR2(9 BYTE),
+  vota_qualifier VARCHAR2(4 BYTE),
+  vota_description VARCHAR2(40 BYTE),
+  vota_alt_description VARCHAR2(40 BYTE),
+  vota_cus_code VARCHAR2(10 BYTE),
+  vota_vendor_customer_code VARCHAR2(10 BYTE),
+  vota_corresponding_cus_code NUMBER(10),
+  vota_vpd_code VARCHAR2(5 BYTE),
+  vota_prd_code VARCHAR2(10 BYTE),
+  vota_vendor_format VARCHAR2(3 BYTE),
+  vota_fmt_code VARCHAR2(7 BYTE),
+  vota_start_date VARCHAR2(8 BYTE),
+  vota_end_date VARCHAR2(8 BYTE),
+  vota_amount VARCHAR2(6 BYTE),
+  vota_ccr_code NUMBER(5),
+  vota_printed_switch NUMBER(1) DEFAULT 0 NOT NULL CONSTRAINT vota_printed_switch_ck CHECK (VOTA_PRINTED_SWITCH IN (0, 1)),
+  CONSTRAINT vota_ccr_fk FOREIGN KEY (vota_ccr_code) REFERENCES phenix.error_codes (ccr_code)
+);

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pod_pod_fk_i ON phenix.purchase_order_details(pod_pod_poh_id,pod_pod_line_number);

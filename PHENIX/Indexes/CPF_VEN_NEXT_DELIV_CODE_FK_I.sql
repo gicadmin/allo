@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cpf_ven_next_deliv_code_fk_i ON phenix.customer_profiles(cpf_ven_next_delivery_code);

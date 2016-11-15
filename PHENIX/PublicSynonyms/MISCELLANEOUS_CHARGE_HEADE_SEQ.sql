@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM miscellaneous_charge_heade_seq FOR phenix.miscellaneous_charge_heade_seq;

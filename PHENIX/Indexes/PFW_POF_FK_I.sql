@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pfw_pof_fk_i ON phenix.product_format_warehouses(pfw_pof_code);

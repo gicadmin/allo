@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pci_management_pack FOR phenix.pci_management_pack;

@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cnd_prv_fk_i ON phenix.consignment_details(cnd_prv_code);

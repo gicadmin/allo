@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_customer_price_lists FOR phenix.temporary_customer_price_lists;

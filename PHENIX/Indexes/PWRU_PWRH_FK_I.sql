@@ -1,0 +1,1 @@
+CREATE INDEX phenix.pwru_pwrh_fk_i ON phenix.public_whse_receipt_users(pwru_pwrh_id);

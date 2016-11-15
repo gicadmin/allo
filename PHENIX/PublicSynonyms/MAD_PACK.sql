@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mad_pack FOR phenix.mad_pack;

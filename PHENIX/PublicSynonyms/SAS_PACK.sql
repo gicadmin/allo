@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sas_pack FOR phenix.sas_pack;

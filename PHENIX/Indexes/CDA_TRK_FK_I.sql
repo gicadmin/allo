@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cda_trk_fk_i ON phenix.customer_dock_assignments(cda_trk_code);

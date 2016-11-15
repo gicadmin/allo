@@ -1,0 +1,1 @@
+CREATE INDEX phenix.cre_latest_use_fk_i ON phenix.cash_registers(cre_latest_use_code);

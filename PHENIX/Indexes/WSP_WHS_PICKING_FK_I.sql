@@ -1,0 +1,1 @@
+CREATE INDEX phenix.wsp_whs_picking_fk_i ON phenix.warehouse_sellable_products(wsp_whs_picking_code);

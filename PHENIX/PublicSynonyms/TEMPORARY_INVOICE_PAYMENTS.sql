@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temporary_invoice_payments FOR phenix.temporary_invoice_payments;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_histories FOR phenix.customer_histories;

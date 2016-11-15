@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nac_catalog_headers FOR phenix.nac_catalog_headers;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transit_operation_pack FOR phenix.transit_operation_pack;

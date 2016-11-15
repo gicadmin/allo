@@ -1,0 +1,1 @@
+CREATE INDEX phenix.inm_dmr_fk_i ON phenix.inventory_movements(inm_dmr_code);

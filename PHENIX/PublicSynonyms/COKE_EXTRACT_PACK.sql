@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM coke_extract_pack FOR phenix.coke_extract_pack;

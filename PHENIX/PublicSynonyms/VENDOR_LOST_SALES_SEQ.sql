@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vendor_lost_sales_seq FOR phenix.vendor_lost_sales_seq;

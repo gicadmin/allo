@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM index_util FOR phenix.index_util;
