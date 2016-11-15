@@ -14,6 +14,7 @@ CREATE TABLE phenix.locations (
   loc_pof_code NUMBER(2),
   loc_order VARCHAR2(1 BYTE) CONSTRAINT loc_order_ck CHECK (loc_order IN ('A','D')),
   loc_position_skip_switch NUMBER(1) DEFAULT 0 NOT NULL CONSTRAINT loc_position_skip_switch_ck CHECK (LOC_POSITION_SKIP_SWITCH IN (0,1)),
+  CONSTRAINT loc_alt_code_uk UNIQUE (loc_alt_code),
   CONSTRAINT loc_pk PRIMARY KEY (loc_code),
   CONSTRAINT loc_lty_fk FOREIGN KEY (loc_lty_code) REFERENCES phenix.location_types (lty_code),
   CONSTRAINT loc_pof_fk FOREIGN KEY (loc_pof_code) REFERENCES phenix.positioning_families (pof_code),
